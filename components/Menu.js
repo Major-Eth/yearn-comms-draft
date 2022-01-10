@@ -26,67 +26,39 @@ function	MenuItems() {
 		<div className={'w-64.5'}>
 			<MenuItem
 				className={'mb-2 md:mb-4'}
-				label={common['menu-overview']}
+				label={common['menu-main']}
 				condition={router.pathname === '/'}
 				href={'/'} />
 			<MenuItem
 				className={'mb-2 md:mb-4'}
-				label={common['menu-yearn-curve']}
-				condition={router.pathname === '/yearn-and-curve'}
-				href={'/yearn-and-curve'} />
-			<div className={'ml-4 space-y-2 md:space-y-4 mb-4 md:mb-8'}>
-				<MenuItem
-					className={'mb-4 md:mb-8'}
-					label={common['menu-curve-boost-multiplier']}
-					condition={router.pathname === '/curve-boost-multipliers'}
-					href={'/curve-boost-multipliers'} />
-			</div>
-
-			<p className={'text-ygray-400 dark:text-dark-200 mb-2 md:mb-4'}>{'Ethereum'}</p>
-			<div className={'ml-4 space-y-2 md:space-y-4 mb-4 md:mb-8'}>
-				<MenuItem
-					label={common['menu-stables']}
-					condition={router.pathname === '/ethereum/stables'}
-					href={'/ethereum/stables'} />
-				<MenuItem
-					label={common['menu-defi-tokens']}
-					condition={router.pathname === '/ethereum/defi-tokens'}
-					href={'/ethereum/defi-tokens'} />
-				<MenuItem
-					label={common['menu-curve-pools']}
-					condition={router.pathname === '/ethereum/curve-pools'}
-					href={'/ethereum/curve-pools'} />
-				<MenuItem
-					label={common['menu-retired-vaults']}
-					condition={router.pathname === '/ethereum/retired-vaults'}
-					href={'/ethereum/retired-vaults'} />
-				<div className={'ml-4 space-y-2 md:space-y-4 mb-4 md:mb-8'}>
-					<MenuItem
-						label={common['menu-v1-vaults']}
-						condition={router.pathname === '/ethereum/v1-vaults'}
-						href={'/ethereum/v1-vaults'} />
-				</div>
-			</div>
-
-
-			<p className={'text-ygray-400 dark:text-dark-200 mb-2 md:mb-4'}>{'Fantom'}</p>
-			<div className={'ml-4 space-y-2 md:space-y-4 mb-4 md:mb-8'}>
-				<MenuItem
-					label={common['menu-stables']}
-					condition={router.pathname === '/fantom/stables'}
-					href={'/fantom/stables'} />
-				<MenuItem
-					label={common['menu-defi-tokens']}
-					condition={router.pathname === '/fantom/defi-tokens'}
-					href={'/fantom/defi-tokens'} />
-				<MenuItem
-					label={common['menu-curve-pools']}
-					condition={router.pathname === '/fantom/curve-pools'}
-					href={'/fantom/curve-pools'} />
-				<MenuItem
-					label={common['menu-retired-vaults']}
-					condition={router.pathname === '/fantom/retired-vaults'}
-					href={'/fantom/retired-vaults'} />
+				label={common['menu-announcements']}
+				condition={router.pathname.startsWith('/announcements')}
+				href={'/announcements'} />
+			<MenuItem
+				className={'mb-2 md:mb-4'}
+				label={common['menu-newsletters']}
+				condition={router.pathname.startsWith('/newsletters')}
+				href={'/newsletters'} />
+			<MenuItem
+				className={'mb-2 md:mb-4'}
+				label={common['menu-tweets']}
+				condition={router.pathname.startsWith('/tweets')}
+				href={'/tweets'} />
+			<MenuItem
+				className={'mb-2 md:mb-4'}
+				label={common['menu-articles']}
+				condition={router.pathname.startsWith('/articles')}
+				href={'/articles'} />
+			<MenuItem
+				className={'mb-4 md:mb-8'}
+				label={common['menu-financials']}
+				condition={router.pathname.startsWith('/financials')}
+				href={'/financials'} />
+			
+			<div className={'text-ygray-200 dark:text-dark-50 cursor-pointer relative w-full'}>
+				<a href={'https://yearn.finance'} target={'_blank'} rel={'noreferrer'}>
+					{common['menu-go-to-app']}
+				</a>
 			</div>
 		</div>
 	);
@@ -135,8 +107,8 @@ function	Menu() {
 							<h1
 								ref={head}
 								className={'text-ygray-100 dark:text-white font-bold mb-6 md:mb-10 pt-6 md:pt-8 cursor-pointer'}>
-								{'The Vaults at '}
 								<span className={'text-yblue'}>{'Yearn'}</span>
+								{' Blog'}
 							</h1>
 						</Link>
 
@@ -158,7 +130,18 @@ function	Menu() {
 					</div>
 					<div className={'hidden md:flex mt-auto mb-10 flex-row items-center justify-between'}>
 						<div className={'flex space-x-4 flex-row items-center'}>
-							{
+							<select
+								value={language}
+								className={'m-0 mr-1 px-3 py-2 items-center cursor-pointer whitespace-nowrap border border-solid border-ygray-500 dark:border-dark-600 text-xs bg-white dark:bg-dark-600 font-semibold text-ygray-700 dark:text-dark-50 pr-7 flex'}
+								onChange={(e) => {
+									router.push(router.pathname, router.asPath, {locale: e.target.value});
+									set_language(e.target.value);
+								}}>
+								{Object.values(LOCALES).map((lang, index) => (
+									<option className={'cursor-pointer'} key={index} value={lang.code}>{lang.name}</option>
+								))}
+							</select>
+							{/* {
 								Object.values(LOCALES).map((lang) => {
 									if (lang.code === language) {
 										return (
@@ -170,13 +153,16 @@ function	Menu() {
 									return (
 										<div
 											key={lang.symbol}
-											onClick={() => set_language(lang.code)}
+											onClick={() => {
+												router.push(router.pathname, router.asPath, {locale: lang.code});
+												set_language(lang.code);
+											}}
 											className={'text-ygray-200 text-sm cursor-pointer'}>
 											{lang.symbol}
 										</div>
 									);
 								})
-							}
+							} */}
 						</div>
 						<div className={'flex space-x-4 flex-row items-center mr-8'}>
 							<svg
