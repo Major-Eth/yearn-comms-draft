@@ -18,10 +18,10 @@ function	AppWrapper(props) {
 	return (
 		<>
 			<Head>
-				<title>{'Strategies Registry'}</title>
+				<title>{'Yearn Comms'}</title>
 				<meta httpEquiv={'X-UA-Compatible'} content={'IE=edge'} />
 				<meta name={'viewport'} content={'width=device-width, initial-scale=1'} />
-				<meta name={'description'} content={'The Vaults at Yearn'} />
+				<meta name={'description'} content={'Yearn Comms'} />
 				<meta name={'msapplication-TileColor'} content={'#62688F'} />
 				<meta name={'theme-color'} content={'#ffffff'} />
 				<meta charSet={'utf-8'} />
@@ -42,16 +42,16 @@ function	AppWrapper(props) {
 				<meta charSet={'utf-8'} />
 			</Head>
 			<DefaultSeo
-				title={'The Vaults at Yearn'}
-				defaultTitle={'The Vaults at Yearn'}
-				description={'The Vaults at Yearn'}
+				title={'Yearn Comms'}
+				defaultTitle={'Yearn Comms'}
+				description={'Yearn Comms'}
 				openGraph={{
 					type: 'website',
 					locale: 'en_US',
 					url: WEBSITE_URI,
-					site_name: 'The Vaults at Yearn',
-					title: 'The Vaults at Yearn',
-					description: 'The Vaults at Yearn',
+					site_name: 'Yearn Comms',
+					title: 'Yearn Comms',
+					description: 'Yearn Comms',
 					images: [
 						{
 							url: `${WEBSITE_URI}og.png`,
