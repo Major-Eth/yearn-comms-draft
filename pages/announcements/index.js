@@ -19,6 +19,7 @@ function	Index({allPosts}) {
 										<div className={'border-b border-ygray-500 flex w-72'}>
 											<Image
 												src={post?.image?.src || '/default.jpeg'}
+												loading={'eager'}
 												className={'masonry-image'}
 												width={post?.image?.width || 800}
 												height={post?.image?.height || 445}
