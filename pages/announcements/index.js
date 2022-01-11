@@ -18,11 +18,10 @@ function	Index({allPosts}) {
 											<Image
 												src={post?.image?.src || '/default.jpeg'}
 												objectFit={'cover'}
+												loading={'eager'}
 												className={'masonry-image'}
 												width={post?.image?.width || 800}
-												height={post?.image?.height || 445}
-
-											/>
+												height={post?.image?.height || 445} />
 										</div>
 										<div className={'bg-white p-4'}>
 											<div className={'flex flex-row justify-between w-full mb-2'}>
