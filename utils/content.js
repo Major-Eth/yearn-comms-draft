@@ -27,8 +27,13 @@ export function getPostBySlug(dir, slug, fields = [], locale, withFallback) {
 	
 				if (data[field]) {
 					if (field === 'image') {
-						if (data[field].startsWith('./')) {
-							items[field] = data[field].replace('./', `/_posts/${dir}/${realSlug}/`);
+						const {src, width, height} = data[field];
+						if ((src || '').startsWith('./')) {
+							items[field] = {
+								src: src.replace('./', `/_posts/${dir}/${realSlug}/`),
+								width,
+								height
+							};
 						}
 					} else {
 						items[field] = data[field];
