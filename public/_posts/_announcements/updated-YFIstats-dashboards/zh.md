@@ -4,8 +4,8 @@ title:  "YFIStats仪表板更新"
 categories: [ Annoucements ]
 image:
   src: ./cover.jpg
-  width: 1280
-  height: 707
+  width: 576
+  height: 318
 author: Yearn
 date: '2021-09-30'
 translator: Bee926

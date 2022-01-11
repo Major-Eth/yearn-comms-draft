@@ -2,7 +2,10 @@
 layout: post
 title:  "जीरो नॉलेज पॉडकास्ट"
 categories: [ Annoucements ]
-image: ./cover.png
+image:
+  src: ./cover.jpg
+  width: 144
+  height: 144
 author: Yearn
 date: '2021-05-05'
 translator: jengajojo

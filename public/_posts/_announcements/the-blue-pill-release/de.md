@@ -4,8 +4,8 @@ title:  "Veröffentlichung der Blauen Pille"
 categories: [ Annoucements ]
 image:
   src: ./cover.jpg
-  width: 1030
-  height: 1280
+  width: 644
+  height: 800
 author: Yearn
 date: '2021-08-03'
 translator: Nesyeth

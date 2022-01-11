@@ -4,8 +4,8 @@ title:  "Présentation de Deposit Together: Faites des économies lors de vos d�
 categories: [ Annoucements ]
 image:
   src: ./cover.jpg
-  width: 1834
-  height: 1062
+  width: 576
+  height: 344
 author: Yearn
 date: '2021-11-01'
 translator: Cryptouf
