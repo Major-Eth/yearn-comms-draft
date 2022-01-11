@@ -4,8 +4,8 @@ title:  "Null Wissen Podcast"
 categories: [ Annoucements ]
 image:
   src: ./cover.jpg
-  width: 144
-  height: 144
+  width: 576
+  height: 320
 author: Yearn
 date: '2021-05-05'
 translator:

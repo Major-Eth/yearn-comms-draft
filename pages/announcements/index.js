@@ -3,23 +3,21 @@ import	Link					from	'next/link';
 import	Image					from	'next/image';
 import	{parseMarkdownUnset}	from	'utils';
 import	{getAllPosts}			from	'utils/content';
-import	useScript				from	'hooks/useScript';
 
 function	Index({allPosts}) {
-	useScript('/masonry.js');
 	return (
 		<section>
 			<div className={'w-full mt-10 md:mt-20 pt-2'}>
 				<div className={'flex flex-col '}>
-					<div className={'mb-8 grid grid-cols-3 gap-4 masonry'}>
+					<div className={'mb-8 masonry sm:masonry-sm md:masonry-md'}>
 						{allPosts.map((post) => (
-							<div className={'masonry-item'} key={post.slug}>
+							<div className={'break-inside mb-4'} key={post.slug}>
 								<Link href={`/announcements/${post.slug}`}>
-									<div className={'w-full bg-white cursor-pointer hover:shadow-md transition-shadow masonry-content'}>
-										<div className={'border-b border-ygray-500 flex w-72'}>
+									<div className={'w-full bg-white cursor-pointer hover:shadow-md transition-shadow'}>
+										<div className={'border-b border-ygray-500 flex w-full'}>
 											<Image
 												src={post?.image?.src || '/default.jpeg'}
-												loading={'eager'}
+												objectFit={'cover'}
 												className={'masonry-image'}
 												width={post?.image?.width || 800}
 												height={post?.image?.height || 445}
@@ -49,13 +47,29 @@ function	Index({allPosts}) {
 export default Index;
 
 export const getStaticProps = async ({locale}) => {
-	const allPosts = getAllPosts(
+	const _allPosts = getAllPosts(
 		'_announcements',
 		['title', 'date', 'slug', 'author', 'image'],
 		locale
 	);
 
+	const	col1 = [];
+	const	col2 = [];
+	const	col3 = [];
+	for (let index = 0; index < _allPosts.length; index += 3) {
+		let		rIndex = index;
+
+		if (_allPosts[rIndex]) {
+			col1.push(_allPosts[rIndex]);
+		}
+		if (_allPosts[rIndex + 1]) {
+			col2.push(_allPosts[rIndex + 1]);
+		}
+		if (_allPosts[rIndex + 2]) {
+			col3.push(_allPosts[rIndex + 2]);
+		}
+	}
 	return {
-		props: {allPosts, locale},
+		props: {allPosts: [...col1, ...col2, ...col3], locale},
 	};
 };

@@ -12,7 +12,7 @@ translator: 🤖💵💵💰💰.eth
 publish: true
 ---
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-41/image1_newsletter_header_vn.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-41/image1.jpg
 
 # Bản tin Yearn.Finance Số #41
 

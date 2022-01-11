@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 * {
 	scroll-behavior: smooth;
 }
@@ -67,26 +71,26 @@ html {
 	display: inline;
 }
 
-.masonry {
-    display: grid;
-    grid-template-columns: repeat(1, minmax(100px, 1fr));
-    grid-gap: 17px;
-    grid-auto-rows: 0;
-}
+@layer utilities {
+    @variants responsive {
+        .masonry {
+            column-gap: 1rem;
+			row-gap: 1rem;
+            column-count: 1;
+        }
+        .masonry-sm {
+            column-gap: 1rem;
+			row-gap: 1rem;
+            column-count: 2;
+        }
+        .masonry-md {
+            column-gap: 1rem;
+			row-gap: 1rem;
+            column-count: 3;
+        }
+        .break-inside {
+            break-inside: avoid;
+        }
 
-@media only screen and (max-width: 1023px) and (min-width: 768px) {
-    .masonry {
-        grid-template-columns: repeat(2, minmax(100px, 1fr));
     }
-}
-
-@media only screen and (min-width: 1024px) {
-    .masonry {
-        grid-template-columns: repeat(3, minmax(100px, 1fr));
-    }
-}
-
-.masonry-item,
-.masonry-content {
-    overflow: hidden;
 }
