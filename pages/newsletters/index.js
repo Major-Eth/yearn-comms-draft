@@ -18,6 +18,7 @@ function	Index({allPosts}) {
 											<Image
 												src={post?.image?.src || '/default.jpeg'}
 												objectFit={'cover'}
+												loading={'eager'}
 												width={post?.image?.width || 800}
 												height={post?.image?.height || 445}
 
