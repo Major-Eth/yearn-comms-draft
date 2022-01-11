@@ -29,7 +29,7 @@ Chào mừng các bạn đến với Bản tin Yearn.Finance Số #43! Chúng t�
 
 ## **YIP-63: Tài trợ ĐAO Pháp lý Dẫn-đầu-bởi-Cộng-đồng-Phát-triển**
 
-![](/_newsletters/Yearn-Finance-Newsletter-43/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-43/image2.jpg)
 
 Giữa bối cảnh nhiều cơ quan lập-hành pháp các nước tăng cường soi xét DeFi (phát âm "Đê-Phi" hay "Đì-Phai"), một số tiếng nói lớn đã tin tưởng đề xuất LeXpunK_DAO trở thành tổ chức vận động pháp lý cho Yearn cũng như bao cộng đồng DeFi khác (có chung lý tưởng trung tâm xoay quanh cái "gốc" vững chắc là lập trình viên). LeXpunK_DAO sẽ được quản trị bởi lực lượng xây dựng cốt cán của các cộng đồng thành viên đóng góp (gồm cả Yearn) và nhiều luật sư hành nghề từ LeXpunK&nbsp;Army&nbsp;146.
 
@@ -43,7 +43,7 @@ YIP này đã được duyệt. Bạn có thể xem kết quả [tại đây](ht
 
 ## **Alchemix Di chuyển sang Yearn v2**
 
-![](/_newsletters/Yearn-Finance-Newsletter-43/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-43/image3.jpg)
 
 Alchemix đã di chuyển thành công sang yvDAI mới nhất. Gợn sóng "nhỏ" trên biểu đồ là 400 triệu đô-la Mỹ từ các kho bạc (vault) v1 sang v2. Chúng tôi tự hào là giao thức nền (hậu trường) mang lại lãi suất hàng đầu DeFi.
 
@@ -53,7 +53,7 @@ Xem ngay các Kho bạc (Vault) [tại đây](https://yearn.finance/vaults).
 
 ## **YFI Chính thức Xuất hiện trong Compound.Finance**
 
-![](/_newsletters/Yearn-Finance-Newsletter-43/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-43/image4.jpg)
 
 YFI đã chính thức trở thành một thị trường ở Compound.Finance. Hiện tại, hệ số thế chấp là 0 (ban đầu), cùng mô hình lãi suất (như COMP/LINK) và hệ số dự trữ 25% cho mỗi thị trường (theo chuẩn phổ biến). Trong tương lai gần, hệ số thế chấp sẽ tăng lên, người dùng có thể cung cấp YFI trên Compound và vay tiền/coin bằng YFI thế chấp. Điều này sẽ giúp các chiến lược gia Yearn có khả năng tạo ra một chiến lược "cày" YFI tương tự như bản hiện tại trong kho bạc đang tận dụng MakerDAO. Kết quả, người dùng có cơ hội nhận thêm lãi suất. Đọc thêm về chiến lược MakerDAO [tại đây](https://yearn.fi/invest/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1).
 

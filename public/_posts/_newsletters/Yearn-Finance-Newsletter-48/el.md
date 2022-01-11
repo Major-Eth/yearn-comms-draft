@@ -16,7 +16,7 @@ publish: true
 
 ### Εβδομάδα Οκτωβρίου 10, 2021
 
-![](/_newsletters/Yearn-Finance-Newsletter-48/image1.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image1.jpg)
 
 Καλώς ήρθατε στην 48η έκδοση του ενημερωτικού δελτίου του Yearn Finance. Στόχος μας με αυτό το ενημερωτικό δελτίο είναι να ενημερώνουμε το Yearn και την ευρύτερη κοινότητα κρυπτονομισμάτων για τα τελευταία νέα, συμπεριλαμβανομένων των νέων προϊόντων, των αλλαγών διακυβέρνησης και των ενημερώσεων του οικοσυστήματος. Εάν ενδιαφέρεστε να μάθετε περισσότερα για το Yearn Finance, ακολουθήστε τους επίσημους λογαριασμούς μας [Twitter](https://twitter.com/iearnfinance) και [Medium](https://medium.com/iearn).
 
@@ -39,7 +39,7 @@ publish: true
 
 ## Το Yearn πηγαίνει multichain με το Fantom
 
-![](/_newsletters/Yearn-Finance-Newsletter-48/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image2.jpg)
 
 Το βασίλειο του Multichain καλεί. Και το yearn έχει λάβει υπόψη την κλήση.
 
@@ -65,7 +65,7 @@ Tα πρώτα θυσαυροφυλάκια στο Fantom είναι: YVWFTM, YV
 
 ## Το Yearn φτάνει τα $ 5B TVL (και πάλι)
 
- ![](/_newsletters/Yearn-Finance-Newsletter-48/image3.jpg)
+ ![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image3.jpg)
 
 Η συνολική αξία που είναι κλειδωμένη σε όλα τα προϊόντα του Yearn έχει ξεπεράσει και πάλι τα 5 δισεκατομμύρια δολάρια και ένα δισεκατομμύριο δολάρια έχει προστεθεί μόνο τον τελευταίο μήνα. Το Yearn συνεχίζει να βλέπει παραβολική ανάπτυξη μεταξύ των προϊόντων του χωρίς καμία ένδειξη επιβράδυνσης. Το Iron Bank και το V2 είναι ιδιαίτερα αξιοσημείωτα συστατικά της εκθετικής μας ανάπτυξης. Μπορείτε να δείτε και να παρακολουθείτε μετρήσεις TVL μεταξύ των προϊόντων μας χρησιμοποιώντας το [Yearn.Science](https://yearn.science/).
 
@@ -73,7 +73,7 @@ Tα πρώτα θυσαυροφυλάκια στο Fantom είναι: YVWFTM, YV
 
 ## Πώς μπορείτε να συμβάλλετε στο Yearn
 
- ![](/_newsletters/Yearn-Finance-Newsletter-48/image4.jpg)
+ ![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image4.jpg)
 
 Μπορεί να ρωτάτε: "Πώς μπορώ να συνεισφέρω στο Yearn;" Πρώτον, το Yearn δεν έχει ιδρυτικά έγγραφα, δεν έχει έδρα, ούτε καν κατάλογο ονομάτων και τοποθεσιών για τους συντελεστές του. Είναι ένα ριζικό πείραμα στην αποκέντρωση και ιδού πόσο εύκολο είναι να εμπλακείς.
 
@@ -97,7 +97,7 @@ Tα πρώτα θυσαυροφυλάκια στο Fantom είναι: YVWFTM, YV
 
 ## Διαφάνεια στο Yearn
 
-![](/_newsletters/Yearn-Finance-Newsletter-48/image6.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image6.jpg)
 
 Μέσω της διαφάνειας και της επαληθευσιμότητας στο chain, πιστεύουμε ακράδαντα ότι η κρυπτογράφηση θα αλλάξει τον κόσμο. Το Yearn ελπίζει να δώσει παράδειγμα μέσω αυτής της διαφάνειας και παρακάτω, παρουσιάζουμε μερικά παραδείγματα.
 

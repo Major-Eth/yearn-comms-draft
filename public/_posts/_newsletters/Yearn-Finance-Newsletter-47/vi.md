@@ -16,7 +16,7 @@ publish: true
 
 ### Tuần Kết thúc Ngày 26/09/2021
 
-![](/_newsletters/Yearn-Finance-Newsletter-47/image1_vn.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image1_vn.jpg)
 
 Chào mừng các bạn đến với Bản tin Yearn.Finance Số #47! Chúng tôi hy vọng sẽ truyền tải được những dữ kiện mới nhất cho cộng đồng tiền mã thuật số (`crypto`) nói chung lẫn cộng đồng Yearn nói riêng; từ phát hành sản phẩm, thay đổi trong quản trị đến nhiều dự án đối tác trực thuộc hệ sinh thái Yearn. Nếu quan tâm và muốn biết thêm chi tiết về Yearn.Finance, hãy theo dõi tài khoản [Twitter](https://twitter.com/iearnfinance), [Medium](https://medium.com/iearn) cũng như đón chờ nơi phát hành Tiếng Việt chính thức của chúng tôi.
 
@@ -37,7 +37,7 @@ Chào mừng các bạn đến với Bản tin Yearn.Finance Số #47! Chúng t�
 
 ## Giới thiệu UI Phiên bản V3 của Yearn
 
-![](/_newsletters/Yearn-Finance-Newsletter-47/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image2.jpg)
 
 Tuần này, chúng tôi đã mở Yearn v3 cho người dùng trải nghiệm phiên bản beta. Giao diện mới thân thiện hơn, hiển thị tất cả dữ liệu cần thiết để mang lại cái nhìn tổng quan về số tài sản mà bạn đang nắm giữ, cũng như lịch sử thu nhập và hoa lợi hàng năm. Nó cũng mô phỏng các giao dịch để giúp người dùng nhận thức vấn đề trượt giá bất thường hoặc giao dịch thất bại.
 
@@ -53,7 +53,7 @@ Trải nghiệm [beta.yearn.finance](https://beta.yearn.finance/).
 
 ## Xem Ngay Mục `Labs` (Thí điểm) Mới
 
-![](/_newsletters/Yearn-Finance-Newsletter-47/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image3.jpg)
 
 Hân hạnh giới thiệu mục `Labs` (Thí điểm) trên giao diện Yearn V3 mới, một bộ những Kho bạc (`Vault`) thử nghiệm giúp mở rộng tới hạn hoa lợi trong thế giới ĐeFi. Hãy cùng kiểm tra những kho bạc (`vault`) thú vị này.
 
@@ -67,7 +67,7 @@ Vậy còn chờ gì nữa, kiểm tra ngay mục Thí điểm (`Labs`) trên [b
 
 ## Yearn Đã Mua $320K YFI trong Tháng 09
 
-![](/_newsletters/Yearn-Finance-Newsletter-47/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image4.jpg)
 
 Thể theo `YIP-56: BABY (Mua lại và Xây dựng Yearn)` được thông qua vào tháng 01/2021, Ngân khố (`Treasury`) của Yearn đã mua lại đồng YFI từ thị trường tự do với trị giá 320&nbsp;Nghìn&nbsp;$.
 
@@ -77,7 +77,7 @@ Mọi dữ liệu liên quan đến việc mua lại được đăng tải [tạ
 
 ## Tổng Doanh thu của Giao thức Đạt 43&nbsp;Triệu&nbsp;$
 
-![](/_newsletters/Yearn-Finance-Newsletter-47/image5.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image5.jpg)
 
 Yearn đã ghi nhận doanh thu hơn 43&nbsp;triệu&nbsp;đô-la&nbsp;Mỹ kể từ lúc phát hành (chưa tính tiền lãi mà những người ký gửi thu về). Trong 30 ngày qua, lợi nhuận của giao thức lên đến hơn 6&nbsp;triệu&nbsp;$. Sử dụng phép ngoại suy dựa trên dữ liệu này, doanh thu hàng năm dự đoán lên đến gần 70&nbsp;triệu&nbsp;$. 
 

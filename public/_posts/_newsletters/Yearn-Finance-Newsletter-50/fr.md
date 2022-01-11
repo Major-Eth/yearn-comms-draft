@@ -16,7 +16,7 @@ publish: true
 
 ### Semaine du 5 Decembre 2021
 
-![](/_newsletters/Yearn-Finance-Newsletter-50/image1.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/image1.jpg)
 
 Bienvenue à la 50e édition de la Newsletter Yearn Finance. Notre objectif avec cette newsletter est de tenir la communauté Yearn, et plus généralement la communauté crypto, au courant des dernières nouvelles, y compris les lancements de produits, les changements de gouvernance et les mises à jour de l'écosystème. Si vous souhaitez en savoir plus sur Yearn Finance, suivez nos comptes [Twitter](https://twitter.com/iearnfinance) et [Medium](https://medium.com/iearn) officiels.
 
@@ -32,7 +32,7 @@ Bienvenue à la 50e édition de la Newsletter Yearn Finance. Notre objectif avec
 
 ## Nouvelle UI chez Yearn
 
-![](/_newsletters/Yearn-Finance-Newsletter-50/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/image2.jpg)
 
 Nous avons reconstruit [yearn.finance](https://yearn.finance/) à partir de zéro avec des tonnes de commentaires de notre communauté. C'est en direct maintenant, alors faites-le faire un tour.
 
@@ -66,7 +66,7 @@ Découvrez les nouveaux documents [ici](https://docs.yearn.finance/).
 
 ## La YIP-64 n'a pas atteind le Quorum
 
-![](/_newsletters/Yearn-Finance-Newsletter-50/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/image3.jpg)
 
 YIP-64 : Ajuster les frais sur les yVaults non stables est entré dans la phase de vote et s'est terminé par un vote majoritaire contre l'ajustement des frais.
 
@@ -74,7 +74,7 @@ Consultez la proposition [ici](https://snapshot.org/#/ybaby.eth/proposal/0xfe729
 
 ## Yearn délègue 23 millions de veCRV à Convexe
 
-![](/_newsletters/Yearn-Finance-Newsletter-50/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/image4.jpg)
 
 Yearn a délégué 23 millions de veCRV à Convex Finance à l'aide de la nouvelle fonctionnalité native de délégation de boost de Curve. Cela augmentera les rendements des pools d'usine pour nos deux DAO. Cela n'affecte pas les pools réguliers, les frais ou le vote.
 

@@ -12,7 +12,7 @@ translator: 🤖💵💵💰💰.eth
 publish: true
 ---
 
-![](/_newsletters/Yearn-Finance-Newsletter-41/image1_newsletter_header_vn.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-41/image1_newsletter_header_vn.jpg)
 
 # Bản tin Yearn.Finance Số #41
 
@@ -29,7 +29,7 @@ Chào mừng các bạn đến với Bản tin Yearn.Finance Số #41! Chúng t�
 
 ## Kỷ niệm Năm Đầu tiên của YFI
 
-![](/_newsletters/Yearn-Finance-Newsletter-41/image5.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-41/image5.jpg)
 
 Một năm trước vào ngày 17/07/2020, đồng YFI chính thức xuất hiện. Xin cảm ơn tất cả đã tạo nên thời khắc ĐeFi không thể nào quên, cũng như biến nó trở thành một trong những dự án mạnh nhất nền kinh tế mã thuật số đầy mới mẻ này.
 
@@ -37,7 +37,7 @@ Cảm ơn [loldefi](https://twitter.com/loldefi) đã cung cấp "áo lớp" k�
 
 ## Thị Phần của Yearn Gia Tăng ở lĩnh vực Tổ hợp Lãi suất
 
-![](/_newsletters/Yearn-Finance-Newsletter-41/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-41/image4.jpg)
 
 Trong Quý 2 năm 2021, thị phần của Yearn ở lĩnh vực Tổ hợp Lãi suất tăng từ 29% lên 69%. Chúng tôi ghi nhận mức tăng trưởng ấn tượng 136% đối với khối tài sản đang quản lý ('Assets Under Management' hay AUM), tổng giá trị ước tính lên đến hơn 5 tỉ đô-la. Chưa dừng ở đó, công tác nghiên cứu phát triển liên tục diễn ra nhằm mang lại lợi nhuận tốt mà đỡ-rủi-ro nhất trên thị trường. Gửi ngay vốn vào các Kho bạc (yVault) để Chiến lược gia của chúng tôi cáng đáng công việc nặng nề nhất thay cho bạn.
 
@@ -45,7 +45,7 @@ Xem thêm chi tiết về Yearn cũng như các phân tích thống kê chung v�
 
 ## Yearn Sắp Vào Compound
 
-![](/_newsletters/Yearn-Finance-Newsletter-41/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-41/image3.jpg)
 
 Một đề xuất và hợp đồng mã thuật số ('contract') đã được tạo cũng như triển khai ('deploy') để đưa YFI thành một thị trường vào Compound Finance. Mỗi tôken sẽ có hệ số thế chấp là 0 (ban đầu), cùng mô hình lãi suất (như COMP/LINK) và hệ số dự trữ 25% cho mỗi thị trường (theo chuẩn phổ biến).
 
@@ -55,7 +55,7 @@ Xem thêm chi tiết về bài đăng này trên diễn đàn của Compound [t�
 
 ## Tỷ suất Vay YFI ở MakerDAO được Giảm đi
 
-![](/_newsletters/Yearn-Finance-Newsletter-41/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-41/image2.jpg)
 
 MakerDAO đã giảm phí bình ổn ('stability fee') cho YFI-A xuống 1%; cho ETH-C xuống 0.50%. Điều này cực kỳ có lợi cho các chiến lược YFI và ETH của Yearn nhờ chi phí vay mượn thấp hơn. Từ đó, người dùng được hưởng thêm lãi suất ròng, cải thiện lợi nhuận.
 

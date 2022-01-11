@@ -14,7 +14,7 @@ publish: true
 
 # Yearn Finance Newsletter #45
 
-![](/_newsletters/Yearn-Finance-Newsletter-45/image1.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image1.jpg)
 
 Willkommen zur 45. Ausgabe des Yearn Finance Newsletters. Mit diesem Newsletter möchten wir die Yearn- und die breitere Krypto-Community über die neuesten Nachrichten informieren, darunter Produkteinführungen, Änderungen in der Unternehmensführung und Aktualisierungen im Ökosystem. Wenn du mehr über Yearn Finance erfahren möchtest, folge unseren offiziellen [Twitter](https://twitter.com/iearnfinance)- und [Medium](https://medium.com/iearn)-Konten.
 
@@ -29,7 +29,7 @@ Willkommen zur 45. Ausgabe des Yearn Finance Newsletters. Mit diesem Newsletter 
 
 ## **ALPHA- und YFI-Liquiditätsanbieter kommen für ein spezielles NFT in Frage**
 
-![](/_newsletters/Yearn-Finance-Newsletter-45/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image2.jpg)
 
 Liquiditätsanbieter für die Uniswap-ETH/YFI- und Sushiswap-ETH/YFI-Pools in den Alpha-Homora-V2-Pools kommen in den Genuss eines speziellen NFT-Drops mit freundlicher Genehmigung von Yearn, Alpha und Project Galaxy.
 
@@ -47,7 +47,7 @@ Sieh dir die Vaults hier an: [yearn.finance/vaults](https://yearn.finance/vaults
 
 ## **Wie man in Yearn Vaults eintauscht**
 
-![](/_newsletters/Yearn-Finance-Newsletter-45/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image3.jpg)
 
 Eine der besten Möglichkeiten, um Yearn Vaults Swaps Fonds von einem Vaults zu einem anderen zu bringen ist in der Regel mit [curve.fi](https://curve.fi/) oder mit Zaps in Yearn's UI. Dies ist gas-effizient, aber kann zusätzliche Kosten in Slippage oder zusätzliche Gebühren bedeuten.
 
@@ -57,7 +57,7 @@ Vielen Dank an [cryptouf](https://twitter.com/cryptouf) für die Zusammenstellun
 
 ## **Kumulative Protokoll-Einnahmen erreichen $39M**
 
-![](/_newsletters/Yearn-Finance-Newsletter-45/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image4.jpg)
 
 Yearn hat seit dem Start über 39 Millionen Dollar an Einnahmen erzielt (ohne die von den Einlegern erzielten Zinsen). In den letzten 30 Tagen wurden über 5 Millionen Dollar an Einnahmen durch das Protokoll generiert. Eine Extrapolation dieser Daten lässt auf einen Jahresumsatz von fast 30 Millionen Dollar schließen.
 

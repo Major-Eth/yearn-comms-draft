@@ -14,7 +14,7 @@ publish: true
 
 # Yearn Finance Haber Bülteni #44
 
-![](/_newsletters/Yearn-Finance-Newsletter-44/image1.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image1.jpg)
 
 Yearn Finance Bülteninin 42. baskısına hoş geldiniz. Bu bültenle amacımız, Yearn'i ve daha geniş kripto topluluğunu ürün lansmanları, yönetim değişiklikleri ve ekosistem güncellemeleri de dahil olmak üzere en son gelişmelerden haberdar etmektir. Yearn Finance hakkında daha fazla bilgi edinmek istiyorsanız, resmi [Twitter](https://twitter.com/iearnfinance) ve [Medium](https://medium.com/iearn) hesaplarımızı takip edin.
 
@@ -30,7 +30,7 @@ Yearn Finance Bülteninin 42. baskısına hoş geldiniz. Bu bültenle amacımız
 
 ## **YIP-63 Sonuçları**
 
-![](/_newsletters/Yearn-Finance-Newsletter-44/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image2.jpg)
 
 YIP-63 için yapılan son oylama, LeXpunK DAO'nun finansmanı için anlaşmayla sonuçlandı. Yearn, Curve Finance, Lido Finance ve LeXpunK DAO tarafından kontrol edilen bir multisig'e bir milyon DAI aktardı.
 
@@ -50,7 +50,7 @@ Anketi [buradan](https://yearnfinance.typeform.com/to/ojp3J8gn) doldurabilirsini
 
 ## **Dört Yeni yVault ile Tanışın**
 
-![](/_newsletters/Yearn-Finance-Newsletter-44/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image3.jpg)
 
 Dört yeni yVault artık kullanıcı arayüzümüzde yayında. Bugün depozitinizi yatırın ve AAVE, COMP, TUSD ve SUSHI'nizden getiri kazanın  
 
@@ -60,7 +60,7 @@ Bu vault'lar için en son APY'leri görüntüleyebilir ve bu [bağlantıyı](htt
 
 ## **Yearn Defi Saver'e Entegre oldu**
 
-![](/_newsletters/Yearn-Finance-Newsletter-44/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image4.jpg)
 
 YFI, Defi Saver Recipe Creator'a entegre edilmiştir. Bu entegrasyonla, desteklenen tüm varlıkları DeFi Saver kullanarak Yearn kasalarına yatırabilir ve bu eylemi diğer protokol etkileşimleriyle birleştirebilirsiniz. Bazı örnekler aşağıda detaylandırılmıştır.  
 
@@ -72,7 +72,7 @@ Yearn'in kullanan diğer tariflerine [buradan](https://app.defisaver.com/) göz 
 
 ## **Woofy'yi Unutma**
 
-![](/_newsletters/Yearn-Finance-Newsletter-44/image5.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image5.jpg)
 
 İnanılmaz verimler için YFI'yi bir milyon WOOFY için bir YFI oranında WOOFY'ye dönüştürerek, onunla lp yapabilir, Polygon veya Fantom gibi diğer zincirlere köprü kurabilir ve [ape.tax](https://ape.tax/) üzerinde para yatırabilirsiniz.
 

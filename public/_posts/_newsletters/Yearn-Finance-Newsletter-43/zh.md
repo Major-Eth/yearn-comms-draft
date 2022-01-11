@@ -14,7 +14,7 @@ publish: true
 
 # Yearn Finance 最新动态 #43
 
-![](/_newsletters/Yearn-Finance-Newsletter-43/image1.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-43/image1.jpg)
 
 欢迎来到Yearn最新动态第43版。我们此新闻简报的目的是使Yearn和所有加密货币社区了解最新消息，包括新产品发布，治理变化和生态系统更新。如果你有兴趣了解更多有关Yearn Finance的信息，请关注我们的官方[Twitter](https://twitter.com/iearnfinance)和[Medium](https://medium.com/iearn)帐户。
 
@@ -29,7 +29,7 @@ publish: true
 
 ## **YIP-63: 资助建设者优先合法社运DAO**
 
-![](/_newsletters/Yearn-Finance-Newsletter-43/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-43/image2.jpg)
 
 在目前对DeFi的监管审查越来越严格的情势下，有些人已提议LeXpunK_DAO应该致力于为Yearn和其他以建设者为中心的DeFi社区做法律宣传。LeXpunK_DAO将由来自贡献者社区（包括 Yearn）的建设者和LeXpunK Army 146的执业律师来管理。
 
@@ -43,7 +43,7 @@ publish: true
 
 ## **Alchemix已迁移到Yearn v2**
 
-![](/_newsletters/Yearn-Finance-Newsletter-43/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-43/image3.jpg)
 
 Alchemix已经成功的迁移到了最新的yvDAI。以上图表显示的小尖峰代表值是4亿美元，从v1机枪池转移到v2机枪池。我们非常自豪能够成为DeFi领域中的顶级收益后端。
 
@@ -53,7 +53,7 @@ Alchemix已经成功的迁移到了最新的yvDAI。以上图表显示的小尖�
 
 ## **YFI被加入了Compound Finance**
 
-![](/_newsletters/Yearn-Finance-Newsletter-43/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-43/image4.jpg)
 
 YFI已成功的被加入了Compound Finance的市场。目前，它具有零抵押因子（初步阶段），与COMP/LINK相同的利率模型，以及在每个市场保持25%的储备因子（这是标准的）。在不久的将来，抵押因子将会增加，而用户将能够在Compound上提供YFI，并可以使用YFI做为抵押品来借币。这将能够让Yearn的策略家创建一个YFI农场策略，类似于目前应用MakerDAO的YFI机枪池策略。因此，由于这个整合，用户将可以获得更多的净收益，这通常意味着提升的回报。你可以在[此处](https://yearn.fi/invest/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1)阅读更多有关MakerDAO策略的信息。
 

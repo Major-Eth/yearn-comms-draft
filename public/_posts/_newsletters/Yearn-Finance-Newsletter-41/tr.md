@@ -12,7 +12,7 @@ translator: Dastronom
 publish: true
 ---
 
-![](/_newsletters/Yearn-Finance-Newsletter-41/image1.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-41/image1.jpg)
 
 # Yearn Finance Haber Bülteni #41
 
@@ -29,7 +29,7 @@ Yearn Finans Bülteninin 41. baskısına hoş geldiniz. Bu bülten ile amacımı
 
 ## YFI’nin birinci yıl kutlamaları
 
-![](/_newsletters/Yearn-Finance-Newsletter-41/image5.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-41/image5.jpg)
 
 Şu anda DeFi ekosisteminin en güçlülerinden biri olan YFI token bir yıl önce 17 Haziran 2020’de piyasaya sürüldü. DeFi'de unutulmaz bir ana imza attığınız için hepinize teşekkür ederiz.
 
@@ -37,7 +37,7 @@ Yearn Finans Bülteninin 41. baskısına hoş geldiniz. Bu bülten ile amacımı
 
 ## Yearn’in yükselen Aggregator Piyasalarındaki Pazar payı
 
-![](/_newsletters/Yearn-Finance-Newsletter-41/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-41/image4.jpg)
 
 2021'in ikinci çeyreğinde Yearn’nın yield aggregator piyasalarındaki pazar payı %29’dan %69’a yükseldi. AUM’umuzda %136’lık bir artış ile beş milyar dolara ulaşan bir büyüme gördük. Sizler için piyasada en iyi risk-uyumlu getirileri bulabilmek için sürekli çalışıyoruz. Sermayenizi yVaults'a yatırın ve bırakın tüm zor işleri sizin için stratejistlerimiz halletsin.
 
@@ -45,7 +45,7 @@ Bu Messari [raporunda](https://messari.io/article/q2-21-defi-review?utm_source=r
 
 ## Year’ın Compound'a eklenecek olması
 
-![](/_newsletters/Yearn-Finance-Newsletter-41/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-41/image3.jpg)
 
 YFI’nin bir pazar olarak Compound Finance'a eklenmesi ile ilgili bir teklif hazırlanmış ve kontratlar dağıtılmıştır. Her bir token karşılıksız teminata(başlangıçta), aynı faiz oran modeli (COMP/LINK’de olduğu gibi) ve her bir pazar için %25’lik rezerv faktörüne (standart oran) sahip olacaktır.
 
@@ -55,7 +55,7 @@ Compound forumda yer alan yayınlar hakkında daha fazla bilgi sahibi olmak içi
 
 ## MakerDAO’da YIF borç alma oranı düşürüldü
 
-![](/_newsletters/Yearn-Finance-Newsletter-41/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-41/image2.jpg)
 
 MakerDAO, YFI stabilite ücretini %1’e, ETH-C stabilite ücretini ise %0.50’e düşürdü. Bu durum borçlanma maliyetlerinin düşürülmesi sayesinde, Yearn YFI’si ve ETH stratejileri bakımından inanılmaz fayda sağlamaktadır. Azaltılan sermaye maliyeti daha fazla kesintisiz verim sağlar ve hasılatı artırır.
 

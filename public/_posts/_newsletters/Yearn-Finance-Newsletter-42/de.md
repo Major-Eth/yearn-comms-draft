@@ -14,7 +14,7 @@ publish: true
 
 # Yearn Finance Newsletter #42
 
-![](/_newsletters/Yearn-Finance-Newsletter-42/image1.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image1.jpg)
 
 Willkommen zur 42. Ausgabe des Yearn Finance Newsletters. Mit diesem Newsletter möchten wir die Yearn- und die breitere Krypto-Community über die neuesten Nachrichten informieren, darunter Produkteinführungen, Änderungen in der Unternehmensführung und Aktualisierungen des Ökosystems. Wenn du daran interessiert bist, mehr über Yearn Finance zu erfahren, folge unseren offiziellen [Twitter](https://twitter.com/iearnfinance)- und [Medium](https://medium.com/iearn)-Konten.
 
@@ -32,7 +32,7 @@ Willkommen zur 42. Ausgabe des Yearn Finance Newsletters. Mit diesem Newsletter 
 
 ## **Die Blaue Pille NFTs**
 
-![](/_newsletters/Yearn-Finance-Newsletter-42/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image2.jpg)
 
 Zur Feier des ersten Jahres von Yearn haben wir erneut mit Project Galaxy zusammengearbeitet, um dir The Blue Pill zu präsentieren, einen spirituellen Leitfaden für die Vergangenheit, Gegenwart und Zukunft von Yearn. The Blue Pill wurde von Zemm hergestellt und ist ein wunderschönes Buch im Schriftsatz, das unsere 13 500 treuesten Unterstützer erhalten. Es handelt sich um eine Serie von sieben einzigartigen NFTs für die verschiedenen Farmer, Staker, Wähler und Geber der Yearn-Gemeinschaft. Feier mit uns das Geschenk von YFI!
 
@@ -42,7 +42,7 @@ Fordere deine Bücher [hier](https://galaxy.eco/yearn) an und sieh sich das gesa
 
 ## **Woofy Woche 11 Schappschüsse**
 
-![](/_newsletters/Yearn-Finance-Newsletter-42/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image3.jpg)
 
 Neue WOOFY-Inhaber können sich auf ein NFT-Geschenk freuen, das in Zusammenarbeit zwischen Yearn und Project Galaxy entstanden ist. Diese sind aus einer Serie von sechs einzigartigen WOOFY-NFTs, wie oben gezeigt. Diese Schnappschüsse decken Token-Inhaber, LPs, Staker und Vault-Nutzer über mehrere Ketten hinweg ab.
 
@@ -50,7 +50,7 @@ Fordert eure Woofy NFTs [hier](https://galaxy.eco/yearn) an.
 
 ## **Migrieren oder sterben**
 
-![](/_newsletters/Yearn-Finance-Newsletter-42/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image4.jpg)
 
 Die Vaults von v1 haben fast ein Jahr lang allen als zuverlässige Ertragsquelle gedient, aber jetzt ist die Zeit gekommen, sich zu verabschieden. Alle alten Vaults wurden ein letztes Mal geleert, und die Strategien wurden abgewickelt. Zur Erinnerung: Unsere v2-Depots bringen einige Änderungen mit sich, wie z. B. die Verteilung des Kapitals auf mehrere Strategien für mehr Effizienz und eine bessere risikobereinigte Rendite.
 
@@ -68,7 +68,7 @@ Sieh dir die Vaults [hier](https://yearn.finance/vaults) an.
 
 ## **Schau dir die Gurkengläser an**
 
-![](/_newsletters/Yearn-Finance-Newsletter-42/image5.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image5.jpg)
 
 Bei Pickle Finance findest du beeindruckende Raten von 7% bis 40% auf deine bevorzugten yVault-Tokens. Du kannst auf Yearn FRAX, Yearn LUSD, yUSDC und viele mehr verdienen!
 
@@ -80,7 +80,7 @@ Weitere Details zu den Partnerschaften findest [hier](https://twitter.com/iearnf
 
 ## **Was es braucht, um ein Stratege zu sein**
 
-![](/_newsletters/Yearn-Finance-Newsletter-42/image6.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image6.jpg)
 
 Im Jahr 2021 wurden mehr als $5M an Yearn-Strategen gezahlt. Auf der EthCC erklärte Facu Ameal, was es braucht, um ein so mächtiger Stratege wie er zu werden. Strategien sind, wie du vielleicht weißt, das Rückgrat von Yearn und ermöglichen es dir, die beste risikobereinigte Rendite auf deine Token zu erzielen.
 
@@ -90,7 +90,7 @@ Sieh dir das [Video](https://www.youtube.com/watch?v=NVR3teJw0Y0) an, das auch e
 
 ## **Veröffentlichte Audits für Yearn V2** 
 
-![](/_newsletters/Yearn-Finance-Newsletter-42/image7.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image7.jpg)
 
 Yearn hat in Zusammenarbeit mit Trail of Bits ein Audit der v2 Vault, BaseStrategy und BaseWrapper Verträge durchgeführt. Die Ergebnisse des Audits wurden in der im Mai veröffentlichten 0.4.x-Serie der Verträge berücksichtigt.
 

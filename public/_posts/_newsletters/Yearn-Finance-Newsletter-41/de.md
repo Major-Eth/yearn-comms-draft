@@ -12,7 +12,7 @@ translator: Nesyeth
 publish: true
 ---
 
-![](/_newsletters/Yearn-Finance-Newsletter-41/image1.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-41/image1.jpg)
 
 # Yearn Finance Newsletter #41
 
@@ -29,7 +29,7 @@ Willkommen zur 41. Ausgabe des Yearn Finance Newsletters. Mit diesem Newsletter 
 
 ## Das erste Jahr von YFI wird gefeiert
 
-![](/_newsletters/Yearn-Finance-Newsletter-41/image5.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-41/image5.jpg)
 
 Vor einem Jahr, am 17. Juli 2020, wurde der YFI-Token eingeführt. Vielen Dank an alle, die einen unvergesslichen Moment für DeFi und eines der stärksten DeFi-Ökosysteme geschaffen haben.
 
@@ -37,7 +37,7 @@ Dank [loldefi](https://twitter.com/loldefi) kannst du [hier](https://ymerch.fina
 
 ## Marktanteil von Yearn auf dem Aggregator-Markt steigt
 
-![](/_newsletters/Yearn-Finance-Newsletter-41/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-41/image4.jpg)
 
 Im zweiten Quartal 2021 stieg der Marktanteil von Yearn auf dem Markt für Renditeaggregatoren von 29 % auf 69 %. Unser verwaltetes Vermögen wuchs um beeindruckende 136 % auf über fünf Milliarden Dollar. Wir arbeiten ständig daran, dir die besten risikobereinigten Renditen auf dem Markt zu bieten. Lege dein Kapital in unseren yVaults an und lass die Strategen die harte Arbeit für dich erledigen.
 
@@ -45,7 +45,7 @@ Weitere Einzelheiten über Yearn und allgemeine DeFi-Analysen findest du in dies
 
 ## Yearn wird Compound hinzugefügt 
 
-![](/_newsletters/Yearn-Finance-Newsletter-41/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-41/image3.jpg)
 
 Es wurde ein Vorschlag erstellt und Verträge wurden aufgesetzt, um YFI als Markt zu Compound Finance hinzuzufügen. Jeder Token wird (anfänglich) einen Sicherheitenfaktor von Null, das gleiche Zinsmodell (wie COMP/LINK) und einen Reservefaktor von 25 % für jeden Markt haben (was Standard ist).
 
@@ -55,7 +55,7 @@ Mehr Details über den Beitrag im Compound's Forum findest du [hier](https://www
 
 ## YFI-Anleihezins bei MakerDAO gesenkt
 
-![](/_newsletters/Yearn-Finance-Newsletter-41/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-41/image2.jpg)
 
 MakerDAO hat die YFI-A Stabilitätsgebühr auf 1% und die ETH-C Stabilitätsgebühr auf 0,50% gesenkt. Dies ist für die YFI- und ETH-Strategien von Yearn äußerst vorteilhaft, da sie die Kosten für die Kreditaufnahme senken. Die geringeren Kapitalkosten führen zu einer höheren Nettorendite für die Nutzer und verbessern die Rendite.
 

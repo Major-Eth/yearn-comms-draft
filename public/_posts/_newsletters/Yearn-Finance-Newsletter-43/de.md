@@ -14,7 +14,7 @@ publish: true
 
 # Yearn Finance Newsletter #43
 
-![](/_newsletters/Yearn-Finance-Newsletter-43/image1.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-43/image1.jpg)
 
 Willkommen zur 43. Ausgabe des Yearn Finance Newsletters. Mit diesem Newsletter möchten wir die Yearn- und die breitere Krypto-Community über die neuesten Nachrichten informieren, darunter Produkteinführungen, Änderungen in der Unternehmensführung und Aktualisierungen im Ökosystem. Wenn du mehr über Yearn Finance erfahren möchtest, folge unseren offiziellen [Twitter](https://twitter.com/iearnfinance) und [Medium](https://medium.com/iearn) Konten.
 
@@ -29,7 +29,7 @@ Willkommen zur 43. Ausgabe des Yearn Finance Newsletters. Mit diesem Newsletter 
 
 ## **YIP-63: Fund Builder - Erster legaler Aktivismus DAO**
 
-![](/_newsletters/Yearn-Finance-Newsletter-43/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-43/image2.jpg)
 
 Angesichts der zunehmenden behördlichen Kontrolle von DeFi wurde vorgeschlagen, dass sich die LeXpunK_DAO der rechtlichen Vertretung von yearn und anderen DeFi-Gemeinschaften widmet, die auf Ersteller spezialisiert sind. Die LeXpunK_DAO wird von Erstellern aus beitragenden Gemeinschaften (einschließlich Yearn) und praktizierenden Anwälten aus der LeXpunK Army 146 geleitet werden.
 
@@ -43,7 +43,7 @@ Das YIP wurde genehmigt. Die Ergebnisse kannst du dir [hier](https://gov.yearn.f
 
 ## **Alchemix migriert zu Yearn v2**
 
-![](/_newsletters/Yearn-Finance-Newsletter-43/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-43/image3.jpg)
 
 Alchemix hat erfolgreich auf die neueste yvDAI migriert. Die kleine Spitze in der Grafik zeigt, dass $ 400 Mio. von den v1 vaults zu den v2 vaults verschoben wurden. Wir sind stolz darauf, das beste Rendite-Backend für DeFi zu sein.
 
@@ -53,7 +53,7 @@ Sieh dir die Vaults [hier](https://yearn.finance/vaults) an.
 
 ## **YFI zu Compound Finance hinzugefügt**
 
-![](/_newsletters/Yearn-Finance-Newsletter-43/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-43/image4.jpg)
 
 YFI wurde erfolgreich als Markt zu Compound Finance hinzugefügt. Derzeit hat er einen Sicherheitenfaktor von Null (anfänglich), das gleiche Zinsmodell (wie COMP/LINK) und einen Reservefaktor von 25% für jeden Markt (was Standard ist). In naher Zukunft werden die Sicherheitenfaktoren erhöht und die Nutzer werden in der Lage sein, YFI auf Compound anzubieten und Coins mit YFI-Sicherheiten zu leihen. Dies wird es den Yearn-Strategen ermöglichen, eine YFI-Farming-Strategie zu entwickeln, ähnlich der aktuellen Strategie für den YFI-Vault, die MakerDAO nutzt. Dank dieser Integration können die Nutzer mehr Nettoerträge erhalten, was die Renditen im Allgemeinen verbessern wird. Lies mehr über die MakerDAO-Strategie [hier](https://yearn.fi/invest/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1).
 
