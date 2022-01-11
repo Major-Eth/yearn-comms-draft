@@ -29,6 +29,11 @@ const	LOCALES = {
 		'name': 'Türkçe',
 		'symbol': 'Tr',
 	},
+	'el': {
+		'code': 'el',
+		'name': 'Ελληνικά',
+		'symbol': 'El',
+	},
 	'vi': {
 		'code': 'vi',
 		'name': 'Tiếng Việt',
