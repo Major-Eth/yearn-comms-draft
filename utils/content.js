@@ -57,7 +57,7 @@ export function getPostBySlug(dir, slug, fields = [], locale, withFallback) {
 			if (data[field]) {
 				if (field === 'image') {
 					const {src, width, height} = data[field];
-					if (src.startsWith('./')) {
+					if ((src || '').startsWith('./')) {
 						items[field] = {
 							src: src.replace('./', `/_posts/${dir}/${realSlug}/`),
 							width,
