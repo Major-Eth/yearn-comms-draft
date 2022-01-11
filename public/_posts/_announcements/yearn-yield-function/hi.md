@@ -2,7 +2,10 @@
 layout: post
 title:  "क्या होगा अगर यर्न वेब का यील्ड फंक्शन हो तो ?"
 categories: [ Annoucements ]
-image: ./cover.jpg
+image:
+  src: ./cover.jpg
+  width: 800
+  height: 451
 author: Yearn
 date: '2021-06-13'
 translator: jengajojo

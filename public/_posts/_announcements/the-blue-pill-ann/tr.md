@@ -2,7 +2,10 @@
 layout: post
 title:  "The Blue Pill"
 categories: [ Annoucements ]
-image: ./cover.jpg
+image:
+  src: ./cover.jpg
+  width: 487
+  height: 622
 author: Yearn
 date: '2021-07-30'
 translator: Dastronom

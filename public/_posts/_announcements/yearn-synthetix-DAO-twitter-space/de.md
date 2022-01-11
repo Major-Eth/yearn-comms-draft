@@ -2,7 +2,10 @@
 layout: post
 title:  "Yearn & Synthetix DAO Twitter Raum"
 categories: [ Annoucements ]
-image: ./cover.jpg
+image:
+  src: ./cover.jpg
+  width: 800
+  height: 445
 author: Yearn
 date: '2021-07-29'
 translator:

@@ -2,8 +2,12 @@
 layout: post
 title: "Yearn Finance Newsletter #51"
 categories: [Newsletters]
-image: ./cover.png
+image:
+  src: ./cover.jpeg
+  width: 576
+  height: 288
 author: Yearn
+date: '2021-12-22'
 translator:
 publish: true
 ---
@@ -12,7 +16,7 @@ publish: true
 
 ### Week Ending December 19th, 2021
 
-![](image1.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-51/image1.png)
 
 Welcome to the 51th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
 
@@ -34,7 +38,7 @@ Huge thanks to [Fin4Dao](https://twitter.com/Fin4Dao) for all the facilitation w
 
 ## Yearn Has Purchased $7.5M of YFI
 
-![](image2.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-51/image2.png)
 
 Yearn has purchased $7,526,343 worth of YFI from the open market. We got 282.4 YFI (0.77% of total supply) at an average price of $26,651. More YFI has been bought back in the past month than in the prior year.
 
@@ -44,7 +48,7 @@ We have also been purchasing back a significant amount of yvBOOST in order to re
 
 ## Proposal: Evolving YFI’s Tokenomics
 
-![](image3.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-51/image3.png)
 
 Step 1 is xYFI, where one stakes in the xYFI vault, earning back YFI from the treasury.
 
@@ -62,7 +66,7 @@ Read all the details in the proposal [here](https://gov.yearn.finance/t/proposal
 
 ## Report: Reborn As A Black Hole
 
-![](image4.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-51/image4.png)
 
 Ape Froman has recently published a report detailing a comprehensive overview of Yearn, and he details the recent tokenomics troubles at Yearn, potential fixes, and further integrations of the YFI token into the greater DeFi ecosystem. This will allow better value capture for holders and allow for a potential imbalance in the circulating supply of YFI - thus driving demand.
 
@@ -70,7 +74,7 @@ Special thanks to [Ape Froman](https://medium.com/@portiadog) for the thoughtful
 
 ## Yearn Holiday Card NFT
 
-![](image5.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-51/image5.png)
 
 Get in on Project Galaxy's Holiday Treasure Hunt and grab this Yearn Holiday Card NFT, just for being a Yearn Newsletter subscriber.
 

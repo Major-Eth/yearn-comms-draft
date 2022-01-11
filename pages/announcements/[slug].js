@@ -45,28 +45,10 @@ function Post({post}) {
 export default Post;
 
 export async function getStaticProps({params, locale}) {
-	// const { locale } = context.router;
-
 	const post = getPostBySlug(
+		'_announcements',
 		params.slug,
-		[
-			'title',
-			'subtitle',
-			'excerpt',
-			'image',
-			'context',
-			'date',
-			'slug',
-			'author',
-			'content',
-			'ogImage',
-			'coverImage',
-			'projectLogo',
-			'projectLogoDark',
-			'team',
-			'links',
-			'videos',
-		],
+		['title', 'image', 'date', 'slug', 'author', 'content'],
 		locale,
 		true
 	);
@@ -83,7 +65,7 @@ export async function getStaticPaths() {
 	const paths = [];
 
 	Object.values(LOCALES).map((lang) => {
-		const posts = getAllPosts(['slug'], lang);
+		const posts = getAllPosts('_announcements', ['slug'], lang);
 		paths.push(...posts.map((post) => ({params: {slug: post.slug}, locale: lang})));
 	});
 

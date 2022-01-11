@@ -2,7 +2,10 @@
 layout: post
 title:  "Blue Pill Piyasaya Sürüldü"
 categories: [ Annoucements ]
-image: ./cover.jpg
+image:
+  src: ./cover.jpg
+  width: 1030
+  height: 1280
 author: Yearn
 date: '2021-08-03'
 translator: Dastronom

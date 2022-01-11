@@ -2,7 +2,10 @@
 layout: post
 title:  "Öneri Fonu Oluşturucu İlk Yasal Aktivizm DAO"
 categories: [ Annoucements ]
-image: ./cover.jpg
+image:
+  src: ./cover.jpg
+  width: 800
+  height: 450
 author: LexPunk DAO
 date: '2021-08-03'
 translator: Dastronom

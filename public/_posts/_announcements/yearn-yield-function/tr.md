@@ -2,7 +2,10 @@
 layout: post
 title:  "Ya Yearn = web'in verim işlevi ise"
 categories: [ Annoucements ]
-image: ./cover.jpg
+image:
+  src: ./cover.jpg
+  width: 800
+  height: 451
 author: Yearn
 date: '2021-06-13'
 translator: Dastronom

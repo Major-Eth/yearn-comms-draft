@@ -2,13 +2,13 @@ import fs from 'fs';
 import {join} from 'path';
 import matter from 'gray-matter';
 
-const postsDirectory = join(process.cwd(), 'public/_posts/_announcements');
-
-export function getPostSlugs() {
+export function getPostSlugs(dir) {
+	const postsDirectory = join(process.cwd(), `public/_posts/${dir}`);
 	return fs.readdirSync(`${postsDirectory}`);
 }
 
-export function getPostBySlug(slug, fields = [], locale, withFallback) {
+export function getPostBySlug(dir, slug, fields = [], locale, withFallback) {
+	const	postsDirectory = join(process.cwd(), `public/_posts/${dir}`);
 	const	realSlug = slug.replace(/\.md$/, '');
 	const	fullPath = join(`${postsDirectory}/${realSlug}/${locale}.md`);
 
@@ -28,7 +28,7 @@ export function getPostBySlug(slug, fields = [], locale, withFallback) {
 				if (data[field]) {
 					if (field === 'image') {
 						if (data[field].startsWith('./')) {
-							items[field] = data[field].replace('./', `/_posts/_announcements/${realSlug}/`);
+							items[field] = data[field].replace('./', `/_posts/${dir}/${realSlug}/`);
 						}
 					} else {
 						items[field] = data[field];
@@ -51,8 +51,13 @@ export function getPostBySlug(slug, fields = [], locale, withFallback) {
 
 			if (data[field]) {
 				if (field === 'image') {
-					if (data[field].startsWith('./')) {
-						items[field] = data[field].replace('./', `/_posts/_announcements/${realSlug}/`);
+					const {src, width, height} = data[field];
+					if (src.startsWith('./')) {
+						items[field] = {
+							src: src.replace('./', `/_posts/${dir}/${realSlug}/`),
+							width,
+							height
+						};
 					}
 				} else {
 					items[field] = data[field];
@@ -64,10 +69,10 @@ export function getPostBySlug(slug, fields = [], locale, withFallback) {
 	}
 }
 
-export function getAllPosts(fields = [], locale, withFallback = false) {
-	const slugs = getPostSlugs();
+export function getAllPosts(dir, fields = [], locale, withFallback = false) {
+	const slugs = getPostSlugs(dir);
 	const posts = slugs
-		.map((slug) => getPostBySlug(slug, fields, locale, withFallback)).filter(Boolean)
+		.map((slug) => getPostBySlug(dir, slug, fields, locale, withFallback)).filter(Boolean)
 		.sort((post1, post2) => (post1.date > post2?.date ? -1 : 1));
 	return posts;
 }

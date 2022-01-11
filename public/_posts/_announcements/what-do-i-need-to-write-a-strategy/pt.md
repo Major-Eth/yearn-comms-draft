@@ -2,7 +2,10 @@
 layout: post
 title:  "O que preciso para escrever uma estratégia?"
 categories: [ Annoucements ]
-image: ./cover.jpg
+image:
+  src: ./cover.jpg
+  width: 786
+  height: 447
 author: Yearn
 date: '2021-07-21'
 translator: jameskbh

@@ -2,7 +2,10 @@
 layout: post
 title:  "What do I need to write a strategy?"
 categories: [ Annoucements ]
-image: ./cover.jpg
+image:
+  src: ./cover.jpg
+  width: 786
+  height: 447
 author: Yearn
 date: '2021-07-21'
 translator:

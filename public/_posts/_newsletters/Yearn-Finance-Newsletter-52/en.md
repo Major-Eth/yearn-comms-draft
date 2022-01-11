@@ -2,8 +2,12 @@
 layout: post
 title: "Yearn Finance Newsletter #52"
 categories: [Newsletters]
-image: ./cover.png
+image:
+  src: ./cover.jpeg
+  width: 576
+  height: 288
 author: Yearn
+date: '2022-01-02'
 translator:
 publish: true
 ---
@@ -12,7 +16,7 @@ publish: true
 
 ### Week Ending January 2nd, 2022
 
-![](image1.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-52/image1.png)
 
 Welcome to the 52th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
 
@@ -32,7 +36,7 @@ Welcome to the 52th edition of the Yearn Finance Newsletter. Our aim with this n
 
 ## YIP-65 Enters Voting
 
-![](image2.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-52/image2.png)
 
 In summary, YIP-65 seeks to evolve the role YFI plays in Yearn over four distinct phases, cementing the vision of the token as the fundamental foundation of governance.
 
@@ -58,7 +62,7 @@ Special thanks to authors: @0xJiji, @banteg, daryllautk, HAtTip3675, @onlylarpin
 
 ## [Proposal] Mean - DCA Buyback Pilot Program
 
-![](image3.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-52/image3.png)
 
 The objective of this pilot program is to provide a better understanding through example that DCAing is a better way to execute buy-backs within the treasury.
 
@@ -102,7 +106,7 @@ Thank you to Wot_Is_Goin_On for the amazing thread that can be found [here](http
 
 ## Yearn Has Received a 1M FTM Grant From the Fantom Foundation
 
-![](image4.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-52/image4.png)
 
 Yearn has received a 1M FTM grant from the Fantom Foundation.
 

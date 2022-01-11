@@ -2,7 +2,10 @@
 layout: post
 title:  "Bowswap更新"
 categories: [ Annoucements ]
-image: ./cover.jpg
+image:
+  src: ./cover.jpg
+  width: 680
+  height: 468
 author: Yearn
 date: '2021-08-26'
 translator: Bee926

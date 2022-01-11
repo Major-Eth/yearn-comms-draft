@@ -13,6 +13,7 @@ module.exports = {
 	},
 	theme: {
 		fontFamily: {
+			title: ['Roboto Slab', 'Roboto', 'serif'],
 			sans: ['Roboto', 'sans-serif'],
 			mono: ['IBM Plex Mono', 'monospace']
 		},

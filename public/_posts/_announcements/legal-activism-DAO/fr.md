@@ -2,7 +2,10 @@
 layout: post
 title:  "Proposition de financement de la 1ere ~~DAO~~ d'activisme juridique"
 categories: [ Annoucements ]
-image: ./cover.jpg
+image:
+  src: ./cover.jpg
+  width: 800
+  height: 450
 author: LexPunk DAO
 date: '2021-08-03'
 translator: Cryptouf

@@ -2,15 +2,19 @@
 layout: post
 title:  "Yearn Finance Newsletter #43"
 categories: [ Newsletters ]
-image: ./cover.jpg
+image:
+  src: ./cover.jpeg
+  width: 576
+  height: 288
 author: Yearn
+date: '2021-08-11'
 translator:
 publish: true
 ---
 
 # Yearn Finance Newsletter #43
 
-![](image1.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-43/1.jpg)
 
 Welcome to the 43rd edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you're interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
 
@@ -25,7 +29,7 @@ Welcome to the 43rd edition of the Yearn Finance Newsletter. Our aim with this n
 
 ## **YIP-63: Fund Builder-First Legal Activism DAO**
 
-![](image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-43/2.jpg)
 
 Amidst intensifying regulatory scrutiny of DeFi, it has been proposed that the LeXpunK_DAO should be dedicated to legal advocacy for yearn and other builder-centric DeFi communities. The LeXpunK_DAO will be governed by builders from contributing communities (including yearn) and practicing lawyers from the LeXpunK Army 146.
 
@@ -39,7 +43,7 @@ The YIP was approved. You can see results [here](https://gov.yearn.finance/t/pro
 
 ## **Alchemix Migrates to Yearn v2**
 
-![](image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-43/3.jpg)
 
 Alchemix has successfully migrated to the latest yvDAI. The small spike on the graph is $400m moving from the v1 vaults to the v2 vaults. We are proud to be the top yield backend for DeFi.
 
@@ -49,7 +53,7 @@ Check out the vaults [here](https://yearn.finance/vaults).
 
 ## **YFI Added To Compound Finance**
 
-![](image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-43/4.jpg)
 
 YFI has been successfully added to Compound Finance as a market. Currently, it has a zero collateral factor (initially), the same interest rate model (as COMP/LINK), and a reserve factor of 25% for each market (which is standard). In the near future, collateral factors will be increased and users will be able to supply YFI on Compound and borrow coins with YFI collateral. This will enable Yearn strategists to possibly create a YFI farming strategy similar to a current strategy implemented for the YFI vault that utilizes MakerDAO. Thus, users may receive more net yield thanks to this integration, which will generally improve returns. Read more about the MakerDAO strategy [here](https://yearn.fi/invest/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1).
 

@@ -2,7 +2,10 @@
 layout: post
 title:  "Güncel YFIStats Panoları"
 categories: [ Annoucements ]
-image: ./cover.jpg
+image:
+  src: ./cover.jpg
+  width: 1280
+  height: 707
 author: Yearn
 date: '2021-09-30'
 translator: Dastronom

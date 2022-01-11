@@ -2,7 +2,10 @@
 layout: post
 title:  "What if Yearn = the web's yield function?"
 categories: [ Annoucements ]
-image: ./cover.jpg
+image:
+  src: ./cover.jpg
+  width: 800
+  height: 451
 author: Yearn
 date: '2021-06-13'
 translator: 🤖💵💵💰💰.eth

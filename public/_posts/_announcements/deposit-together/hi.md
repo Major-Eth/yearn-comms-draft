@@ -2,7 +2,10 @@
 layout: post
 title:  "सामूहिक जमा"
 categories: [ Annoucements ]
-image: ./cover.jpg
+image:
+  src: ./cover.jpg
+  width: 1834
+  height: 1062
 author: Yearn
 date: '2021-11-01'
 translator: Major-Rager

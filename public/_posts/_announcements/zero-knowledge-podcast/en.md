@@ -2,7 +2,10 @@
 layout: post
 title:  "Zero Knowledge Podcast"
 categories: [ Annoucements ]
-image: ./cover.jpg
+image:
+  src: ./cover.jpg
+  width: 144
+  height: 144
 author: Yearn
 date: '2021-05-05'
 translator:

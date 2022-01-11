@@ -2,7 +2,10 @@
 layout: post
 title:  "प्रपोजल फंड बिल्डर पहला कानूनी सक्रियतावाद डाओ"
 categories: [ Annoucements ]
-image: ./cover.jpg
+image:
+  src: ./cover.jpg
+  width: 800
+  height: 450
 author: LexPunk DAO
 date: '2021-08-03'
 translator: Jengajojo

@@ -2,7 +2,10 @@
 layout: post
 title:  "Token Terminal"
 categories: [ Annoucements ]
-image: ./cover.jpg
+image:
+  src: ./cover.jpg
+  width: 812
+  height: 247
 author: Yearn
 date: '2021-09-03'
 translator: Dastronom

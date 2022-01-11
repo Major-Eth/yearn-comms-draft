@@ -2,7 +2,10 @@
 layout: post
 title:  "Strateji yazmak için neye ihtiyacım var?"
 categories: [ Annoucements ]
-image: ./cover.jpg
+image:
+  src: ./cover.jpg
+  width: 786
+  height: 447
 author: Yearn
 date: '2021-07-21'
 translator: Dastronom

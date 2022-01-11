@@ -66,3 +66,27 @@ html {
 .inline-children > * {
 	display: inline;
 }
+
+.masonry {
+    display: grid;
+    grid-template-columns: repeat(1, minmax(100px, 1fr));
+    grid-gap: 17px;
+    grid-auto-rows: 0;
+}
+
+@media only screen and (max-width: 1023px) and (min-width: 768px) {
+    .masonry {
+        grid-template-columns: repeat(2, minmax(100px, 1fr));
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    .masonry {
+        grid-template-columns: repeat(3, minmax(100px, 1fr));
+    }
+}
+
+.masonry-item,
+.masonry-content {
+    overflow: hidden;
+}
