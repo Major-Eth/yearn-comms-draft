@@ -15,7 +15,7 @@ publish: true
 # Yearn Finance Newsletter #46
 #### 2021年9月12日までの週次レポート
 
-![](/_newsletters/Yearn-Finance-Newsletter-46/image1.png)
+![](/_newsletters/Yearn-Finance-Newsletter-46/image1.jpg)
 
 Yearn Finance Newsletterの第46号へようこそ。このニュースレターの目的は、プロダクトのローンチ、ガバナンスの変更、エコシステムの更新など、最新のニュースをYearnとより広いクリプトコミュニティにお知らせすることです。Yearn Financeについてもっと知りたいという方は、私たちの公式[Twitter](https://twitter.com/iearnfinance)と[Medium](https://medium.com/iearn)アカウントをフォローしてください。
 
@@ -40,7 +40,7 @@ Yearnのセキュリティ対策の詳細はstorming0xさんのツイート[こ�
 
 ## **yvBOOST Vaultの入門書**
 
-![](/_newsletters/Yearn-Finance-Newsletter-46/image2.png)
+![](/_newsletters/Yearn-Finance-Newsletter-46/image2.jpg)
 
 CRVはcurve.fiのガバナンストークンで、最大4年間ロックすることができ、投票したりプロトコル手数料をクライムしたりできます。Yearnを使ってCRVをveCRV(vote-escrowed CRV)にロックすることで、Yearnを介して、ファームされたCRVの一部を定期的にyveCRV Vaultsに寄付することで、より多くの報酬を得ることができます。つまり、通常のCRV報酬に加えて、YearnのCurveプロトコル手数料もクライムすることができるようになります。
 
@@ -58,7 +58,7 @@ Vaultsは[yearn.finance/vaults](https://yearn.finance/vaults)でご覧いただ�
 
 ## **Yearnの四半期財務報告**
 
-![](/_newsletters/Yearn-Finance-Newsletter-46/image3.png)
+![](/_newsletters/Yearn-Finance-Newsletter-46/image3.jpg)
 
 Yearnコミュニティのメンバー数名が、2021年4月から2021年6月までの期間を集計した非公式の四半期財務報告書を作成しました。このレポートは、一般に公開されている情報をもとに作成されており、損益計算書と貸借対照表が含まれています。このレポートは、第三者の専門的な会計事務所による監査を受けておらず、いかなる種類の財務、投資、またはアドバイスを表すものでもありません。本レポートは情報提供のみを目的としています。
 
@@ -66,7 +66,7 @@ Yearnコミュニティのメンバー数名が、2021年4月から2021年6月�
 
 ## **プロトコルの累積収益が41Mドルに到達**
 
-![](/_newsletters/Yearn-Finance-Newsletter-46/image4.png)
+![](/_newsletters/Yearn-Finance-Newsletter-46/image4.jpg)
 
 Yearnは、ローンチ以来約41Mドルの収益を上げています（預金者が得た利息を除く）。過去30日間では、約6Mドルの収益がこのプロトコルによってもたらされました。このデータから推定すると年間収益は約60Mドルになると予測されます。
 

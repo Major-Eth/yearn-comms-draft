@@ -16,7 +16,7 @@ publish: true
 #### Woche bis 12. September 2021
 
 
-![](/_newsletters/Yearn-Finance-Newsletter-46/image1.png)
+![](/_newsletters/Yearn-Finance-Newsletter-46/image1.jpg)
 
 Willkommen zur 46. Ausgabe des Yearn Finance Newsletters. Mit diesem Newsletter möchten wir die Yearn- und die breitere Krypto-Community über die neuesten Nachrichten informieren, darunter Produkteinführungen, Änderungen in der Unternehmensführung und Aktualisierungen im Ökosystem. Wenn du mehr über Yearn Finance erfahren möchtest, folge unseren offiziellen [Twitter](https://twitter.com/iearnfinance)- und [Medium](https://medium.com/iearn)-Konten.
 
@@ -42,7 +42,7 @@ Weitere Informationen über die Sicherheitsverfahren von Yearn findest du in dem
 
 ## **Fibel über den yvBOOST Vault**
 
-![](/_newsletters/Yearn-Finance-Newsletter-46/image2.png)
+![](/_newsletters/Yearn-Finance-Newsletter-46/image2.jpg)
 
 CRV ist das Governance-Token von curve.fi, das für bis zu 4 Jahre gesperrt werden kann und dir die Möglichkeit gibt, abzustimmen und Protokollgebühren zu verlangen. Indem du Yearn nutzt, um dein CRV für veCRV (vote-escrowed CRV) zu sperren, kannst mehr Rewards über Yearn verdienen, indem du regelmäßig etwas von unserem gefarmten CRV an den yveCRV-Vaults spendest. So kannst du zusätzlich zu den normalen CRV-Belohnungen den Anteil von Yearn an den Protokollgebühren von Curve beanspruchen.
 
@@ -60,7 +60,7 @@ Sieh dir die Vaults hier an: [yearn.finance/vaults](https://yearn.finance/vaults
 
 ## **Yearn Quartalsbericht zur Finanzlage**
 
-![](/_newsletters/Yearn-Finance-Newsletter-46/image3.png)
+![](/_newsletters/Yearn-Finance-Newsletter-46/image3.jpg)
 
 Mehrere Mitglieder der Yearn-Gemeinschaft haben einen informellen vierteljährlichen Finanzbericht für den Zeitraum von April 2021 bis Juni 2021 erstellt. Dieser Bericht wurde anhand öffentlich zugänglicher Informationen erstellt und enthält eine Gewinn- und Verlustrechnung sowie eine Bilanz. Dieser Bericht wurde nicht von einer professionellen Wirtschaftsprüfungsgesellschaft geprüft und stellt keine Finanz-, Investitions- oder Beratungsberatung dar. Er dient lediglich zu Informationszwecken.
 
@@ -68,7 +68,7 @@ Du kannst diesen Bericht [hier](https://github.com/yearn/yearn-pm/blob/master/fi
 
 ## **Kumulative Protokolleinnahmen erreichen $41 Millionen**
 
-![](/_newsletters/Yearn-Finance-Newsletter-46/image4.png)
+![](/_newsletters/Yearn-Finance-Newsletter-46/image4.jpg)
 
 Yearn hat seit dem Start fast 41 Millionen Dollar an Einnahmen erzielt (ohne die von den Einlegern erzielten Zinsen). In den letzten 30 Tagen wurden durch das Protokoll fast 6 Millionen Dollar an Einnahmen generiert. Eine Extrapolation dieser Daten lässt auf einen Jahresumsatz von fast 60 Millionen Dollar schließen.
 

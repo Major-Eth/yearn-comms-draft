@@ -16,7 +16,7 @@ publish: true
 
 ### 2021年11月14日结束的一周
 
-![](/_newsletters/Yearn-Finance-Newsletter-49/image1.png)
+![](/_newsletters/Yearn-Finance-Newsletter-49/image1.jpg)
 
 欢迎来到Yearn最新动态第49版。 此新闻简报的目的是让Yearn和所有加密货币社区了解最新消息，包括新产品发布，治理变化和生态系统更新。如果你有兴趣了解更多有关Yearn Finance的信息，请关注我们的官方[Twitter](https://twitter.com/iearnfinance)和[Medium](https://medium.com/iearn)帐户。
 
@@ -47,7 +47,7 @@ publish: true
 
 ## YFI代币经济模型升级
 
-![](/_newsletters/Yearn-Finance-Newsletter-49/image2.png)
+![](/_newsletters/Yearn-Finance-Newsletter-49/image2.jpg)
 
 最近有几位Yearn社区成员和开发人员联手制定了升级YFI代币经济模型的可行计划。包括代币拆分、veCRV模型、费用共享、费用减免、机枪池保险以及更多令人惊奇的想法。感谢所有相关人员提供他们宝贵的建议。
 
@@ -57,7 +57,7 @@ publish: true
 
 ## Yearn百万美元奖
 
-![](/_newsletters/Yearn-Finance-Newsletter-49/image3.png)
+![](/_newsletters/Yearn-Finance-Newsletter-49/image3.jpg)
 
 编写一个策略，在一个月内持续安全地应用3亿美元赚取40%APY或应用10亿美元赚取12%APY，你将可获得每月100万美元的策略师报酬。
 
@@ -69,7 +69,7 @@ publish: true
 
 ## Yearn总锁仓量已达60亿美元
 
-![](/_newsletters/Yearn-Finance-Newsletter-49/image4.png)
+![](/_newsletters/Yearn-Finance-Newsletter-49/image4.jpg)
 
 Yearn全系列产品的总锁仓价值已达到60亿美元，仅在上个月就增加了近10亿美元。Yearn的产品继续呈抛物线式增长，没有放缓的迹象。Iron Bank和v2机枪池是我们指数增长的主要贡献。你可以使用 [yearn.science](https://yearn.science/) 看和跟踪我们产品中的TVL指标。
 
@@ -79,7 +79,7 @@ Yearn全系列产品的总锁仓价值已达到60亿美元，仅在上个月就�
 
 ## YFI Combinator的第一个项目：Tesseract
 
-![](/_newsletters/Yearn-Finance-Newsletter-49/image5.png)
+![](/_newsletters/Yearn-Finance-Newsletter-49/image5.jpg)
 
 Tesseract是我们最新的早期孵化器YFI Combinator孵化的第一个项目。它利用在Yearn积累的专业知识为更广泛的用户带来最佳收益。
 
@@ -105,7 +105,7 @@ Messari最近发布了一份关于Yearn的综合报告，详细介绍了我们�
 
 ## Yearn财库情况
 
-![](/_newsletters/Yearn-Finance-Newsletter-49/image6.png)
+![](/_newsletters/Yearn-Finance-Newsletter-49/image6.jpg)
 
 截至10月29日，Yearn的财库持有值2720万美元的非原生代币，其中1370万美元是稳定币。 
 
@@ -115,7 +115,7 @@ Messari最近发布了一份关于Yearn的综合报告，详细介绍了我们�
 
 ## Yearn开发者拯救Robo Vault，避免了5000万美元的损失
 
-![](/_newsletters/Yearn-Finance-Newsletter-49/image7.png)
+![](/_newsletters/Yearn-Finance-Newsletter-49/image7.jpg)
 
 在Yearn团队的帮助下，Robo Vault发现并修复了一个可能导致损失超过5000万美元的关键问题。Yearn还从CREAM协议漏洞中挽救了超过900万美元，这笔资金已被退回。
 
@@ -123,7 +123,7 @@ Messari最近发布了一份关于Yearn的综合报告，详细介绍了我们�
 
 ## 固定外汇Zap
 
-![](/_newsletters/Yearn-Finance-Newsletter-49/image8.png)
+![](/_newsletters/Yearn-Finance-Newsletter-49/image8.jpg)
 
 受益于我们与Zapper的合作，Yearn用户可以使用钱包中的任何代币进入Keep3r的固定外汇机枪池。
 

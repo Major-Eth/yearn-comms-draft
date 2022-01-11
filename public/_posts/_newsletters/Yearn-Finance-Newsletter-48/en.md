@@ -16,7 +16,7 @@ publish: true
 
 ### Week Ending October 10th, 2021
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image1.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image1.jpg)
 
 Welcome to the 48th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
 
@@ -38,7 +38,7 @@ Welcome to the 48th edition of the Yearn Finance Newsletter. Our aim with this n
 
 ## Yearn Goes Multichain with Fantom
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image2.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image2.jpg)
 
 The Realm of Multichain beckons. And Yearn has heeded the call. 
 
@@ -64,7 +64,7 @@ Got questions or want to learn more? Join us on Telegram or [Discord](https://di
 
 ## Yearn Reaches $5B TVL (Again)
 
- ![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image3.png)
+ ![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image3.jpg)
 
 Total value locked across all Yearn products has surpassed $5 billion once again, and $1 billion has been added in the last month alone. Yearn is continuing to see parabolic growth among its products with no indication of slowing down. The Iron Bank and v2 vaults are particularly notable components of our exponential growth. You can view and track TVL metrics among our products using [yearn.science](https://yearn.science/). 
 
@@ -72,7 +72,7 @@ A big thank you to everyone in the Yearn ecosystem, our partners, and of course 
 
 ## How You Can Contribute to Yearn
 
- ![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image4.png)
+ ![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image4.jpg)
 
 You may ask, “How can I contribute to Yearn?” For one, Yearn has no papers of incorporation, no headquarters, nor even a list of names and locations for its contributors. It’s a radical experiment in decentralization & here’s how easy it is to get involved.
 
@@ -96,7 +96,7 @@ Check out more details [here](https://twitter.com/iearnfinance/status/1445799269
 
 ## Call for Ideas: YFI Tokenomics Revamp
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image5.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image5.jpg)
 
 With the renewed interest in YFI tokenomics in recent days and the v3 protocol development still being in the phase when it’s malleable enough, it might be a good time to properly tie the two together. Everything is on the table, be it token split, liquidity mining, tail emission, veCRV-style lockups. If you started YFI right now, how would you structure it? We are looking forward to the suggestions that our community puts forward, and would love to implement it in the future.
 
@@ -104,7 +104,7 @@ Check out the forum post [here](https://gov.yearn.finance/t/call-for-ideas-yfi-t
 
 ## Transparency at Yearn
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image6.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image6.jpg)
 
 Through transparency and on-chain verifiability, we firmly believe crypto will change the world. Yearn hopes to exemplify this transparency, and below, we have showcased some examples.
 

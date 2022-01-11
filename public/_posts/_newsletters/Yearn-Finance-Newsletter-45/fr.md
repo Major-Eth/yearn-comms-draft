@@ -14,7 +14,7 @@ publish: true
 
 # Yearn Finance Newsletter #45
 
-![](/image1.png)
+![](/image1.jpg)
 
 Bienvenue à la 45e édition de la Newsletter Yearn Finance. Notre objectif avec cette newsletter est de tenir la communauté Yearn, et plus généralement la communauté crypto, au courant des dernières nouvelles, y compris les lancements de produits, les changements de gouvernance et les mises à jour de l'écosystème. Si vous souhaitez en savoir plus sur Yearn Finance, suivez nos comptes [Twitter](https://twitter.com/iearnfinance) et [Medium](https://medium.com/iearn) officiels.
 
@@ -29,7 +29,7 @@ Bienvenue à la 45e édition de la Newsletter Yearn Finance. Notre objectif avec
 
 ## **- Les fournisseurs de liquidités ALPHA et YFI sont éligibles pour un NFT spécial**
 
-![](./image2.png)
+![](./image2.jpg)
 
 Les fournisseurs de liquidités pour les pools Uniswap ETH / YFI et Sushiswap ETH / YFI  sur Alpha Homora V2 seront éligibles pour recevoir un NFT spéciale offert par Yearn, Alpha et Project Galaxy.
 
@@ -49,7 +49,7 @@ Découvrez les coffres-forts sur [yearn.finance/vaults](https://yearn.finance/va
 
 ## **Comment passer d’un yVault à un autre**
 
-![](/_newsletters/Yearn-Finance-Newsletter-45/image3.png)
+![](/_newsletters/Yearn-Finance-Newsletter-45/image3.jpg)
 
 L'un des meilleurs moyens d'échanger des fonds d'un vault Yearn  à un autre consiste généralement à utiliser [curve.fi](https://curve.fi/) ou des zaps intégrés à l'interface utilisateur de Yearn. Ceci est économe en terme de gaz, mais peut coûter plus cher à cause du slippage ou des frais supplémentaires.
 
@@ -61,7 +61,7 @@ Merci à [cryptouf](https://twitter.com/cryptouf) d'avoir réalisé ce petit gui
 
 ## **Les revenus cumulés du protocole atteignent 39 millions de dollars**
 
-![](/_newsletters/Yearn-Finance-Newsletter-45/image4.png)
+![](/_newsletters/Yearn-Finance-Newsletter-45/image4.jpg)
 
 Yearn a généré plus de 39 millions de dollars de revenus depuis son lancement (hors intérêts perçus par les déposants). Au cours des 30 derniers jours, plus de 5 millions de dollars de revenus ont été générés par le protocole. Une extrapolation de ces données prévoit un chiffre d'affaires annuel de près de 30 millions de dollars.
 

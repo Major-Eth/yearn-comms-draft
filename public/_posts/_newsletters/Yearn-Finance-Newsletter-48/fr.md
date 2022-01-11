@@ -16,7 +16,7 @@ publish: true
 
 ### Semaine du 10 Octobre, 2021
 
-![](/_newsletters/Yearn-Finance-Newsletter-48/image1.png)
+![](/_newsletters/Yearn-Finance-Newsletter-48/image1.jpg)
 
 Bienvenue à la 48e édition de la Newsletter Yearn Finance. Notre objectif avec cette newsletter est de tenir la communauté Yearn, et plus généralement la communauté crypto, au courant des dernières nouvelles, y compris les lancements de produits, les changements de gouvernance et les mises à jour de l'écosystème. Si vous souhaitez en savoir plus sur Yearn Finance, suivez nos comptes [Twitter](https://twitter.com/iearnfinance) et [Medium](https://medium.com/iearn) officiels.
 
@@ -42,7 +42,7 @@ Bienvenue à la 48e édition de la Newsletter Yearn Finance. Notre objectif avec
 
 ## Yearn devient Multichain avec Fantom
 
-![](/_newsletters/Yearn-Finance-Newsletter-48/image2.png)
+![](/_newsletters/Yearn-Finance-Newsletter-48/image2.jpg)
 
 
 
@@ -73,13 +73,13 @@ Vous avez une question ? Rejoingnez notre TG ou notre [Discord](https://discord.
 
 ## Yearn atteind les $5B TVL (à nouveau)
 
- ![](/_newsletters/Yearn-Finance-Newsletter-48/image3.png)
+ ![](/_newsletters/Yearn-Finance-Newsletter-48/image3.jpg)
  
  La valeur totale verrouillée sur tous les produits Yearn a de nouveau dépassé les 5 milliards de dollars, et 1 milliard de dollars a été ajouté au cours du seul mois dernier. Yearn continue d’observer une croissance parabolique sans aucun signe de ralentissement. L'Iron Bank et les coffres v2 sont des éléments particulièrement notables de notre croissance . Vous pouvez afficher et suivre les métriques concernant la TVL en utilisant [yearn.science](https://yearn.science/). 
  
  ## Demande d’idées : refonte de la Tokenomics
 
-![](/_newsletters/Yearn-Finance-Newsletter-48/image5.png)
+![](/_newsletters/Yearn-Finance-Newsletter-48/image5.jpg)
 
 Avec le regain d'intérêt pour la tokenomique YFI ces derniers jours et comme le développement du protocole v3 est toujours dans sa phase où il est suffisamment malléable, cela pourrait être le bon moment pour relier ces 2 aspects. Tout est discutable, qu'il s'agisse de la division des jetons, de l'extraction de liquidités, de la tail emission, de verrouillage comme le veCRV. Si vous lanciez le YFI  maintenant, comment veriez-vous ? Nous attendons avec impatience les suggestions de notre communauté et aimerions les prendre en compte.
 
@@ -90,7 +90,7 @@ Consultez le post et participez [ici](https://gov.yearn.finance/t/call-for-ideas
 ## Comment contribuer ?
 
 
- ![](/_newsletters/Yearn-Finance-Newsletter-48/image4.png)
+ ![](/_newsletters/Yearn-Finance-Newsletter-48/image4.jpg)
 
 
 
@@ -124,7 +124,7 @@ Plus de details [ici](https://twitter.com/iearnfinance/status/144579926918988186
 ## Transparence chez Yearn
 
 
-![](/_newsletters/Yearn-Finance-Newsletter-48/image6.png)
+![](/_newsletters/Yearn-Finance-Newsletter-48/image6.jpg)
 
 
 

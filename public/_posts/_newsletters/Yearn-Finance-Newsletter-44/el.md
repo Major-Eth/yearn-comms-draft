@@ -14,7 +14,7 @@ publish: true
 
 # Yearn Finance Newsletter #44
 
-![](/_newsletters/Yearn-Finance-Newsletter-44/image1.png)
+![](/_newsletters/Yearn-Finance-Newsletter-44/image1.jpg)
 
 Καλώς ήρθατε στην 44η έκδοση του ενημερωτικού δελτίου του Yearn Finance. Στόχος μας με αυτό το ενημερωτικό δελτίοείναι να ενημερώνουμε την κοινότητα του Yearn και την ευρύτερη κρύπτο-κοινότητα για τα τελευταία νέα, συμπεριλαμβανομένων των νέων προϊόντων, των αλλαγών στη διακυβέρνηση και των ενημερώσεων του οικοσυστήματος. Εάν ενδιαφέρεστε να μάθετε περισσότερα για το Yearn Finance, ακολουθήστε τους επίσημους λογαριασμούς μας [Twitter](https://twitter.com/iearnfinance) και [Medium](https://medium.com/iearn).
 
@@ -31,7 +31,7 @@ publish: true
 
 ## **YIP-63 Αποτελέσματα**
 
-![](/_newsletters/Yearn-Finance-Newsletter-44/image2.png)
+![](/_newsletters/Yearn-Finance-Newsletter-44/image2.jpg)
 
 Η πρόσφατη ψηφοφορία για το YIP-63 ολοκληρώθηκε με την υπερψήφηση της πρότασης για τη χρηματοδότηση του LeXpunK DAO. Το Yearn έχει μεταφέρει ένα εκατομμύριο DAI σε ένα multisig πορτοφόλι που ελέγχεται από τους Curve Finance, Lido Finance και το LeXpunK DAO.
 
@@ -51,7 +51,7 @@ publish: true
 
 ## **Παρουσιάζουμε τέσσερα νέα yVault**
 
-![](/_newsletters/Yearn-Finance-Newsletter-44/image3.png)
+![](/_newsletters/Yearn-Finance-Newsletter-44/image3.jpg)
 
 Τέσσερα νέα yVault είναι πλέον ζωντανά στη περιβάλλον του χρήστη (UI) μας. Καταθέστε σήμερα τα κεφάλαιά σας και κερδίστε απόδοση στα AAVE, COMP, TUSD και SUSHI σας.
 
@@ -61,7 +61,7 @@ publish: true
 
 ## **Το Yearn ενσωματώθηκε στο Defi Saver**
 
-![](/_newsletters/Yearn-Finance-Newsletter-44/image4.png)
+![](/_newsletters/Yearn-Finance-Newsletter-44/image4.jpg)
 
 Το YFI ενσωματωθηκε στο Defi Saver Recipe Creator. Με αυτήν την ενσωμάτωση, μπορείτε να καταθέσετε οποιαδήποτε υποστηριζόμενα περιουσιακά στοιχεία σε θησαυροφυλάκια του Yearn χρησιμοποιώντας το DeFi Saver, καθώς και να συνδυάσετε αυτήν την ενέργεια με οποιεσδήποτε άλλες αλληλεπιδράσεις με το πρωτοκόλλο. Ορισμένα παραδείγματα περιγράφονται λεπτομερώς παρακάτω.
 
@@ -73,7 +73,7 @@ publish: true
 
 ## **Μην ξεχνάτε τον Woofy**
 
-![](/_newsletters/Yearn-Finance-Newsletter-44/image5.png)
+![](/_newsletters/Yearn-Finance-Newsletter-44/image5.jpg)
 
 Μετατρέποντας το YFI σε WOOFY με τιμή ένα YFI για ένα εκατομμύριο WOOFY, μπορείτε να κάνετε lp με αυτό, να κάνετε bridge σε άλλες αλυσίδες όπως το Polygon ή το Fantom και να καταθέσετε στο [ape.tax](https://ape.tax/) για απίστευτες αποδόσεις.
 

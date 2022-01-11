@@ -16,7 +16,7 @@ publish: true
 
 ### Εβδομάδα Σεπτεμβρίου 26, 2021
 
-![](/_newsletters/Yearn-Finance-Newsletter-47/image1.png)
+![](/_newsletters/Yearn-Finance-Newsletter-47/image1.jpg)
 
 Καλώς ήρθατε στην 47η έκδοση του ενημερωτικού δελτίου του Yearn Finance. Στόχος μας με αυτό το ενημερωτικό δελτίο είναι να ενημερώνουμε το Yearn και την ευρύτερη κοινότητα κρυπτονομισμάτων για τα τελευταία νέα, συμπεριλαμβανομένων των νέων προϊόντων, των αλλαγών διακυβέρνησης και των ενημερώσεων του οικοσυστήματος. Εάν ενδιαφέρεστε να μάθετε περισσότερα για το Yearn Finance, ακολουθήστε τους επίσημους λογαριασμούς μας [Twitter](https://twitter.com/iearnfinance) και [Medium](https://medium.com/iearn).
 
@@ -37,7 +37,7 @@ publish: true
 
 ## Introducing V3 of Yearn’s UI
 
-![](/_newsletters/Yearn-Finance-Newsletter-47/image2.png)
+![](/_newsletters/Yearn-Finance-Newsletter-47/image2.jpg)
 
 Αυτή την εβδομάδα, ανοίξαμε το νέο Yearn v3 στους χρήστες σε έκδοση beta. Η νέα πιο φιλική διεπαφή εμφανίζει όλα τα δεδομένα που χρειάζεστε για μια πανοραμική άποψη των εκμεταλλεύσεών σας και των ιστορικών συν ετήσιων κερδών σας. Προσομοιώνει επίσης συναλλαγές, ώστε να μην λαμβάνετε απροσδόκητο slippage ή αποτυχημένες συναλλαγές.
 
@@ -52,7 +52,7 @@ publish: true
 Ρίξτε μια ματιά στο [beta.yearn.finance](https://beta.yearn.finance/).
 
 ## Δείτε την νέα ενότητα Labs
-![](/_newsletters/Yearn-Finance-Newsletter-47/image3.png)
+![](/_newsletters/Yearn-Finance-Newsletter-47/image3.jpg)
 
 Παρουσιάζουμε την ενότητα Labs στη νέα διεπαφή χρήστη του Yearn V3, ένα σύνολο πειραματικών θησαυροφυλακίων που ξεπερνούν τα όρια απόδοσης στο DeFi. Ας ρίξουμε μια ματιά σε αυτά τα νέα θησαυροφυλάκια.
 
@@ -66,7 +66,7 @@ publish: true
 
 ## Το Yearn αγόρασε 320 χιλιάδες $ YFI τον Σεπτέμβριο
 
-![](/_newsletters/Yearn-Finance-Newsletter-47/image4.png)
+![](/_newsletters/Yearn-Finance-Newsletter-47/image4.jpg)
 
 Σύμφωνα με το YIP-56: Buyback and Build Yearn, το οποίο εγκρίθηκε τον Ιανουάριο του 2021, το Yearn Treasury αγόρασε επιπλέον YFI αξίας 320.000 $.
 
@@ -76,7 +76,7 @@ publish: true
 
 ## Τα σωρευτικά έσοδα πρωτοκόλλου φτάνουν τα $43 εκατομμύρια
 
-![](/_newsletters/Yearn-Finance-Newsletter-47/image5.png)
+![](/_newsletters/Yearn-Finance-Newsletter-47/image5.jpg)
 
 Η Yearn έχει κερδίσει σχεδόν 43 εκατομμύρια δολάρια σε έσοδα από την κυκλοφορία του (χωρίς τους τόκους που κερδίζουν οι καταθέτες). Τις τελευταίες 30 ημέρες, σχεδόν 6 εκατομμύρια δολάρια σε έσοδα έχουν δημιουργηθεί από το πρωτόκολλο. Μια επέκταση αυτών των δεδομένων προβλέπει ότι τα ετήσια έσοδα θα είναι σχεδόν 70 εκατομμύρια δολάρια.
 

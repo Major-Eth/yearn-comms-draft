@@ -14,7 +14,7 @@ publish: true
 
 # Yearn Finance Newsletter #45
 
-![](/_newsletters/Yearn-Finance-Newsletter-45/image1.png)
+![](/_newsletters/Yearn-Finance-Newsletter-45/image1.jpg)
 
 Bem-vindo à 45ª edição do Yearn Finance Newsletter. Nosso objetivo com este boletim é manter a comunidade da Yearn e a comunidade cripto em geral informadas sobre as notícias mais recentes, incluindo lançamentos de produtos, mudanças de governança e atualizações do ecossistema. Se você estiver interessado em aprender mais sobre Yearn Finance, siga nossas contas oficiais [Twitter](https://twitter.com/iearnfinance) e [Medium](https://medium.com/iearn).
 
@@ -29,7 +29,7 @@ Bem-vindo à 45ª edição do Yearn Finance Newsletter. Nosso objetivo com este 
 
 ## **Provedores de liquidez ALPHA e YFI elegíveis para um NFT especial**
 
-![](/_newsletters/Yearn-Finance-Newsletter-45/image2.png)
+![](/_newsletters/Yearn-Finance-Newsletter-45/image2.jpg)
 
 Os provedores de liquidez para os pools Uniswap ETH / YFI e Sushiswap ETH / YFI nos pools Alpha Homora V2 serão elegíveis para um NFT especial, cortesia de Yearn, Alpha e Project Galaxy.
 
@@ -47,7 +47,7 @@ Confira os vaults aqui em [yearn.finance/vaults](https://yearn.finance/vaults).
 
 ## **Como investir nos vaults Yearn**
 
-![](/_newsletters/Yearn-Finance-Newsletter-45/image3.png)
+![](/_newsletters/Yearn-Finance-Newsletter-45/image3.jpg)
 
 Uma das melhores maneiras de trocar fundos de um Yearn Vault para outro é normalmente usando [curve.fi](https://curve.fi/) ou com zaps embutidos na IU de Yearn. Isso é eficiente em termos de gás, mas pode custar mais em slippage ou taxas adicionais.
 
@@ -57,7 +57,7 @@ Agradecimentos a [cryptouf](https://twitter.com/cryptouf) pela curadoria deste p
 
 ## **A receita cumulativa do protocolo atinge US $ 39 milhões**
 
-![](/_newsletters/Yearn-Finance-Newsletter-45/image4.png)
+![](/_newsletters/Yearn-Finance-Newsletter-45/image4.jpg)
 
 Yearn recebeu mais de $ 39 milhões em receitas, desde o lançamento (excluindo os juros ganhos pelos depositantes). Nos últimos 30 dias, mais de $ 5 milhões de dólares em receita foram gerados pelo protocolo. Uma extrapolação desses dados projeta uma receita anual de quase US $ 30 milhões.
 

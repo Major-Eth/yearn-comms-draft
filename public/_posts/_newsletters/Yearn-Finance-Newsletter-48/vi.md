@@ -16,7 +16,7 @@ publish: true
 
 ### Tuần Kết thúc Ngày 10/10/2021
 
-![](/_newsletters/Yearn-Finance-Newsletter-48/image1_vn.png)
+![](/_newsletters/Yearn-Finance-Newsletter-48/image1_vn.jpg)
 
 Chào mừng các bạn đến với Bản tin Yearn.Finance Số #48! Chúng tôi hy vọng sẽ truyền tải được những dữ kiện mới nhất cho cộng đồng tiền mã thuật số (`crypto`) nói chung lẫn cộng đồng Yearn nói riêng; từ phát hành sản phẩm, thay đổi trong quản trị đến nhiều dự án đối tác trực thuộc hệ sinh thái Yearn. Nếu quan tâm và muốn biết thêm chi tiết về Yearn.Finance, hãy theo dõi tài khoản [Twitter](https://twitter.com/iearnfinance), [Medium](https://medium.com/iearn) cũng như đón chờ nơi phát hành Tiếng Việt chính thức của chúng tôi.
 
@@ -38,7 +38,7 @@ Chào mừng các bạn đến với Bản tin Yearn.Finance Số #48! Chúng t�
 
 ## Yearn Bắt nhịp Đa-chuỗi (`Multichain`) với Fantom
 
-![](/_newsletters/Yearn-Finance-Newsletter-48/image2.png)
+![](/_newsletters/Yearn-Finance-Newsletter-48/image2.jpg)
 
 Vũ trụ Multichain vẫy gọi. Và Yearn đã trả lời. 
 
@@ -64,7 +64,7 @@ Có thắc mắc và muốn tìm hiểu thêm? Gia nhập cùng chúng tôi tron
 
 ## Yearn (Lại) Đạt 5&nbsp;Tỷ&nbsp;$ TVL
 
-![](/_newsletters/Yearn-Finance-Newsletter-48/image3.png)
+![](/_newsletters/Yearn-Finance-Newsletter-48/image3.jpg)
 
 Tổng giá trị ký gửi (TVL) khắp mọi sản phẩm của Yearn lại một lần nữa vượt mốc 5&nbsp;tỷ&nbsp;$, với 1&nbsp;tỷ&nbsp;$ mới thêm chỉ trong tháng qua. Yearn tiếp tục chứng kiến ​​sự tăng trưởng hình parabôn mà không có dấu hiệu chậm lại. Iron&nbsp;Bank và kho bạc (`vault`) v2 là các điểm nhấn đặc biệt đáng chú ý làm nên thành công theo cấp số nhân của chúng tôi. Bạn có thể xem và theo dõi các chỉ số TVL bằng trang [yearn.science](https://yearn.science/). 
 
@@ -72,7 +72,7 @@ Xin thực sự cảm ơn tất cả mọi thành viên trong cộng đồng Yea
 
 ## Bạn Có thể Đóng góp Phát triển Yearn Như Thế nào
 
-![](/_newsletters/Yearn-Finance-Newsletter-48/image4.png)
+![](/_newsletters/Yearn-Finance-Newsletter-48/image4.jpg)
 
 Bạn có thể đang thắc mắc: "Làm sao để góp phần phát triển Yearn?" Thứ nhất, Yearn không có giấy tờ thành lập, không trụ sở chính, thậm chí còn không có danh sách tên và địa chỉ những cộng tác viên. Đây là một thử nghiệm cấp tiến về phân quyền và phi tập trung, cho thấy việc tham gia trở nên cực kỳ dễ dàng.
 
@@ -96,7 +96,7 @@ Xem thêm chi tiết [tại đây](https://twitter.com/iearnfinance/status/14457
 
 ## Kêu gọi Ý tưởng: Cập nhật Mô hình Kinh tế của Tôken YFI
 
-![](/_newsletters/Yearn-Finance-Newsletter-48/image5.png)
+![](/_newsletters/Yearn-Finance-Newsletter-48/image5.jpg)
 
 Gần đây, mô hình kinh tế của tôken (`tokenomic`) YFI đã được quan tâm trở lại, cộng với việc phát triển giao thức v3 vẫn còn ở giai đoạn khởi điểm, giờ có lẽ là lúc thích hợp để gắn kết cả hai lại với nhau. Mọi ý tưởng đều sẽ lên bàn cân, từ chia nhỏ đơn vị tôken, khai thác thanh khoản (`liquidity mining`), hậu phát hành (`tail emission`) đến kiểu khóa như veCRV. Nếu là người sáng lập YFI ngay lúc này, bạn sẽ cấu trúc nó như thế nào? Chúng tôi rất mong nhận được những đóng góp từ cộng đồng và hy vọng vào điều tốt nhất cho tương lai.
 
@@ -104,7 +104,7 @@ Xem bài đăng trên diễn đàn [ở liên kết này](https://gov.yearn.fina
 
 ## Sự Minh bạch ở Yearn
 
-![](/_newsletters/Yearn-Finance-Newsletter-48/image6.png)
+![](/_newsletters/Yearn-Finance-Newsletter-48/image6.jpg)
 
 Nhờ sự minh bạch và dễ dàng xác minh trực-chuỗi (`on-chain`), chúng tôi tin chắc rằng tiền mã thuật số (`crypto`) sẽ thay đổi thế giới. Yearn hy vọng trở thành tấm gương điển hình về tính minh bạch với những ví dụ sau đây.
 

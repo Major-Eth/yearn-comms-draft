@@ -16,7 +16,7 @@ publish: true
 
 ### Semana terminando em 14 de novembro de 2021
 
-![](/_newsletters/Yearn-Finance-Newsletter-49/image1.png)
+![](/_newsletters/Yearn-Finance-Newsletter-49/image1.jpg)
 
 Bem-vindo à 49ª edição da Yearn Finance Newsletter. Nosso objetivo com este boletim é manter a comunidade da Yearn e a comunidade cripto em geral informadas sobre as notícias mais recentes, incluindo lançamentos de produtos, mudanças de governança e atualizações do ecossistema. Se você estiver interessado em aprender mais sobre Yearn Finance, siga nossas contas oficiais [Twitter](https://twitter.com/iearnfinance) e [Medium](https://medium.com/iearn).
 
@@ -47,7 +47,7 @@ Bem-vindo à 49ª edição da Yearn Finance Newsletter. Nosso objetivo com este 
 
 ## Atualização do Modelo Econômico do Token YFI
 
-![](/_newsletters/Yearn-Finance-Newsletter-49/image2.png)
+![](/_newsletters/Yearn-Finance-Newsletter-49/image2.jpg)
 
 Recentemente, vários membros da comunidade Yearn e desenvolvedores se uniram para criar planos viáveis para atualizar o Modelo Econômico do do Token YFI (tokenomics YFI). Algumas dessas sugestões incluem uma divisão de token, um modelo de veCRV, compartilhamento de taxas, redução de taxas, seguro do vault e muitas outras ideias incríveis. Obrigado a todas as pessoas envolvidas por sua valiosa contribuição.
 
@@ -57,7 +57,7 @@ Visões gerais das recentes reuniões YFI Tokenomics podem ser encontradas [aqui
 
 ## Prêmio Yearn Millennium
 
-![](/_newsletters/Yearn-Finance-Newsletter-49/image3.png)
+![](/_newsletters/Yearn-Finance-Newsletter-49/image3.jpg)
 
 Escreva uma estratégia que ganhe de forma consistente e segura 40% APY em $ 300 milhões ou 12% em $ 1 bilhão por mês e você ganhará $1 milhão em taxas mensais de estrategista.
 
@@ -69,7 +69,7 @@ Saiba mais sobre o processo de criação e implantação de estratégias de Year
 
 ## O valor total de investido através de Yearn alcança $6 bilhões
 
-![](/_newsletters/Yearn-Finance-Newsletter-49/image4.png)
+![](/_newsletters/Yearn-Finance-Newsletter-49/image4.jpg)
 
 O valor total bloqueado em todos os produtos Yearn atingiu US$ 6 bilhões, e quase US$ 1 bilhão foi adicionado apenas no último mês. Yearn continua a ver um crescimento parabólico entre seus produtos, sem nenhuma indicação de desaceleração. O Iron Bank e os vaults v2 são componentes particularmente notáveis de nosso crescimento exponencial. Você pode visualizar e rastrear métricas de TVL entre nossos produtos usando [yearn.science](https://yearn.science/). 
 
@@ -79,7 +79,7 @@ Para comemorar este marco, reivindique seu NFT do TVL de $6B geo-localizado feit
 
 ## Primeiro projeto do YFI Combinator: Tesseract
 
-![](/_newsletters/Yearn-Finance-Newsletter-49/image5.png)
+![](/_newsletters/Yearn-Finance-Newsletter-49/image5.jpg)
 
 Tesseract é o primeiro projeto originado da YFI Combinator, nossa mais nova incubadora de estágio inicial. Ele aproveita a experiência acumulada na Yearn para trazer os melhores rendimentos a um público mais amplo.
 
@@ -105,7 +105,7 @@ Leia o artigo [aqui](https://messari.io/article/yearning-for-yearn).
 
 ## Status da Tesouraria de Yearn
 
-![](/_newsletters/Yearn-Finance-Newsletter-49/image6.png)
+![](/_newsletters/Yearn-Finance-Newsletter-49/image6.jpg)
 
 Em 29 de outubro, o Tesouro de Yearn detém um saldo de US$ 27,2 milhões em tokens não-nativos, dos quais US$ 13,7 milhões em stablecoins. 
 
@@ -115,7 +115,7 @@ Verifique várias estatísticas do Yearn [aqui](https://yearn.vision/) e veja o 
 
 ## Yearn Devs salvam Robo Vault de uma perda de $ 50 milhões
 
-![](/_newsletters/Yearn-Finance-Newsletter-49/image7.png)
+![](/_newsletters/Yearn-Finance-Newsletter-49/image7.jpg)
 
 Com a ajuda da equipe Yearn, Robo Vault identificou e corrigiu um problema crítico que poderia ter afetado mais de $ 50 milhões em depósitos de usuários. Yearn também recuperou mais de $ 9 milhões do exploit CREAM, que já foram devolvidos.
 
@@ -123,7 +123,7 @@ Leia mais sobre o processo [aqui](https://medium.com/@RoboVault/post-mortem-next
 
 ## Zaps Fixed Forex
 
-![](/_newsletters/Yearn-Finance-Newsletter-49/image8.png)
+![](/_newsletters/Yearn-Finance-Newsletter-49/image8.jpg)
 
 Colaboramos com o Zapper, para que os usuários do Yearn possam entrar nos vaults de Fixed Forex da Keep3r com quase qualquer token em sua carteira. 
 

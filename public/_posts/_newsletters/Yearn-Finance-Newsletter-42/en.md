@@ -14,7 +14,7 @@ publish: true
 
 # Yearn Finance Newsletter #42
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image1.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image1.jpg)
 
 Welcome to the 42nd edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If youΓÇÖre interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
 
@@ -32,7 +32,7 @@ Welcome to the 42nd edition of the Yearn Finance Newsletter. Our aim with this n
 
 ## **The Blue Pill NFTs**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image2.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image2.jpg)
 
 To celebrate the first year of Yearn, we have collaborated once again with Project Galaxy to bring you The Blue Pill, a spiritual guide for the past, present and future of Yearn. Made by Zemm, The Blue Pill is a beautifully-typeset book available to our 13,500 most loyal supporters. This is a series of seven unique NFTs for the various farmers, stakers, voters, and givers of the Yearn community. Join us in celebrating the gift of YFI!
 
@@ -42,7 +42,7 @@ Claim your books [here](https://galaxy.eco/yearn) and check out the full book [h
 
 ## **Woofy Week 11 Snapshot**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image3.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image3.jpg)
 
 New WOOFY holders can expect an NFT gift via a collaboration between Yearn and Project Galaxy. These are from a series of six unique WOOFY NFTs as shown above. These snapshots cover token holders, LPs, stakers, and vault users across multiple chains.
 
@@ -50,7 +50,7 @@ Claim your Woofy NFTs [here](https://galaxy.eco/yearn).
 
 ## **Migrate Or Die**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image4.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image4.jpg)
 
 The v1 vaults have served everyone as a reliable source of yield for almost a year, but now the time has come to say goodbye. All old vaults have been harvested one last time and strategies have been unwinded. As a reminder, our v2 vaults entail several changes such as deploying capital across several strategies for more efficiency and better risk-adjusted yield.
 
@@ -68,7 +68,7 @@ Check out the vaults [here](https://yearn.finance/vaults).
 
 ## **Check Out The Pickle Jars**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image5.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image5.jpg)
 
 At Pickle Finance, you can find impressive rates from 7% to 40% on your favorite yVault tokens. You can earn on Yearn FRAX, Yearn LUSD, yUSDC, and many more!
 
@@ -80,7 +80,7 @@ View more details about partnerships [here](https://twitter.com/iearnfinance/sta
 
 ## **What It Takes To Be A Strategist**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image6.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image6.jpg)
 
 Over $5M has been paid to Yearn strategists in 2021. At EthCC, Facu Ameal broke down what it takes to become a mighty strategist like him. Strategies, as you may know, are the backbone to Yearn and allow you to earn the best risk-adjusted yield on your tokens.
 
@@ -90,7 +90,7 @@ Check the [video](https://www.youtube.com/watch?v=NVR3teJw0Y0), which includes a
 
 ## **Audits Published For Yearn V2**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image7.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image7.jpg)
 
 Yearn has connected with Trail of Bits on an audit of the v2 Vault, BaseStrategy and BaseWrapper contracts. The findings of the audit were addressed in the 0.4.x series of the contracts released in May.
 

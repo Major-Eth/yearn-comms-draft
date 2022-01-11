@@ -14,7 +14,7 @@ publish: true
 
 # Yearn Finance Newsletter #44
 
-![](/_newsletters/Yearn-Finance-Newsletter-44/image1.png)
+![](/_newsletters/Yearn-Finance-Newsletter-44/image1.jpg)
 
 Bem-vindo à 44ª edição do Yearn Finance Newsletter. Nosso objetivo com este boletim é manter a comunidade da Yearn e a comunidade cripto em geral informadas sobre as notícias mais recentes, incluindo lançamentos de produtos, mudanças de governança e atualizações do ecossistema. Se você estiver interessado em aprender mais sobre Yearn Finance, siga nossas contas oficiais [Twitter](https://twitter.com/iearnfinance) e [Medium](https://medium.com/iearn).
 
@@ -30,7 +30,7 @@ Bem-vindo à 44ª edição do Yearn Finance Newsletter. Nosso objetivo com este 
 
 ## ** Resultados YIP-63 **
 
-![](/_newsletters/Yearn-Finance-Newsletter-44/image2.png)
+![](/_newsletters/Yearn-Finance-Newsletter-44/image2.jpg)
 
 A recente votação para YIP-63 resultou em um acordo para o financiamento do LeXpunK DAO. Yearn transferiu um milhão de DAI para uma multisig controlada pela Curve Finance, Lido Finance e LeXpunK DAO.
 
@@ -50,7 +50,7 @@ Preencha a pesquisa [aqui](https://yearnfinance.typeform.com/to/ojp3J8gn).
 
 ## **Apresentando quatro novos yVaults**
 
-![](/_newsletters/Yearn-Finance-Newsletter-44/image3.png)
+![](/_newsletters/Yearn-Finance-Newsletter-44/image3.jpg)
 
 Quatro novos yVaults estão agora disponíveis em nossao site. Deposite hoje e ganhe rendimento em seu AAVE, COMP, TUSD e SUSHI
 
@@ -60,7 +60,7 @@ Você pode ver os últimos APYs para esses vaults e fazer um depósito usando es
 
 ## **Yearn integrado no Defi Saver**
 
-![](/_newsletters/Yearn-Finance-Newsletter-44/image4.png)
+![](/_newsletters/Yearn-Finance-Newsletter-44/image4.jpg)
 
 YFI foi integrado ao Defi Saver Recipe Creator. Com esta integração, você pode depositar quaisquer ativos suportados em vaults Yearn usando DeFi Saver, bem como combinar esta ação com quaisquer outras interações de protocolo. Alguns exemplos são detalhados a seguir.
 
@@ -72,7 +72,7 @@ Confira outras receitas usando Yearn [aqui](https://app.defisaver.com/).
 
 ## **Não se esqueça do Woofy**
 
-![](/_newsletters/Yearn-Finance-Newsletter-44/image5.png)
+![](/_newsletters/Yearn-Finance-Newsletter-44/image5.jpg)
 
 Ao converter YFI em WOOFY a uma taxa de um YFI por um milhão de WOOFY, você pode lp com ele, fazer uma ponte para outras cadeias como Polygon ou Fantom e depositar em [ape.tax](https://ape.tax/) para rendimentos incríveis.
 

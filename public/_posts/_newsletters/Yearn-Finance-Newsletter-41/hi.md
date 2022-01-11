@@ -12,7 +12,7 @@ translator: Jengajojo
 publish: true
 ---
 
-![alt_text](/_newsletters/Yearn-Finance-Newsletter-41/image1.png)
+![](/_newsletters/Yearn-Finance-Newsletter-41/image1.jpg)
 
 # यर्न फिनांस समाचार पत्र #४१
 
@@ -29,7 +29,7 @@ publish: true
 
 ## YFI पहला वर्ष मना रहा है
 
-![alt_text](/_newsletters/Yearn-Finance-Newsletter-41/image5.png)
+![](/_newsletters/Yearn-Finance-Newsletter-41/image5.jpg)
 
 एक साल पहले १७ जुलाई, २०२० को, YFI टोकन लॉन्च किया गया था। डीफाई में एक अविस्मरणीय क्षण बनाने के लिए सभी को धन्यवाद और अब सबसे मजबूत डीफाई पारिस्थितिक तंत्र में से एक है।
 
@@ -37,7 +37,7 @@ publish: true
 
 ## समूहक बाजार में यर्न का बाजार हिस्सा बढ़ता है
 
-![alt_text](/_newsletters/Yearn-Finance-Newsletter-41/image3.png "image_tooltip")
+![](/_newsletters/Yearn-Finance-Newsletter-41/image3.jpg)
 
 तिमाही २, २०२१ में, ब्याज समूहक बाजार में सालाना बाजार हिस्सेदारी २९% से ६९% तक बढ़ी। हमने अपने एयूएम में एक प्रभावशाली १३६% की वृद्धि देखी, क्योंकि यह पांच अरब डॉलर से अधिक पहुंच गई। हम आपको बाजार में सबसे अच्छा जोखिम-समायोजित ब्याज खोजने के लिए लगातार काम कर रहे हैं। हमारे yvaults को पूंजी जमा करें और रणनीतिकारों को आपके लिए सभी कड़ी मेहनत करने दें।
 
@@ -45,7 +45,7 @@ publish: true
 
 ## यर्न, कंपाउंड में जोड़ा जाएगा
 
-![alt_text](/_newsletters/Yearn-Finance-Newsletter-41/image3.png)
+![](/_newsletters/Yearn-Finance-Newsletter-41/image3.jpg)
 
 एक प्रस्ताव बनाया गया है और अनुबंध तैनात किया गया है, YFI को कंपाउंड फाइनेंस में जोड़ने के लिए। प्रत्येक टोकन में शून्य संपार्श्विक कारक (प्रारंभ में) होगा, वही ब्याज रणनीति (कॉम्प / लिंक के रूप में), और प्रत्येक बाजार (जो मानक है) के लिए २५% का आरक्षित कारक होगा।
 
@@ -55,7 +55,7 @@ publish: true
 
 ## मेकरडाओ पर YFI उधार दर कम हो गई
 
-![alt_text](/_newsletters/Yearn-Finance-Newsletter-41/image2.png)
+![](/_newsletters/Yearn-Finance-Newsletter-41/image2.jpg)
 
 मेकरदाओ ने वाईएफआई-एक स्थिरता शुल्क को १% और ईटीएच-सी स्थिरता शुल्क ०.५% तक कम कर दिया है। ये सालाना YFI और नैतिक रणनीतियों के लिए अविश्वसनीय रूप से फायदेमंद हैं क्योंकि वे उधार लेने की लागत कम करते हैं। पूंजी की कम लागत उपयोगकर्ताओं के लिए अधिक शुद्ध उपज उत्पन्न करती है, रिटर्न में सुधार करती है।
 

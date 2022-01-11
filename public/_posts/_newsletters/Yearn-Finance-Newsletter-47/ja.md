@@ -16,7 +16,7 @@ publish: true
 
 ### 2021年9月26日までの1週間
 
-![](/_newsletters/Yearn-Finance-Newsletter-47/image1.png)
+![](/_newsletters/Yearn-Finance-Newsletter-47/image1.jpg)
 
 Yearn Finance Newsletter第47号へようこそ。このニュースレターの目的は、プロダクトのローンチ、ガバナンスの変更、エコシステムの更新など、最新のニュースをYearnとより広いクリプトコミュニティにお知らせすることです。Yearn Financeについてもっと知りたいという方は、私たちの公式[Twitter](https://twitter.com/iearnfinance)と[Medium](https://medium.com/iearn)アカウントをフォローしてください。
 
@@ -37,7 +37,7 @@ Yearn Finance Newsletter第47号へようこそ。このニュースレターの
 
 ## YearnのUI V3の紹介
 
-![](/_newsletters/Yearn-Finance-Newsletter-47/image2.png)
+![](/_newsletters/Yearn-Finance-Newsletter-47/image2.jpg)
 
 今週、私たちは新しいYearn v3のベータ版をユーザーに公開しました。より親しみやすいインターフェースになり、保有資産や過去の収益に加えて年間の収益を概観するために必要なすべてのデータが表示されます。また、取引のシミュレーションを行うので予期せぬスリッページや取引の失敗を防ぐことができます。
 
@@ -53,7 +53,7 @@ V3のUIについての詳細な説明は[こちら](https://medium.com/iearn/yea
 
 ## 新しいラボセクションをチェック
 
-![](/_newsletters/Yearn-Finance-Newsletter-47/image3.png)
+![](/_newsletters/Yearn-Finance-Newsletter-47/image3.jpg)
 
 新しいYearn V3 UIのLabsセクションをご紹介します。DeFiのイールドの限界を押し広げる実験的なVaultのセットです。この新しいVaultを見てみましょう。
 
@@ -67,7 +67,7 @@ yveCRV、yvBOOST、そしてyvBOOST-ETHのpJar（Pickle Financeとの共同開�
 
 ## Yearnが320KドルのYFIを9月に購入
 
-![](/_newsletters/Yearn-Finance-Newsletter-47/image4.png)
+![](/_newsletters/Yearn-Finance-Newsletter-47/image4.jpg)
 
 2021年1月に可決された「YIP-56：Buyback and Build Yearn」に基づき、Yearnトレジャリーは320Kドル相当のYFIを追加購入しました。
 
@@ -77,7 +77,7 @@ Yearnトレジャりーは、この買い戻し方針を変更する新たなガ
 
 ## プロトコルの累積収益が43Mドルに到達
 
-![](/_newsletters/Yearn-Finance-Newsletter-47/image5.png)
+![](/_newsletters/Yearn-Finance-Newsletter-47/image5.jpg)
 
 Yearnはローンチ以来約43Mドルの収益を上げています（預金者が得た利子を除く）。過去30日間では約6Mドルの収益がこのプロトコルによってもたらされました。このデータを推定すると、年間収益は約70Mドルになると予測されます。 
 

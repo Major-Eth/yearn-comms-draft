@@ -12,7 +12,7 @@ translator: Cryptouf
 publish: true
 ---
 
-![alt_text](/_newsletters/Yearn-Finance-Newsletter-41/image1.png)
+![](/_newsletters/Yearn-Finance-Newsletter-41/image1.jpg)
 
 # Yearn Finance Newsletter #41
 
@@ -29,13 +29,13 @@ Bienvenue à la 41e édition de la Newsletter Yearn Finance. Notre objectif avec
 
 ## Célébrons le premier anniversaire de Yearn
 
-![alt_text](/_newsletters/Yearn-Finance-Newsletter-41/image5.png)
+![](/_newsletters/Yearn-Finance-Newsletter-41/image5.jpg)
 
 Il y a un an, le 17 juillet 2020, le jeton YFI était lancé. Merci à tous d'avoir participé à ce moment inoubliable dans la DeFi et ce qui est maintenant l'un des écosystèmes DeFi les plus forts.
 
 ## La part de marché de Yearn dans le marché des agrégateurs augmente
 
-![alt_text](/_newsletters/Yearn-Finance-Newsletter-41/image4.png)
+![](/_newsletters/Yearn-Finance-Newsletter-41/image4.jpg)
 
 Au deuxième trimestre 2021, la part de marché de Yearn sur le marché des agrégateurs de rendement est passée de 29 % à 69 %. Nous avons enregistré une croissance impressionnante avec une augmentation de 136 % de nos actifs sous gestion, puisqu'ils ont atteint plus de cinq milliards de dollars. Nous travaillons constamment pour vous proposer  les meilleurs rendements ajustés au risque du marché. Déposez vos capitaux dans nos yVaults et laissez les stratèges faire tout le travail pour vous.
 
@@ -44,7 +44,7 @@ Voir plus de détails sur Yearn et les analyses générales dans ce [rapport](ht
 
 ## Yearn va être ajouté sur Compound 
 
-![alt_text](/_newsletters/Yearn-Finance-Newsletter-41/image3.png)
+![](/_newsletters/Yearn-Finance-Newsletter-41/image3.jpg)
 
 Une proposition a été créée et des contrats ont été déployés pour ajouter le $YFI sur Compound Finance. Chaque jeton aura un facteur de garantie nul (initialement), le même modèle de taux d'intérêt (comme COMP/LINK) et un facteur de réserve de 25 % pour chaque marché (ce qui est standard).
 
@@ -55,7 +55,7 @@ Voir plus de détails sur le forum de Compound [ici](https://www.comp.xyz/t/add-
 
 ## Le Taux d'emprunt du YFI abaissé sur MakerDAO
 
-![alt_text](/_newsletters/Yearn-Finance-Newsletter-41/image2.png)
+![](/_newsletters/Yearn-Finance-Newsletter-41/image2.jpg)
 
 MakerDAO a abaissé les frais de stabilité YFI-A à 1% et les frais de stabilité ETH-C à 0,50%. Cela est incroyablement bénéfique pour les stratégies YFI et ETH de Yearn car ils réduisent le coût d'emprunt. Le coût réduit  génère plus de rendement net pour les utilisateurs, améliorant ainsi les rendements.
 

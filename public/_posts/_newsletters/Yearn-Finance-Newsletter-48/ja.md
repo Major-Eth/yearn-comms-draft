@@ -16,7 +16,7 @@ publish: true
 
 ### 2021年10月10日までの1週間
 
-![](/_newsletters/Yearn-Finance-Newsletter-48/image1.png)
+![](/_newsletters/Yearn-Finance-Newsletter-48/image1.jpg)
 
 Yearn Finance Newsletter 第48号へようこそ。このニュースレターの目的はプロダクトの発売、ガバナンスの変更、エコシステムの更新など最新のニュースをYearnとより広いクリプトコミュニティにお知らせすることです。Yearn Financeについてもっと知りたいという方は、私たちの公式[Twitter](https://twitter.com/iearnfinance)と[Medium](https://medium.com/iearn)アカウントをフォローしてください。
 
@@ -38,7 +38,7 @@ Yearn Finance Newsletter 第48号へようこそ。このニュースレター�
 
 ## Fantom対応によるYearnのマルチチェーン展開
 
-![](/_newsletters/Yearn-Finance-Newsletter-48/image2.png)
+![](/_newsletters/Yearn-Finance-Newsletter-48/image2.jpg)
 
 マルチチェーン界が手招きしている…Yearnはその声に耳を傾けました。 
 
@@ -64,7 +64,7 @@ Arbitrum、Optimism、Polygon、Avalancheなどがいつ登場するのかとい
 
 ## Yearnは$5BのTVLに到達しました (再び)
 
- ![](/_newsletters/Yearn-Finance-Newsletter-48/image3.png)
+ ![](/_newsletters/Yearn-Finance-Newsletter-48/image3.jpg)
 
  Yearnの全プロダクトを通したTVL総額は再び5Bドルを超え、先月だけで1Bドルが追加されました。Yearnではプロダクトのパラボリックな成長が続いており、その勢いは衰える気配がありません。特にIron Bankとv2 vaultはYearnの指数関数的な成長の中でも注目すべきコンポーネントです。[Yearn.science](https://yearn.science/)では、YearnプロダクトのTVL測定値を閲覧・追跡することができます。 
 
@@ -72,7 +72,7 @@ Yearnエコシステムの皆様、パートナー企業の皆様、そしても
 
 ## Yearnにコントリビュートする方法
 
- ![](/_newsletters/Yearn-Finance-Newsletter-48/image4.png)
+ ![](/_newsletters/Yearn-Finance-Newsletter-48/image4.jpg)
 
 "どうやってYearnにコントリビュートすればいいの？"とお尋ねかもしれません。Yearnには会社設立の書類も、本部も、コントリビューターの名前と場所のリストさえもありません。これは非中央集権の革命的な実験であり、参加するのは簡単です。
 
@@ -100,7 +100,7 @@ Yearnの最も革命的な要素がただのイールドマシンではないと
 
 ## アイデア募集：YFIトークンノミクスの改良
 
-![](/_newsletters/Yearn-Finance-Newsletter-48/image5.png)
+![](/_newsletters/Yearn-Finance-Newsletter-48/image5.jpg)
 
 ここ数日、YFIトークンノミクスに新たな関心が寄せられています。v3プロトコルの開発はまだ十分に調整可能な段階にあるため、この2つを適切に結びつけるには良い時期かもしれません。トークンの分割、リクイディティマイニング、テールエミッション、veCRVスタイルのロックアップなど、すべてがテーブルの上にあります。もし今からYFIを始めるとしたらどのように構成しますか？私たちはコミュニティが提示する提案を楽しみにしており、将来的にはそれを実装したいと考えています。
 
@@ -108,7 +108,7 @@ Yearnの最も革命的な要素がただのイールドマシンではないと
 
 ## Yearnの透明性
 
-![](/_newsletters/Yearn-Finance-Newsletter-48/image6.png)
+![](/_newsletters/Yearn-Finance-Newsletter-48/image6.jpg)
 
 私たちはクリプトが透明性とオンチェーンでの検証可能性によって世界を変えると確信しています。Yearnはこの透明性の模範となることを望んでおり、以下にいくつかの例を紹介します。
 

@@ -16,7 +16,7 @@ publish: true
 
 ### 2021年11月14日までの週
 
-![](/_newsletters/Yearn-Finance-Newsletter-49/image1.png)
+![](/_newsletters/Yearn-Finance-Newsletter-49/image1.jpg)
 
 Yearn Finance Newsletterの第49号へようこそ。このニュースレターの目的は、プロダクトのローンチ、ガバナンスの変更、エコシステムの更新など、最新のニュースをYearnとより広いクリプトコミュニティにお知らせすることです。Yearn Financeについてもっと知りたいという方は、私たちの公式[Twitter](https://twitter.com/iearnfinance)と[Medium](https://medium.com/iearn)アカウントをフォローしてください。
 
@@ -47,7 +47,7 @@ Yearn Finance Newsletterの第49号へようこそ。このニュースレター
 
 ## YFIトークンノミクスの改良
 
-![](/_newsletters/Yearn-Finance-Newsletter-49/image2.png)
+![](/_newsletters/Yearn-Finance-Newsletter-49/image2.jpg)
 
 最近、何人かのYearnコミュニティのメンバーと開発陣が団結し、YFIのトークンノミクスをアップグレードするための実行可能なプランを作成しました。これらの提案の中にはトークンの分割、veCRVモデル、手数料の分配、手数料の削減、ボールト保険、その他多くの素晴らしいアイデアが含まれています。貴重なご意見をいただいた関係者の皆様、ありがとうございました。
 
@@ -57,7 +57,7 @@ Yearn Finance Newsletterの第49号へようこそ。このニュースレター
 
 ## Yearnミレニアム賞
 
-![](/_newsletters/Yearn-Finance-Newsletter-49/image3.png)
+![](/_newsletters/Yearn-Finance-Newsletter-49/image3.jpg)
 
 300Mドルで40％のAPY、1Bドルで12％のAPYを1ヶ月間一貫して安全に稼ぐストラテジーを構築すれば、毎月1Mドルのストラテジスト手数料を得ることができます。
 
@@ -69,7 +69,7 @@ Yearnのストラテジーの作成と展開のプロセスについては[こ�
 
 ## Yearnのトータルバリューロック額が60億ドルに到達
 
-![](/_newsletters/Yearn-Finance-Newsletter-49/image4.png)
+![](/_newsletters/Yearn-Finance-Newsletter-49/image4.jpg)
 
 Yearnの全プロダクトでロックされた総額は60億ドルに達し、先月だけで約10億ドルが追加されました。Yearnはプロダクト間でパラボリックに成長し続けており、その勢いは衰える気配がありません。特にIron Bankとv2ボールトはYearnの指数関数的な成長を支える注目すべきコンポーネントです。
 [yearn.science](https://yearn.science/)を使って、当社プロダクトのTVL測定値を閲覧・追跡することができます。 
@@ -80,7 +80,7 @@ Yearnエコシステムの皆様、パートナーの皆様、そしてもちろ
 
 ## YFIコントリビューターの最初のプロジェクト: Tesseract
 
-![](/_newsletters/Yearn-Finance-Newsletter-49/image5.png)
+![](/_newsletters/Yearn-Finance-Newsletter-49/image5.jpg)
 
 TesseractはYearnの最新のアーリーステージ・インキュベーターであるYFIコンビネーターから生まれた最初のプロジェクトです。TesseractはYearnで蓄積された専門知識を活用し、最高のイールドをより多くの人に届けるものです。
 
@@ -104,7 +104,7 @@ Messariは最近Yearnについての包括的なレポートを発行し、Yearn
 
 ## Yearnトレジャリーのステータス
 
-![](/_newsletters/Yearn-Finance-Newsletter-49/image6.png)
+![](/_newsletters/Yearn-Finance-Newsletter-49/image6.jpg)
 
 10月29日現在、Yearnのトレジャリーは非ネイティブトークンの残高を$27.2m保持しており、そのうち$13.7mはステーブルコインです。 
 
@@ -114,7 +114,7 @@ Messariは最近Yearnについての包括的なレポートを発行し、Yearn
 
 ## Yearnの開発陣はRoboボールトから50Mドルの流出を防ぐ
 
-![](/_newsletters/Yearn-Finance-Newsletter-49/image7.png)
+![](/_newsletters/Yearn-Finance-Newsletter-49/image7.jpg)
 
 Yearnチームの協力を得て、Roboボールトは50Mドル以上のユーザーの入金に影響を与える可能性のある重要な問題を特定し、修正しました。また、YearnはCREAMのエクスプロイトから900万ドル以上を回収し、それを返還しました。
 
@@ -122,7 +122,7 @@ Yearnチームの協力を得て、Roboボールトは50Mドル以上のユー�
 
 ## Fixed Forexのザップイン
 
-![](/_newsletters/Yearn-Finance-Newsletter-49/image8.png)
+![](/_newsletters/Yearn-Finance-Newsletter-49/image8.jpg)
 
 YearnはZapperとコラボレーションしており、YearnユーザーはあなたのウォレットにあるほとんどすべてのトークンをKeep3r Fixed Forexのボールトにザップインすることができます。 
 

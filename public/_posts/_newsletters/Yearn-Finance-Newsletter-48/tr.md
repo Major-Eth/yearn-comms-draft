@@ -16,7 +16,7 @@ publish: true
 
 ### 10 Ekim 2021'de Sona Eren Hafta
 
-![](/_newsletters/Yearn-Finance-Newsletter-48/image1.png)
+![](/_newsletters/Yearn-Finance-Newsletter-48/image1.jpg)
 
 Yearn Finance Bülteninin 48. baskısına hoş geldiniz. Bu bültenle amacımız, Yearn'i ve daha geniş kripto topluluğunu ürün lansmanları, yönetim değişiklikleri ve ekosistem güncellemeleri de dahil olmak üzere en son gelişmelerden haberdar etmektir. Yearn Finance hakkında daha fazla bilgi edinmek istiyorsanız, resmi [Twitter](https://twitter.com/iearnfinance) ve [Medium](https://medium.com/iearn) hesaplarımızı takip edin.
 
@@ -38,7 +38,7 @@ Yearn Finance Bülteninin 48. baskısına hoş geldiniz. Bu bültenle amacımız
 
 ## Yearn, Fantom ile Çoklu Zincire Geçiyor
 
-![](/_newsletters/Yearn-Finance-Newsletter-48/image2.png)
+![](/_newsletters/Yearn-Finance-Newsletter-48/image2.jpg)
 
 The Realm of Multichain çağırıyor. Ve Yearn çağrıya kulak verdi.
 
@@ -64,7 +64,7 @@ Sorularınız mı var veya daha fazlasını mı öğrenmek istiyorsunuz? Telegra
 
 ## Yearn 5 milyar dolarlık TVL'ye ulaştı (Yine)
 
- ![](/_newsletters/Yearn-Finance-Newsletter-48/image3.png)
+ ![](/_newsletters/Yearn-Finance-Newsletter-48/image3.jpg)
 
  Tüm Yearn ürünlerinde kilitlenen toplam değer bir kez daha 5 milyar doları aştı ve yalnızca geçen ay 1 milyar dolar eklendi. Yearn, hiçbir yavaşlama belirtisi göstermeden ürünleri arasında parabolik büyüme görmeye devam ediyor. Iron Bank ve v2 vault'ları, üstel büyümemizin özellikle dikkate değer bileşenleridir. [yearn.science](https://yearn.science/) kullanarak ürünlerimiz arasındaki TVL metriklerini görüntüleyebilir ve takip edebilirsiniz.
 
@@ -72,7 +72,7 @@ Yearn ekosistemindeki herkese, ortaklarımıza ve tabii ki siz kullanıcılara �
 
 ## Yearn'e Nasıl Katkıda Bulunabilirsiniz?
 
- ![](/_newsletters/Yearn-Finance-Newsletter-48/image4.png)
+ ![](/_newsletters/Yearn-Finance-Newsletter-48/image4.jpg)
 
 “Yılbaşına nasıl katkıda bulunabilirim?” diye sorabilirsiniz. Birincisi, Yearn'in hiçbir kuruluş belgesi, merkezi yok, hatta katkıda bulunanlar için bir isim ve yer listesi bile yok. Bu, ademi merkeziyetçilik konusunda radikal bir deney ve işte dahil olmanın ne kadar kolay olduğunu gösterir.
 
@@ -96,7 +96,7 @@ Detaylı bilgi için [buraya](https://twitter.com/iearnfinance/status/1445799269
 
 ## Fikir Çağrısı : YFI Tokenomik'lerinin Yenilenmesi
 
-![](/_newsletters/Yearn-Finance-Newsletter-48/image5.png)
+![](/_newsletters/Yearn-Finance-Newsletter-48/image5.jpg)
 
 Son günlerde YFI tokenomiğine olan ilginin artması ve v3 protokolü geliştirmesinin hala yeterince şekillendirilebilir olduğu aşamada olmasıyla, ikisini düzgün bir şekilde birbirine bağlamak için iyi bir zaman olabilir. Token bölünmesi olsun, likidite madenciliği, kuyruk emisyonu, veCRV tarzı kilitlenmeler olsun her şey masada. YFI'yi şimdi başlatsaydınız, nasıl yapılandırırdınız? Topluluğumuzun öne sürdüğü önerileri sabırsızlıkla bekliyoruz ve gelecekte uygulamayı çok isteriz.
 
@@ -104,7 +104,7 @@ Forum gönderisine [buradan](https://gov.yearn.finance/t/call-for-ideas-yfi-toke
 
 ## Yearn'de Şeffaflık
 
-![](/_newsletters/Yearn-Finance-Newsletter-48/image6.png)
+![](/_newsletters/Yearn-Finance-Newsletter-48/image6.jpg)
 
 Şeffaflık ve zincir üzerinde doğrulanabilirlik sayesinde, kriptonun dünyayı değiştireceğine kesinlikle inanıyoruz. Yearn bu şeffaflığı örneklendirmeyi umuyor size aşağıda bazı örnekler sunduk.
 

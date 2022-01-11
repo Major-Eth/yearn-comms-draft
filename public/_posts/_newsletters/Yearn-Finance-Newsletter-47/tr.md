@@ -16,7 +16,7 @@ publish: true
 
 ### 26 Eylül 2021'de Sona Eren Hafta
 
-![](/_newsletters/Yearn-Finance-Newsletter-47/image1.png)
+![](/_newsletters/Yearn-Finance-Newsletter-47/image1.jpg)
 
 Yearn Finance Bülteninin 47. baskısına hoş geldiniz. Bu bültenle amacımız, Yearn'i ve daha geniş kripto topluluğunu ürün lansmanları, yönetim değişiklikleri ve ekosistem güncellemeleri de dahil olmak üzere en son gelişmelerden haberdar etmektir. Yearn Finance hakkında daha fazla bilgi edinmek istiyorsanız, resmi [Twitter](https://twitter.com/iearnfinance) ve [Medium](https://medium.com/iearn) hesaplarımızı takip edin.
 
@@ -37,7 +37,7 @@ Yearn Finance Bülteninin 47. baskısına hoş geldiniz. Bu bültenle amacımız
 
 ## Yearn'in Kullanıcı Arayüzü V3 Tanıtımı
 
-![](/_newsletters/Yearn-Finance-Newsletter-47/image2.png)
+![](/_newsletters/Yearn-Finance-Newsletter-47/image2.jpg)
 
 Bu hafta yeni Yearn v3'ü beta olarak kullanıcılara açtık. Güncel, kullanıcı dostu arayüz, varlıklarınızın ve geçmiş artı yıllık kazançlarınızın kuş bakışı görünümü için ihtiyaç duyduğunuz tüm verileri ortaya çıkarır. Ayrıca, beklenmeyen slipaj veya başarısız işlemlerle karşılaşmamanız için işlemleri simüle eder.
 
@@ -53,7 +53,7 @@ V3 kullanıcı arayüzünün ayrıntılı özetini [buradan](https://medium.com/
 
 ## Yeni Laboratuvarlar Bölümüne Göz Atın
 
-![](/_newsletters/Yearn-Finance-Newsletter-47/image3.png)
+![](/_newsletters/Yearn-Finance-Newsletter-47/image3.jpg)
 
 DeFi'de verim sınırlarını zorlayan bir dizi deneysel vault olan yeni Yearn V3 UI'deki Lab'lar bölümü ile tanışın. Bu yeni vaul'lara bir göz atalım.
 
@@ -67,7 +67,7 @@ Bu nedenle, [beta.yearn.finance/#labs](https://beta.yearn.finance/#/labs) adresi
 
 ## Yearn Eylül'de 320 bin dolarlık YFI satın aldı
 
-![](/_newsletters/Yearn-Finance-Newsletter-47/image4.png)
+![](/_newsletters/Yearn-Finance-Newsletter-47/image4.jpg)
 
 Ocak 2021'de kabul edilen YIP-56: Geri Alım ve İnşa Yılı uyarınca, Yearn Hazinesi 320 bin dolar değerinde ek bir YFI satın aldı.
 
@@ -77,7 +77,7 @@ Geri alımlarla ilgili veriler [burada](https://www.yfistats.com/financials/YFIB
 
 ## - Kümülatif Protokol Geliri 43 Milyon Dolara Ulaştı
 
-![](/_newsletters/Yearn-Finance-Newsletter-47/image5.png)
+![](/_newsletters/Yearn-Finance-Newsletter-47/image5.jpg)
 
 Yearn, lansmanından bu yana 43 milyon doların üzerinde gelir elde etti (mudiler tarafından kazanılan faiz hariç). Son 30 günde, protokol tarafından 6 milyon doların üzerinde gelir elde edildi. Bu verilerin ekstrapolasyonu, yıllık gelirin yaklaşık 70 milyon dolar olmasını öngörüyor.
 

@@ -16,7 +16,7 @@ publish: true
 
 ### Week Ending November 14th, 2021
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image1.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image1.jpg)
 
 Welcome to the 49th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
 
@@ -47,7 +47,7 @@ Welcome to the 49th edition of the Yearn Finance Newsletter. Our aim with this n
 
 ## YFI Tokenomics Revamp
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image2.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image2.jpg)
 
 Recently, several Yearn community members and developers have banded together to create actionable plans to upgrade the YFI tokenomics. Some of these suggestions include a token split, a veCRV model, fee sharing, fee reduction, vault insurance, and many more amazing ideas. Thank you to all of the people involved for your valuable input.
 
@@ -57,7 +57,7 @@ Overviews of the recent YFI Tokenomics Meetings can be found [here](https://www.
 
 ## Yearn Millennium Prize
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image3.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image3.jpg)
 
 Write a strategy which consistently and safely earns 40% APY on $300 million or 12% on $1 billion for a month and you'll earn $1 million in monthly strategist fees.
 
@@ -69,7 +69,7 @@ Learn more on Yearn’s process of creating and deploying strategies [here](http
 
 ## Yearn Total Value Locked Reaches $6B
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image4.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image4.jpg)
 
 Total value locked across all Yearn products has reached $6 billion, and almost $1 billion has been added in the last month alone. Yearn is continuing to see parabolic growth among its products with no indication of slowing down. The Iron Bank and v2 vaults are particularly notable components of our exponential growth. You can view and track TVL metrics among our products using [yearn.science](https://yearn.science/). 
 
@@ -79,7 +79,7 @@ To celebrate this milestone, claim your geo-located $6B TVL NFT made by @MoTomiW
 
 ## YFI Combinator’s First Project: Tesseract
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image5.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image5.jpg)
 
 Tesseract is the first project hatched from YFI Combinator, our newest early-stage incubator. It leverages the expertise amassed at Yearn to bring the best yields to a wider audience.
 
@@ -105,7 +105,7 @@ Read the article [here](https://messari.io/article/yearning-for-yearn).
 
 ## Yearn Treasury Status
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image6.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image6.jpg)
 
 As of October 29, Yearn's Treasury holds a $27.2m balance in non-native tokens, of which $13.7m is stablecoins. 
 
@@ -115,7 +115,7 @@ Check out various Yearn statistics [here](https://yearn.vision/) and view the Gi
 
 ## Yearn Devs Save Robo Vault From $50M Loss
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image7.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image7.jpg)
 
 With the help of the Yearn team, Robo Vault has identified and fixed a critical issue that could have affected over $50 million in user deposits. Yearn has also salvaged over $9 million from the CREAM exploit, which has since been returned.
 
@@ -123,7 +123,7 @@ Read more on the process [here](https://medium.com/@RoboVault/post-mortem-next-s
 
 ## Fixed Forex Zaps
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image8.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image8.jpg)
 
 We have collaborated with Zapper, so Yearn users can zap into Keep3r Fixed Forex vaults with almost any token in your wallet. 
 

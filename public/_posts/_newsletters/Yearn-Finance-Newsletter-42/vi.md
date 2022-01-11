@@ -14,7 +14,7 @@ publish: true
 
 # Bản tin Yearn.Finance Số #42
 
-![](/_newsletters/Yearn-Finance-Newsletter-42/image1_newsletter_header_vn.png)
+![](/_newsletters/Yearn-Finance-Newsletter-42/image1_newsletter_header_vn.jpg)
 
 Chào mừng các bạn đến với Bản tin Yearn.Finance Số 42! Chúng tôi hy vọng sẽ truyền tải được những dữ kiện mới nhất cho cộng đồng tiền mã thuật số (crypto) nói chung lẫn cộng đồng Yearn nói riêng; từ phát hành sản phẩm, thay đổi trong quản trị đến nhiều dự án đối tác trực thuộc hệ sinh thái Yearn. Nếu quan tâm và muốn biết thêm chi tiết về Yearn.Finance, hãy theo dõi tài khoản [Twitter](https://twitter.com/iearnfinance), [Medium](https://medium.com/iearn) cũng như đón chờ nơi phát hành Tiếng Việt chính thức của chúng tôi.
 
@@ -32,7 +32,7 @@ Chào mừng các bạn đến với Bản tin Yearn.Finance Số 42! Chúng tô
 
 ## **NFT "Viên Thuốc Xanh"**
 
-![](/_newsletters/Yearn-Finance-Newsletter-42/image2.png)
+![](/_newsletters/Yearn-Finance-Newsletter-42/image2.jpg)
 
 Kỷ niệm sinh nhật Yearn 1 tuổi, chúng tôi đã tiếp tục hợp tác với Project Galaxy để mang đến cho các bạn "Viên Thuốc Xanh": Câu chuyện ly kỳ về quá khứ, hiện tại và tương lai của Yearn. Tác giả Zemm đã tạo nên một cuốn sách đầy sinh động cho 13&nbsp;500 tín đồ trung thành của chúng tôi. Đây là một sê-ri gồm 7 NFT độc đáo cho hàng loạt "nông dân" (farmer), "cọc viên" (staker), "cử tri" (voter) và "người hùng" tâm huyết của cộng đồng Yearn. Cùng chúng tôi ăn mừng món quà YFI!
 
@@ -42,7 +42,7 @@ Nhận sách của bạn [tại đây](https://galaxy.eco/yearn) và đọc bả
 
 ## **Chụp ghi nhận (Snapshot) Woofy Tuần 11**
 
-![](/_newsletters/Yearn-Finance-Newsletter-42/image3.png)
+![](/_newsletters/Yearn-Finance-Newsletter-42/image3.jpg)
 
 Những người mới nắm giữ đồng WOOFY sẽ nhận được một món quà NFT qua sự hợp tác giữa Yearn và Project Galaxy. Chúng thuộc sê-ri gồm sáu NFT WOOFY độc đáo như hình trên. Các dữ liệu chụp ghi nhận mọi chủ tôken, bên cấp thanh khoản ("liquidity provider" hay LP), "cọc viên" (staker) và người dùng kho bạc (vault) trải khắp hàng loạt chuỗi khối.
 
@@ -50,7 +50,7 @@ Nhận NFT Woofy của bạn [tại đây](https://galaxy.eco/yearn).
 
 ## **Di chuyển Hay là Chết**
 
-![](/_newsletters/Yearn-Finance-Newsletter-42/image4.png)
+![](/_newsletters/Yearn-Finance-Newsletter-42/image4.jpg)
 
 Các kho bạc (vault) phiên bản v1 đã trở thành nguồn lãi suất đáng tin cậy cho mọi người trong gần một năm, và giờ là lúc chúng ta nói lời tạm biệt. Tất cả kho bạc (vault) cũ đã được "thu hoạch" lần cuối cùng và "nghỉ hưu" các chiến lược. Một lần nữa, chúng tôi xin nhấn mạnh rằng kho bạc (vault) phiên bản v2 sở hữu nhiều ưu điểm hơn như triển khai vốn khắp vài chiến lược cùng lúc để mang lại hiệu quả lãi suất tốt hơn, giảm bớt rủi ro.
 
@@ -68,7 +68,7 @@ Xem ngay các kho bạc (vault) [tại đây](https://yearn.finance/vaults).
 
 ## **Kiểm tra các "Lọ Dưa Chua" (Pickle Jar)**
 
-![](/_newsletters/Yearn-Finance-Newsletter-42/image5.png)
+![](/_newsletters/Yearn-Finance-Newsletter-42/image5.jpg)
 
 Ở Pickle.Finance, nhiều lãi suất ấn tượng từ 7% đến 40% đang chờ đón tôken yVault. Bạn có thể thu lời trên Yearn FRAX, Yearn LUSD, yUSDC và còn nhiều nữa!
 
@@ -80,7 +80,7 @@ Chi tiết về quan hệ hợp tác [ở liên kết này](https://twitter.com/
 
 ## **Cần gì để trở thành một Chiến lược gia**
 
-![](/_newsletters/Yearn-Finance-Newsletter-42/image6.png)
+![](/_newsletters/Yearn-Finance-Newsletter-42/image6.jpg)
 
 Hơn 5 triệu đô-la Mỹ đã được dùng trả công cho các chiến lược gia Yearn trong năm 2021. Tại Hội nghị Cộng đồng ETH (EthCC), Facu Ameal chia sẻ kinh nghiệm để trở thành một chiến lược gia giỏi. Các chiến lược, như bạn có thể đã biết, là xương sống của Yearn và mang lại lãi suất tốt nhất mà đỡ-rủi-ro cho tôken của bạn.
 
@@ -90,7 +90,7 @@ Xem [video tại đây](https://www.youtube.com/watch?v=NVR3teJw0Y0), kèm theo 
 
 ## **Công bố Kiểm toán An toàn (Audit) cho Yearn V2**
 
-![](/_newsletters/Yearn-Finance-Newsletter-42/image7.png)
+![](/_newsletters/Yearn-Finance-Newsletter-42/image7.jpg)
 
 Yearn đã liên hệ với Trail&nbsp;of&nbsp;Bits để kiểm toán độ an toàn của Kho bạc (Vault) v2, hợp đồng BaseStrategy (Chiến lược Cơ bản) và BaseWrapper ("Gói" Cơ bản). Các phát hiện đã được đề cập trong sê-ri 0.4.x của hợp đồng, phát hành hồi tháng 05.
 

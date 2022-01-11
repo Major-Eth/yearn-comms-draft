@@ -15,7 +15,7 @@ publish: true
 # Yearn Finance Newsletter #46
 #### Semana encerrada em 12 de setembro de 2021
 
-![](/_newsletters/Yearn-Finance-Newsletter-46/image1.png)
+![](/_newsletters/Yearn-Finance-Newsletter-46/image1.jpg)
 
 Bem-vindo à 46ª edição da Yearn Finance Newsletter. Nosso objetivo com este boletim é manter a comunidade da Yearn e a comunidade cripto em geral informadas sobre as notícias mais recentes, incluindo lançamentos de produtos, mudanças de governança e atualizações do ecossistema. Se você estiver interessado em aprender mais sobre Yearn Finance, siga nossas contas oficiais [Twitter](https://twitter.com/iearnfinance) e [Medium](https://medium.com/iearn).
 
@@ -41,7 +41,7 @@ Confira mais informações sobre os procedimentos de segurança de Yearn no twee
 
 ## ** Primer no yvBOOST Vault **
 
-![](/_newsletters/Yearn-Finance-Newsletter-46/image2.png)
+![](/_newsletters/Yearn-Finance-Newsletter-46/image2.jpg)
 
 CRV é o token de governança da curve.fi, que pode ser bloqueado por até 4 anos e dá a você a capacidade de votar e reivindicar taxas de protocolo. Ao usar o Yearn para bloquear seu CRV para receber veCRV (CRV com garantia de voto), você pode ganhar mais recompensas via Yearn, que  doa periodicamente alguns de nossos CRV coletados para o vault yveCRV. Portanto, além das recompensas normais do CRV, você poderá reivindicar a parte de Yearn das taxas de protocolo da Curve.
 
@@ -59,7 +59,7 @@ Confira os vaults aqui em [yearn.finance/vaults](https://yearn.finance/vaults).
 
 ## **Relatório Financeiro Trimestral Yearn**
 
-![](/_newsletters/Yearn-Finance-Newsletter-46/image3.png)
+![](/_newsletters/Yearn-Finance-Newsletter-46/image3.jpg)
 
 Vários membros da comunidade Yearn criaram um relatório financeiro trimestral informal, cobrindo o período de abril de 2021 a junho de 2021. Este relatório foi gerado com base em informações publicamente disponíveis e inclui uma demonstração de resultados e um balanço patrimonial. Este relatório não foi auditado por uma empresa de contabilidade profissional terceirizada e não representa consultoria financeira, de investimento ou de qualquer tipo. É apenas para fins informativos.
 
@@ -67,7 +67,7 @@ Você pode visualizar este relatório [aqui](https://github.com/yearn/yearn-pm/b
 
 ## **A receita cumulativa do protocolo atinge US$ 41 milhões**
 
-![](/_newsletters/Yearn-Finance-Newsletter-46/image4.png)
+![](/_newsletters/Yearn-Finance-Newsletter-46/image4.jpg)
 
 Yearn recebeu mais de $41 milhões em receitas, desde o lançamento (excluindo os juros ganhos pelos depositantes). Nos últimos 30 dias, cerca de 6 milhões de dólares em receita foram gerados pelo protocolo. Uma extrapolação desses dados projeta uma receita anual de quase US$ 60 milhões.
 

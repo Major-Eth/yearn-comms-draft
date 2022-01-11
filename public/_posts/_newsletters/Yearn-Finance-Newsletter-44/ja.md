@@ -14,7 +14,7 @@ publish: true
 
 # Yearn Finance Newsletter #44
 
-![](/_newsletters/Yearn-Finance-Newsletter-44/image1.png)
+![](/_newsletters/Yearn-Finance-Newsletter-44/image1.jpg)
 
 Yearn Finance Newsletterの第44号へようこそ。このニュースレターの目的は、プロジェクトのローンチ、ガバナンスの変更、エコシステムの更新など、最新のニュースをYearnとより広いクリプトコミュニティにお知らせすることです。Yearn Financeについてもっと知りたいという方は、私たちの公式[Twitter](https://twitter.com/iearnfinance)と[Medium](https://medium.com/iearn)アカウントをフォローしてください。
 
@@ -30,7 +30,7 @@ Yearn Finance Newsletterの第44号へようこそ。このニュースレター
 
 ## **YIP-63の結果**
 
-![](/_newsletters/Yearn-Finance-Newsletter-44/image2.png)
+![](/_newsletters/Yearn-Finance-Newsletter-44/image2.jpg)
 
 LeXpunK DAOは、DeFi構築者と弁護士の連合体で、シリコンバレーのベンチャーファンドよりもはるかに優れた、倫理的に整合性のある弁護団を作ることを目的としています。これは今後数年あるいは数十年にわたって、暗号のために戦うための重要な取り組みとなります。
 
@@ -48,7 +48,7 @@ Yearnは、常に自分たちの間で、またコミュニティの助けを借
 
 ## **4つの新しいyVaultsを紹介**
 
-![](/_newsletters/Yearn-Finance-Newsletter-44/image3.png)
+![](/_newsletters/Yearn-Finance-Newsletter-44/image3.jpg)
 
 4つの新しいyVaultがUIに登場しました。すぐに入金して、AAVE、COMP、TUSD、SUSHIの利回りを獲得しましょう。  
   
@@ -58,7 +58,7 @@ AAVE、COMP、SUSHIの各金庫は、[universe.xyz](https://universe.xyz/polymor
 
 ## **YearnはDefi Saverに統合されました**
 
-![](/_newsletters/Yearn-Finance-Newsletter-44/image4.png)
+![](/_newsletters/Yearn-Finance-Newsletter-44/image4.jpg)
 
 YFIがDefi Saver Recipe Creatorに統合されました。この統合により、サポートされている資産をDeFi Saverを使ってYearnのVaultsに預けたり、このアクションを他のプロトコルのインタラクションと組み合わせたりすることができます。いくつかの例を以下に示します。 
   
@@ -70,7 +70,7 @@ Yearnを使った他のレシピは[こちら](https://app.defisaver.com/)をご
 
 ## **Woofyのことをお忘れなく**
 
-![](/_newsletters/Yearn-Finance-Newsletter-44/image5.png)
+![](/_newsletters/Yearn-Finance-Newsletter-44/image5.jpg)
 
 100万WOOFYで1YFIというレートでYFIをWOOFYに変換することで、それを使ってLPしたり、PolygonやFantomなどの他のチェーンにブリッジしたり、[ape.tax](https://ape.tax/)に預けて驚異的な利回りを得ることができます。
   
