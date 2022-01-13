@@ -12,7 +12,6 @@ translator: Cryptouf
 publish: true
 ---
 
-# Yearn Finance Newsletter #48
 
 ### Semaine du 10 Octobre, 2021
 
@@ -77,7 +76,7 @@ Vous avez une question ? Rejoingnez notre TG ou notre [Discord](https://discord.
  
  La valeur totale verrouillée sur tous les produits Yearn a de nouveau dépassé les 5 milliards de dollars, et 1 milliard de dollars a été ajouté au cours du seul mois dernier. Yearn continue d’observer une croissance parabolique sans aucun signe de ralentissement. L'Iron Bank et les coffres v2 sont des éléments particulièrement notables de notre croissance . Vous pouvez afficher et suivre les métriques concernant la TVL en utilisant [yearn.science](https://yearn.science/). 
  
- ## Demande d’idées : refonte de la Tokenomics
+
 
 ![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image5.jpg)
 

@@ -12,7 +12,6 @@ translator: Cryptouf
 publish: true
 ---
 
-# Yearn Finance Newsletter #49
 
 ### Week Ending November 14th, 2021
 

@@ -12,7 +12,6 @@ translator: Cryptouf
 publish: true
 ---
 
-# Yearn Finance Newsletter #45
 
 ![](/image1.jpg)
 

@@ -12,7 +12,6 @@ translator: Nesyeth
 publish: true
 ---
 
-# Yearn Finance Newsletter #49
 
 ### Woche bis 14. November 2021
 

@@ -11,9 +11,6 @@ date: '2022-01-02'
 translator:
 publish: true
 ---
-
-# Yearn Finance Newsletter #52
-
 ### Week Ending January 2nd, 2022
 
 ![](/_posts/_newsletters/Yearn-Finance-Newsletter-52/image1.jpg)

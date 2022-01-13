@@ -12,7 +12,6 @@ translator: jameskbh
 publish: true
 ---
 
-# Yearn Finance Newsletter #49
 
 ### Semana terminando em 14 de novembro de 2021
 

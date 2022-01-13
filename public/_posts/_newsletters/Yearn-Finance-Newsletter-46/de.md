@@ -12,7 +12,6 @@ translator: Nesyeth
 publish: true
 ---
 
-# Yearn Finance Newsletter #46
 #### Woche bis 12. September 2021
 
 

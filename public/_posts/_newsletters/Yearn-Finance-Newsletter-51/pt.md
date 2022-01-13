@@ -12,7 +12,6 @@ translator: jameskbh
 publish: true
 ---
 
-# Yearn Finance Newsletter #51
 
 ### Semana encerrada em 19 de dezembro de 2021
 

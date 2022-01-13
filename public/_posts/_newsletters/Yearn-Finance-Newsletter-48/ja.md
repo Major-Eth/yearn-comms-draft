@@ -12,7 +12,6 @@ translator: Cripu
 publish: true
 ---
 
-# Yearn Finance Newsletter #48
 
 ### 2021年10月10日までの1週間
 

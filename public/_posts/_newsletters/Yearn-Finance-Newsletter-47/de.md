@@ -12,7 +12,6 @@ translator: Fin2thepeople
 publish: true
 ---
 
-# Yearn Finance Newsletter #47
 
 ### Ende der Woche 26. September, 2021
 

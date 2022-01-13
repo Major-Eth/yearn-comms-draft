@@ -12,7 +12,6 @@ translator: Stathis
 publish: true
 ---
 
-# Yearn Finance Newsletter #49
 
 ### Εβδομάδα 14ης Νοεμβρίου , 2021
 

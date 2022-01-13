@@ -12,7 +12,6 @@ translator:
 publish: true
 ---
 
-# Yearn Finance Newsletter #46
 #### Week Ending September 12th, 2021
 
 

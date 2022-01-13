@@ -12,7 +12,6 @@ translator:
 publish: true
 ---
 
-# Yearn Finance Newsletter #48
 
 ### Week Ending October 10th, 2021
 

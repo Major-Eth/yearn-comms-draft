@@ -11,8 +11,7 @@ date: '2021-11-14'
 translator: Cripu
 publish: true
 ---
-
-# Yearn Finance Newsletter 49号
+ 49号
 
 ### 2021年11月14日までの週
 

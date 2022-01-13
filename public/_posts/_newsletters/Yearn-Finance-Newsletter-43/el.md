@@ -12,7 +12,6 @@ translator: Stathis
 publish: true
 ---
 
-# Yearn Finance Newsletter #43
 
 ![](/_posts/_newsletters/Yearn-Finance-Newsletter-43/image1.jpg)
 

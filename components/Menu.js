@@ -141,28 +141,7 @@ function	Menu() {
 									<option className={'cursor-pointer'} key={index} value={lang.code}>{lang.name}</option>
 								))}
 							</select>
-							{/* {
-								Object.values(LOCALES).map((lang) => {
-									if (lang.code === language) {
-										return (
-											<div key={lang.symbol} className={'text-yblue text-sm font-bold'}>
-												{lang.symbol}
-											</div>
-										);
-									}
-									return (
-										<div
-											key={lang.symbol}
-											onClick={() => {
-												router.push(router.pathname, router.asPath, {locale: lang.code});
-												set_language(lang.code);
-											}}
-											className={'text-ygray-200 text-sm cursor-pointer'}>
-											{lang.symbol}
-										</div>
-									);
-								})
-							} */}
+							
 						</div>
 						<div className={'flex space-x-4 flex-row items-center mr-8'}>
 							<svg

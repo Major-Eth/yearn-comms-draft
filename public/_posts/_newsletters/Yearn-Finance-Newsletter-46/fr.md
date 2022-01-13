@@ -12,7 +12,6 @@ translator: Cryptouf
 publish: true
 ---
 
-# Yearn Finance Newsletter #46
 #### Semaine du 12 Septembre, 2021 
 
 

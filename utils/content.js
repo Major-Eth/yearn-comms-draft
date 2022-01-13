@@ -74,6 +74,29 @@ export function getPostBySlug(dir, slug, fields = [], locale, withFallback) {
 	}
 }
 
+export function getRelatedPosts(dir, fields = [], locale, withFallback = false, postSlug) {
+	const slugs = getPostSlugs(dir);
+	const posts = slugs
+		.map((slug) => getPostBySlug(dir, slug, fields, locale, withFallback))
+		.filter(Boolean)
+		.sort((post1, post2) => (post1.date > post2?.date ? -1 : 1));
+	
+
+	for (let index = 0; index < posts.length; index++) {
+		const {slug} = posts[index];
+		if (slug === postSlug) {
+			if (index > 0 && index < posts.length - 1) {
+				return [posts[index - 1], posts[index + 1]];
+			} else if (index === 0) {
+				return [null, posts[index + 1]];
+			} else if (index === posts.length - 1) {
+				return [posts[index - 1], null];
+			}
+		}
+	}
+	return [];
+}
+
 export function getAllPosts(dir, fields = [], locale, withFallback = false) {
 	const slugs = getPostSlugs(dir);
 	const posts = slugs

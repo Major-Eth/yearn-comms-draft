@@ -12,7 +12,6 @@ translator: Cripu
 publish: true
 ---
 
-# Yearn Finance Newsletter #47
 
 ### 2021年9月26日までの1週間
 

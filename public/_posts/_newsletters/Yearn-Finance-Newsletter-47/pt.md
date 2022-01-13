@@ -12,7 +12,6 @@ translator: JKtranslator
 publish: true
 ---
 
-# Yearn Finance Newsletter #47
 
 ### Semana encerrada em 26 de setembro de 2021
 

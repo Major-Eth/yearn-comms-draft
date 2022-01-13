@@ -12,7 +12,6 @@ translator:
 publish: true
 ---
 
-# Yearn Finance Newsletter #43
 
 ![](/_posts/_newsletters/Yearn-Finance-Newsletter-43/1.jpg)
 

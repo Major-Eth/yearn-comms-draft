@@ -12,8 +12,6 @@ translator: Cryptouf
 publish: true
 ---
 
-# Yearn Finance Newsletter #52
-
 ### Semaine du 2 Janvier, 2022
 
 ![](/_posts/_newsletters/Yearn-Finance-Newsletter-52/image1.jpg)

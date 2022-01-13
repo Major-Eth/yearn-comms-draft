@@ -12,7 +12,6 @@ translator: Cryptouf
 publish: true
 ---
 
-# Yearn Finance Newsletter #51
 
 ### Semaine du 13 Décembre, 2021
 

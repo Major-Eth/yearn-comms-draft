@@ -12,7 +12,6 @@ translator: Cripu
 publish: true
 ---
 
-# Yearn Finance Newsletter #46
 #### 2021年9月12日までの週次レポート
 
 ![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image1.jpg)

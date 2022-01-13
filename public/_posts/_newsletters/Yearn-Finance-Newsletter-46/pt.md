@@ -12,7 +12,6 @@ translator: JKtranslator
 publish: true
 ---
 
-# Yearn Finance Newsletter #46
 #### Semana encerrada em 12 de setembro de 2021
 
 ![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image1.jpg)

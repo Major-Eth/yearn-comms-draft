@@ -12,7 +12,6 @@ translator: Nesyeth
 publish: true
 ---
 
-# Yearn Finance Newsletter #48
 
 ### Woche bis zum 10. Oktober 2021
 

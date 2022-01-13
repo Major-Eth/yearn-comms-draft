@@ -12,8 +12,6 @@ translator:
 publish: true
 ---
 
-# Yearn Finance Newsletter #51
-
 ### Week Ending December 19th, 2021
 
 ![](/_posts/_newsletters/Yearn-Finance-Newsletter-51/image1.jpg)
