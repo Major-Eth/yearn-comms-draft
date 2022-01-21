@@ -19,13 +19,13 @@ function Chevron({className}) {
 	);
 }
 
-function Post({path, post, newer, older, allPosts}) {
+function Post({path, post, newer, older, allPosts, isListing}) {
 	const router = useRouter();
-	if (!router.isFallback && !post?.slug && allPosts?.length > 0) {
+	if (!router.isFallback && !post?.slug && isListing) {
 		return <TemplateList path={path} allPosts={allPosts} />;
 	} else if (!router.isFallback && !post?.slug) {
 		return <ErrorPage statusCode={404} />;
-	} else if (!post?.slug && !allPosts) {
+	} else if (!post?.slug && !isListing) {
 		return null;
 	}
 	return (
@@ -94,15 +94,15 @@ function Post({path, post, newer, older, allPosts}) {
 export default Post;
 
 export async function getStaticProps({params, locale}) {
-	const	actualSlug = params.slug.join('/');
+	const	actualSlug = params.slug;
 	if (
-		params.path === 'financials' && actualSlug === 'quarterly-report' ||
-		params.path === 'articles' && actualSlug === 'andre-cronje' ||
-		params.path === 'articles' && actualSlug === 'forum' ||
-		params.path === 'articles' && actualSlug === 'wot-is-goin-on' ||
-		params.path === 'articles' && actualSlug === 'yearn-finance'
+		(params.path === 'financials' && (params.slug.length === 1 && params.slug[0] === 'quarterly-report')) ||
+		(params.path === 'articles' && (params.slug.length === 1 && params.slug[0] === 'andre-cronje')) ||
+		(params.path === 'articles' && (params.slug.length === 1 && params.slug[0] === 'forum')) ||
+		(params.path === 'articles' && (params.slug.length === 1 && params.slug[0] === 'wot-is-goin-on')) ||
+		(params.path === 'articles' && (params.slug.length === 1 && params.slug[0] === 'yearn-finance'))
 	) {
-		const	_allPosts = listAllPosts(`_${params.path}/${actualSlug}`, [''], locale);
+		const	_allPosts = listAllPosts(`_${params.path}`, params.slug, locale);
 		const	col1 = [];
 		const	col2 = [];
 		const	col3 = [];
@@ -118,6 +118,7 @@ export async function getStaticProps({params, locale}) {
 		return {
 			props: {
 				allPosts: [...col1, ...col2, ...col3],
+				isListing: true,
 				path: `${params.path}/${actualSlug}`
 			},
 		};
@@ -152,28 +153,28 @@ export async function getStaticProps({params, locale}) {
 
 export async function getStaticPaths() {
 	const parentPaths = [
-		'announcements',
-		'newsletters',
-		'podcasts',
-		'financials'
+		// 'announcements',
+		// 'newsletters',
+		// 'podcasts',
+		// 'financials',
+		'articles'
 	];
 	const paths = [];
 
 	for (let index = 0; index < parentPaths.length; index++) {
 		const element = parentPaths[index];
 		Object.values(LOCALES).map(({code}) => {
-			const slugs = getSlugs(`_${element}`, code, true);
+			const slugs = getSlugs(`_${element}`, code, false);
 			const uniqueSlugs = [...new Set(slugs)];
 			for (let index = 0; index < uniqueSlugs.length; index++) {
 				const slug = uniqueSlugs[index];
-				const isPath = slug.endsWith('/');
 				const slugAsArr = slug.split('/');
 				const slugAsArrNoLast = slugAsArr.slice(0, -1);
 
 				paths.push({
 					params: {
 						path: element,
-						slug: isPath ? [slug, '/'] : slugAsArrNoLast,
+						slug: slugAsArrNoLast,
 					},
 					locale: code
 				});
@@ -181,8 +182,16 @@ export async function getStaticPaths() {
 		});	
 	}
 
+	Object.values(LOCALES).map(({code}) => {
+		paths.push({params: {path: 'financials', slug: ['quarterly-report']}, locale: code});
+		paths.push({params: {path: 'articles', slug: ['forum']}, locale: code});
+		paths.push({params: {path: 'articles', slug: ['andre-cronje']}, locale: code});
+		paths.push({params: {path: 'articles', slug: ['wot-is-goin-on']}, locale: code});
+		paths.push({params: {path: 'articles', slug: ['yearn-finance']}, locale: code});
+	});
+
 	return {
 		paths,
-		fallback: true,
+		fallback: false,
 	};
 }

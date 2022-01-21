@@ -179,7 +179,7 @@ export function listAllPosts(
 
 
 
-export function _getSlugs(dir, locale) {
+export function _getSlugs(dir, locale, withFallback) {
 	const postsDirectory = join(process.cwd(), `public/_posts/${dir}`);
 	const dirContent = fs.readdirSync(postsDirectory);
 	const slugs = [];
@@ -190,10 +190,11 @@ export function _getSlugs(dir, locale) {
 		if (fs.existsSync(fullPath)) {
 			slugs.push(`${subDir}/${locale}.md`);
 		} else if (fs.existsSync(fullPathEN)) {
-			slugs.push(`${subDir}/en.md`);
+			if (withFallback)
+				slugs.push(`${subDir}/en.md`);
 		} else {
 			//HANDLE SUBFOLDERS
-			slugs.push(`${subDir}/`);
+			// slugs.push(`${subDir}/`);
 
 			const subDirContent = fs.readdirSync(`${postsDirectory}/${subDir}`);
 			for (let jindex = 0; jindex < subDirContent.length; jindex++) {
@@ -203,7 +204,8 @@ export function _getSlugs(dir, locale) {
 				if (fs.existsSync(fullPath)) {
 					slugs.push(`${subDir}/${subsubDir}/${locale}.md`);
 				} else if (fs.existsSync(fullPathEN)) {
-					slugs.push(`${subDir}/${subsubDir}/en.md`);
+					if (withFallback)
+						slugs.push(`${subDir}/${subsubDir}/en.md`);
 				}
 			}
 		}

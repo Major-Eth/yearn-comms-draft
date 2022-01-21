@@ -1,6 +1,7 @@
 import	React					from	'react';
 import	{listAllPosts}			from	'utils/content';
 import	TemplateList			from	'components/TemplateList';
+import	LOCALES					from	'utils/locale';
 
 function	Index({path, allPosts}) {
 	return (
@@ -47,14 +48,16 @@ export const getStaticProps = async ({locale, params}) => {
 };
 
 export async function getStaticPaths() {
+	const	allPaths = [];
+	Object.values(LOCALES).map(({code}) => {
+		allPaths.push({params: {path: 'announcements'}, locale: code});
+		allPaths.push({params: {path: 'newsletters'}, locale: code});
+		allPaths.push({params: {path: 'podcasts'}, locale: code});
+		allPaths.push({params: {path: 'financials'}, locale: code});
+		allPaths.push({params: {path: 'articles'}, locale: code});
+	});
 	return {
-		paths: [
-			{params: {path: 'announcements'}},
-			{params: {path: 'newsletters'}},
-			{params: {path: 'podcasts'}},
-			{params: {path: 'financials'}},
-			{params: {path: 'articles'}},
-		],
+		paths: allPaths,
 		fallback: false,
 	};
 }
