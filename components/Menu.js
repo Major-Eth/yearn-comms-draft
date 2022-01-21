@@ -21,48 +21,85 @@ function	MenuItem({label, condition, href, className, height = 'h-6'}) {
 function	MenuItems() {
 	const	router = useRouter();
 	const	{common} = useLocalization();
-
+	console.log(router.asPath);
 	return (
 		<div className={'w-64.5'}>
 			<MenuItem
 				className={'mb-2 md:mb-4'}
 				label={common['menu-main']}
-				condition={router.pathname === '/'}
+				condition={router.asPath === '/'}
 				href={'/'} />
 			<MenuItem
 				className={'mb-2 md:mb-4'}
 				label={common['menu-announcements']}
-				condition={router.pathname.startsWith('/announcements')}
+				condition={router.asPath.startsWith('/announcements')}
 				href={'/announcements'} />
 			<MenuItem
 				className={'mb-2 md:mb-4'}
 				label={common['menu-newsletters']}
-				condition={router.pathname.startsWith('/newsletters')}
+				condition={router.asPath.startsWith('/newsletters')}
 				href={'/newsletters'} />
 			<MenuItem
 				className={'mb-2 md:mb-4'}
+				label={common['menu-articles']}
+				condition={
+					router.asPath.startsWith('/articles')
+					&&
+					!router.asPath.startsWith('/articles/forum')
+					&&
+					!router.asPath.startsWith('/articles/andre-cronje')
+					&&
+					!router.asPath.startsWith('/articles/wot-is-goin-on')
+					&&
+					!router.asPath.startsWith('/articles/yearn-finance')
+				}
+				href={'/articles'} />
+			<div className={'ml-4 space-y-2 md:space-y-4 mb-4 md:mb-8'}>
+				<MenuItem
+					className={'mb-2 md:mb-4'}
+					label={common['menu-articles-forum']}
+					condition={router.asPath.includes('articles/forum')}
+					href={'/articles/forum'} />
+				<MenuItem
+					className={'mb-2 md:mb-4'}
+					label={common['menu-articles-andre']}
+					condition={router.asPath.includes('articles/andre-cronje')}
+					href={'/articles/andre-cronje'} />
+				<MenuItem
+					className={'mb-2 md:mb-4'}
+					label={common['menu-articles-wot']}
+					condition={router.asPath.includes('articles/wot-is-goin-on')}
+					href={'/articles/wot-is-goin-on'} />
+				<MenuItem
+					className={'mb-4 md:mb-8'}
+					label={common['menu-articles-yearn']}
+					condition={router.asPath.includes('articles/yearn-finance')}
+					href={'/articles/yearn-finance'} />
+			</div>
+			<MenuItem
+				className={'mb-2 md:mb-4'}
 				label={common['menu-tweets']}
-				condition={router.pathname.startsWith('/tweets')}
+				condition={router.asPath.startsWith('/tweets')}
 				href={'/tweets'} />
 			<MenuItem
 				className={'mb-2 md:mb-4'}
-				label={common['menu-articles']}
-				condition={router.pathname.startsWith('/articles')}
-				href={'/articles'} />
+				label={common['menu-podcasts']}
+				condition={router.asPath.startsWith('/podcasts')}
+				href={'/podcasts'} />
 			<MenuItem
 				className={'mb-2 md:mb-4'}
 				label={common['menu-financials']}
 				condition={
-					router.pathname.startsWith('/financials')
+					router.asPath.startsWith('/financials')
 					&&
-					!router.pathname.startsWith('/financials/quarterly-report')
+					!router.asPath.startsWith('/financials/quarterly-report')
 				}
 				href={'/financials'} />
 			<div className={'ml-4 space-y-2 md:space-y-4 mb-4 md:mb-8'}>
 				<MenuItem
 					className={'mb-4 md:mb-8'}
 					label={common['menu-financials-quarterly-report']}
-					condition={router.pathname.startsWith('/financials/quarterly-report')}
+					condition={router.asPath.startsWith('/financials/quarterly-report')}
 					href={'/financials/quarterly-report'} />
 			</div>
 			
@@ -107,7 +144,7 @@ function	Menu() {
 	React.useEffect(() => {
 		set_isExpandedAnimation(false);
 		setTimeout(() => set_isExpanded(false), 500);
-	}, [router.pathname]);
+	}, [router.asPath]);
 
 	return (
 		<nav className={'w-full md:w-64.5 px-4 md:px-0 bg-white dark:bg-dark-900 md:dark:bg-dark-900 md:bg-opacity-0 shadow-sm md:shadow-none fixed md:relative z-50'}>
@@ -145,7 +182,7 @@ function	Menu() {
 								value={language}
 								className={'m-0 mr-1 px-3 py-2 items-center cursor-pointer whitespace-nowrap border border-solid border-ygray-500 dark:border-dark-600 text-xs bg-white dark:bg-dark-600 font-semibold text-ygray-700 dark:text-dark-50 pr-7 flex'}
 								onChange={(e) => {
-									router.push(router.pathname, router.asPath, {locale: e.target.value});
+									router.push(router.asPath, router.asPath, {locale: e.target.value});
 									set_language(e.target.value);
 								}}>
 								{Object.values(LOCALES).map((lang, index) => (

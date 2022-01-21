@@ -3,7 +3,7 @@ layout: post
 title:  "Yearn Finance Relatório Trimestral"
 date: '2020-12-14'
 image:
-  src: ./cover.jpeg
+  src: ./cover.jpg
   width: 1500
   height: 500
 author: Yearn

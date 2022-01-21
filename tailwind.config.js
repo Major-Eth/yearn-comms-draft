@@ -70,25 +70,14 @@ module.exports = {
 			typography: () => ({
 				yblue: {
 					css: {
-						'a': {
-							color: '#0657F9'
-						},
+						'a': {color: '#0657F9'},
+						'h1': {color: '#333333'},
+						'h2': {color: '#333333'},
+						'h3': {color: '#333333'},
+						'h4': {color: '#333333'},
+						'h5': {color: '#333333'},
+						'p': {color: '#333333'},
 						'--tw-prose-links': '#0657F9'
-					// '--tw-prose-body': theme('colors.pink[800]'),
-					// '--tw-prose-headings': theme('colors.pink[900]'),
-					// '--tw-prose-lead': theme('colors.pink[700]'),
-					// '--tw-prose-bold': theme('colors.pink[900]'),
-					// '--tw-prose-counters': theme('colors.pink[600]'),
-					// '--tw-prose-bullets': theme('colors.pink[400]'),
-					// '--tw-prose-hr': theme('colors.pink[300]'),
-					// '--tw-prose-quotes': theme('colors.pink[900]'),
-					// '--tw-prose-quote-borders': theme('colors.pink[300]'),
-					// '--tw-prose-captions': theme('colors.pink[700]'),
-					// '--tw-prose-code': theme('colors.pink[900]'),
-					// '--tw-prose-pre-code': theme('colors.pink[100]'),
-					// '--tw-prose-pre-bg': theme('colors.pink[900]'),
-					// '--tw-prose-th-borders': theme('colors.pink[300]'),
-					// '--tw-prose-td-borders': theme('colors.pink[200]'),
 					},
 				},
 			}),
