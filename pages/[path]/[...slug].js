@@ -119,7 +119,7 @@ export async function getStaticProps({params, locale}) {
 			props: {
 				allPosts: [...col1, ...col2, ...col3],
 				isListing: true,
-				path: `${params.path}/${actualSlug}`
+				path: params.path
 			},
 		};
 	}
@@ -153,10 +153,10 @@ export async function getStaticProps({params, locale}) {
 
 export async function getStaticPaths() {
 	const parentPaths = [
-		// 'announcements',
-		// 'newsletters',
-		// 'podcasts',
-		// 'financials',
+		'announcements',
+		'newsletters',
+		'podcasts',
+		'financials',
 		'articles'
 	];
 	const paths = [];
