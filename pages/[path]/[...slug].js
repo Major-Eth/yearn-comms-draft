@@ -40,12 +40,12 @@ function Post({path, post, newer, older, allPosts}) {
 				{newer ? <Link href={`/${path}/${newer?.slug}`}>
 					<div className={'flex flex-row'}>
 						<Chevron className={'transform rotate-180'} />
-						<p className={'text-yblue cursor-pointer text-xs ml-1'}>{(newer?.title || '')?.replaceAll('~~', '')}</p>
+						<p className={'text-yblue cursor-pointer text-xs ml-1'}>{(newer?.title || '')?.replace(/~~/g, '')}</p>
 					</div>
 				</Link> : <div />}
 				{older ? <Link href={`/${path}/${older?.slug}`}>
 					<div className={'flex flex-row'}>
-						<p className={'text-yblue cursor-pointer text-xs mr-1'}>{(older?.title || '')?.replaceAll('~~', '')}</p>
+						<p className={'text-yblue cursor-pointer text-xs mr-1'}>{(older?.title || '')?.replace(/~~/g, '')}</p>
 						<Chevron />
 					</div>
 				</Link>: <div />}
