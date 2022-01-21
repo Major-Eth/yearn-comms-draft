@@ -1,11 +1,11 @@
 import	React							from	'react';
-import	Head							from	'next/head';
 import	Link							from	'next/link';
 import	Image							from	'next/image';
+import	Head							from	'next/head';
 import	{useRouter}						from	'next/router';
 import	ErrorPage						from	'next/error';
-import	remarkGfm						from	'remark-gfm';
 import	ReactMarkdown					from	'react-markdown';
+import	remarkGfm						from	'remark-gfm';
 import	{getPostBySlug, getAllPosts, getRelatedPosts} 	from	'utils/content';
 import	{parseMarkdown}					from	'utils';
 import	LOCALES							from	'utils/locale';
@@ -32,13 +32,13 @@ function Post({post, newer, older}) {
 				{post?.ogImage?.url ? <meta property={'og:image'} content={post.ogImage.url} /> : null}
 			</Head>
 			<div className={'flex flex-row justify-between py-6'}>
-				{newer ? <Link href={`/announcements/${newer?.slug}`}>
+				{newer ? <Link href={`/financials/${newer?.slug}`}>
 					<div className={'flex flex-row'}>
 						<Chevron className={'transform rotate-180'} />
 						<p className={'text-yblue cursor-pointer text-xs ml-1'}>{newer?.title.replaceAll('~~', '')}</p>
 					</div>
 				</Link> : <div />}
-				{older ? <Link href={`/announcements/${older?.slug}`}>
+				{older ? <Link href={`/financials/${older?.slug}`}>
 					<div className={'flex flex-row'}>
 						<p className={'text-yblue cursor-pointer text-xs mr-1'}>{older?.title.replaceAll('~~', '')}</p>
 						<Chevron />
@@ -47,10 +47,7 @@ function Post({post, newer, older}) {
 			</div>
 			<article className={'w-full p-4 bg-white'}>
 				<div className={'flex flex-col mb-6'}>
-					<p className={'text-xs text-ygray-300 pb-6'}>
-						{/* {`by ${post?.author || 'Yearn'} ${post?.date}`} */}
-						{`${new Date(post?.date || '').toLocaleDateString('en-us', {weekday:'long', year:'numeric', month:'short', day:'numeric'})} | Written by ${post?.author || 'Yearn'}${post?.translator ? ` | Translated by ${post?.translator || 'Yearn'}` : ''}`}
-					</p>
+					<p className={'text-xs text-ygray-300 pb-6'}>{`by ${post?.author || 'Yearn'} ${post?.date}`}</p>
 					<h1
 						className={'text-ygray-100 dark:text-white font-bold whitespace-pre-line font-title text-2xl'}
 						dangerouslySetInnerHTML={{__html: parseMarkdown(post?.title || '')}} />
@@ -84,14 +81,14 @@ function Post({post, newer, older}) {
 export default Post;
 
 export async function getStaticProps({params, locale}) {
-	const post = getPostBySlug(
-		'_announcements',
+	const post = await getPostBySlug(
+		'_financials/quarterly-report',
 		params.slug,
 		['title', 'image', 'date', 'slug', 'author', 'content', 'translator'],
 		locale,
 		true
 	);
-	const [newer, older] = await getRelatedPosts('_announcements', ['slug', 'date', 'title'], locale, false, params.slug);
+	const [newer, older] = await getRelatedPosts('_financials/quarterly-report', ['slug', 'date', 'title'], locale, false, params.slug);
 
 	return {
 		props: {post, newer: newer || null, older: older || null},
@@ -102,9 +99,10 @@ export async function getStaticPaths() {
 	const paths = [];
 
 	Object.values(LOCALES).map((lang) => {
-		const posts = getAllPosts('_announcements', [''], ['slug'], lang);
+		const posts = getAllPosts('_financials/quarterly-report', [''], ['slug'], lang);
 		paths.push(...posts.map((post) => ({params: {slug: post.slug}, locale: lang})));
 	});
+	console.log(paths);
 
 	return {
 		paths,

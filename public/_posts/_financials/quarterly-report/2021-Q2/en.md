@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  "Yearn Finance 2021 Q2 Quarterly Report"
-categories: [ Financials ]
-image: ./cover.png
+date: '2020-12-14'
+image:
+  src: ./cover.jpeg
+  width: 1500
+  height: 500
 author: Yearn
 translator:
 publish: true
@@ -10,36 +13,19 @@ publish: true
 
 # Yearn Finance Quarterly Report
 
-![banner](image1.png)
+![](/_posts/_financials/quarterly-report/2021-Q2/image1.jpg?w=1500&h=500)
 
 ## For Q2- 2021
 
-DISCLAIMER
-
-The data, statements and information presented in this report is for informational purposes
-only, and it does not constitute financial or investment advice. Further, the financial statements
-presented have not undergone a comprehensive financial statement audit from a third-party
-professional accounting firm. As such, there may exist errors or inaccuracies that materially
-misstate the financial statements. We are not responsible for any financial losses or adverse
-outcomes that may result from making investment decision based on the data presented
-herein. Further, by viewing this report you agree that the statements in this report do not
-constitute a representation, warranty or guaranty regarding any matter, and you are not relying
-thereon, but will conduct your own due diligence. You hereby release, waive and relinquish any
-and all claims, causes of action and disputes against Yearn Finance, its contributors, and the
-creators of this document. THIS REPORT DOES NOT CONSTITUTE ADVICE FOR ANY PURPOSE.
-
-The forward-looking statements in this report are subject to numerous assumptions, risks and
-uncertainties which are subject to change over time. There are many risk factors, including
-those relating to blockchain and cryptographic technology generally, as well as Yearn
-specifically, that could cause actual results or developments anticipated by us not to be realized
-or, even if substantially realized, to fail to achieve any or all of the benefits that could be
-expected therefrom. We reserve the right to change the plans, expectations and intentions
-stated herein at any time, and we undertake no obligation to update publicly or revise any
-forward-looking statement, whether as a result of new information, future developments or
-otherwise. ACCORDINGLY, WE RECOMMEND THAT YOU DO NOT RELY ON, AND DO NOT MAKE
-ANY FINANCIAL DECISION OR INVESTMENT BASED ON, THE STATEMENTS CONTAINED IN THIS
-UPDATE —INCLUDING BUT NOT LIMITED TO ANY SELLING OR TRADING OF YFI TOKENS, ETHER
-OR ANY OTHER CRYPTOGRAPHIC OR BLOCKCHAIN TOKEN.
+>DISCLAIMER
+>
+>The data, statements and information presented in this report is for informational purposes only, and it does not constitute financial or investment advice. Further, the financial statements presented have not undergone a comprehensive financial statement audit from a third-party professional accounting firm. As such, there may exist errors or inaccuracies that materially misstate the financial statements. We are not responsible for any financial losses or adverse outcomes that may result from making investment decision based on the data presented herein. Further, by viewing this report you agree that the statements in this report do not constitute a representation, warranty or guaranty regarding any matter, and you are not relying thereon, but will conduct your own due diligence. You hereby release, waive and relinquish any and all claims, causes of action and disputes against Yearn Finance, its contributors, and the creators of this document.  
+>
+>THIS REPORT DOES NOT CONSTITUTE ADVICE FOR ANY PURPOSE.
+>
+>The forward-looking statements in this report are subject to numerous assumptions, risks and uncertainties which are subject to change over time. There are many risk factors, including those relating to blockchain and cryptographic technology generally, as well as Yearn specifically, that could cause actual results or developments anticipated by us not to be realized or, even if substantially realized, to fail to achieve any or all of the benefits that could be expected therefrom. We reserve the right to change the plans, expectations and intentions stated herein at any time, and we undertake no obligation to update publicly or revise any forward-looking statement, whether as a result of new information, future developments or otherwise.  
+>
+>ACCORDINGLY, WE RECOMMEND THAT YOU DO NOT RELY ON, AND DO NOT MAKE ANY FINANCIAL DECISION OR INVESTMENT BASED ON, THE STATEMENTS CONTAINED IN THIS UPDATE —INCLUDING BUT NOT LIMITED TO ANY SELLING OR TRADING OF YFI TOKENS, ETHER OR ANY OTHER CRYPTOGRAPHIC OR BLOCKCHAIN TOKEN.
 
 ## Table of Contents
 
@@ -55,7 +41,7 @@ OR ANY OTHER CRYPTOGRAPHIC OR BLOCKCHAIN TOKEN.
 
 ## An Introduction to Yearn Finance
 
-![](image2.png)
+![](/_posts/_financials/quarterly-report/2021-Q2/image2.jpg?w=1456&h=733)
 
 Yearn Finance (“Yearn”) is the leading yield-aggregator protocol in decentralized finance (“DeFi”)
 operating on the Ethereum blockchain. The protocol launched in early 2020 with the iEarnproduct
@@ -89,7 +75,7 @@ employ one strategy per yVault.
 
 ## Adjusted EBITDA for _Q2- 21 was $16.4m and $6.6m_ was generated in May-21 alone, representing Yearn’s most profitable month. Quarterly EBITDA growth increased 235% from Q1 to Q2.
 
-![](page5.png)
+![](/_posts/_financials/quarterly-report/2021-Q2/page5.jpg?w=637&h=724)
 
 ### Basis of Presentation
 
@@ -121,7 +107,7 @@ errors in the tables presented, this is due to rounding.
 
 ## Income Statement – continued.
 
-![](page6.png)
+![](/_posts/_financials/quarterly-report/2021-Q2/page6.jpg?w=637&h=724)
 
 - Yearn contributors are eligible to receive YFI as part of a vesting compensation plan. This vesting was
   approved by Yearn governance with YIP-57: Funding Yearn’sFuture. YFI is vesting monthly for 3 years
@@ -153,7 +139,7 @@ errors in the tables presented, this is due to rounding.
 
 ## Yearn has very high operating margins (~ 50%) as overhead costs are quite low relative to top-line generated revenue primarily from yVaults. This is due to the efficient value accrual model derived from the yVault product line.
 
-![](page7.png)
+![](/_posts/_financials/quarterly-report/2021-Q2/page7.jpg?w=1053&h=645)
 
 ### Key Drivers of Financial Results
 
@@ -173,7 +159,7 @@ errors in the tables presented, this is due to rounding.
 
 # yVault revenue has seen tremendous growth in Q2 and both May and June yVault revenue eclipsed the entire revenue generated for Q1-21.
 
-![](page8.png)
+![](/_posts/_financials/quarterly-report/2021-Q2/page8.jpg?w=614&h=728)
 
 - The table presented at left only displays the top 25 yVaultssorted by total revenue for
   Q2. Yearn has launched over 125 yVaultsincluded vaults phased out and no longer in
@@ -201,7 +187,7 @@ errors in the tables presented, this is due to rounding.
 
 # Yearn earned $868k yield-farming with Treasury assets in Q2.
 
-![](page9.png)
+![](/_posts/_financials/quarterly-report/2021-Q2/page9.jpg?w=670&h=519)
 
 - Yearn earned a material amount of revenue yield-farming with idle assets owned by
   Treasury in Q2. The amount earned by these activities partially offset the entire salary
@@ -227,7 +213,7 @@ errors in the tables presented, this is due to rounding.
 
 # The full-time contributor team expanded in Q2 adding additional developers, marketing and operations personnel.
 
-![](page10.png)
+![](/_posts/_financials/quarterly-report/2021-Q2/page10.jpg?w=635&h=253)
 
 - The full-time contributor team has expanded and now consists of twenty-six individuals.
 - There are now thirteen developers, ten operations personnel, and one personnel each
@@ -237,7 +223,7 @@ errors in the tables presented, this is due to rounding.
 
 # Coordinape distributes the majority of Yearn community grants and is a novel and innovative approach to decentralized payments.
 
-![](page11.png)
+![](/_posts/_financials/quarterly-report/2021-Q2/page11.jpg?w=787&h=411)
 
 - The majority of Yearn community grants are distributed by the Coordinapeprogram.
   Coordinapeis a decentralized grant selection and disbursement model. Previously
@@ -253,7 +239,7 @@ errors in the tables presented, this is due to rounding.
 
 # Yearn has purchased approximately 81 YFI since beginning it’s buyback program in November 2020.
 
-![](page12.png)
+![](/_posts/_financials/quarterly-report/2021-Q2/page12.jpg?w=493&h=733)
 
 - YIP-55: Buyback and Build Yearn was approved in November 2020 and replaced the
   earning distribution model (staking) with a buyback model. Earnings after covering
@@ -267,7 +253,7 @@ errors in the tables presented, this is due to rounding.
 
 # For Jun-21 YTD depositors, governance, and strategists have earned approximately 69%, 22%, and 8% of revenue generated for yVaults.
 
-![](page13.png)
+![](/_posts/_financials/quarterly-report/2021-Q2/page13.jpg?w=806&h=662)
 
 - Depositors receive the overwhelming majority of revenue earned from yVaults. Since
   inception they have earned $88m of the total $126m generated by yVaults.
@@ -283,7 +269,7 @@ errors in the tables presented, this is due to rounding.
 
 # Yearn owns approximately $151m in assets held in Treasury, and as of June 2021 has no net debt (outstanding debt less cash).
 
-![](page14.png)
+![](/_posts/_financials/quarterly-report/2021-Q2/page14.jpg?w=794&h=627)
 
 - **Cash & cash equivalents** –Management fees and performance fees owed to the Yearn
   protocol are sent to Yearn Treasury in the form of the yVault liquidity provider (“LP”)
@@ -308,11 +294,7 @@ errors in the tables presented, this is due to rounding.
 - **Other long term assets** –Consists of the KP3R/ETH liquidity pool required to generated
   credits needed to pay keepers performing harvesting functions for Yearn yVaults. The
   market value, including any impermanent losses, of this liquidity pool was obtained from
-  apy.visionat each month end.
-
-# Balance Sheet – continued.
-
-![](page14.png)
+  apy.visionat each month end.  
 
 - **Accounts payable & accrued expenses** –Accounts payable are due to service providers or
   affiliate partners. Increases in this balance in April and May is largely due to accrued but
@@ -330,7 +312,7 @@ errors in the tables presented, this is due to rounding.
 
 # Yearn has sufficient cash to repay all existing debt obligations owed to decentralized lending protocols.
 
-![](page16.png)
+![](/_posts/_financials/quarterly-report/2021-Q2/page16.jpg?w=481&h=127)
 
 - Users of v1 vaults experienced an adverse event in early Q1 that resulted in an $11m loss.
   Yearn covered this loss and reimbursed users by obtaining a loan from MakerDao. The
@@ -342,7 +324,7 @@ errors in the tables presented, this is due to rounding.
 
 # Yearn _Total Value Locked exceeded $5.0b in June_, and as of August 19
 
-![](page17.png)
+![](/_posts/_financials/quarterly-report/2021-Q2/page17.jpg?w=792&h=670)
 
 - There has been phenomenal growth in Total Value Locked (TVL) across all Yearn products
   in Q1 2021 and continuing into Q2 2021. In June TVL peaked at $5.0b, slightly retraced in
@@ -359,7 +341,7 @@ errors in the tables presented, this is due to rounding.
 
 # We continue to make improvements to our financial dashboard displaying transactions, an Income Statement, and a Balance Sheet.
 
-![](page18.png)
+![](/_posts/_financials/quarterly-report/2021-Q2/page18.jpg?w=810&h=460)
 
 - Our financial dashboard is public to give community members more granular information
   related to financial transactions affecting Yearn’soperations. You can view transactions

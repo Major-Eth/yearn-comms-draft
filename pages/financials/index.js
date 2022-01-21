@@ -12,7 +12,7 @@ function	Index({allPosts}) {
 					<div className={'mb-8 grid grid-cols-3 gap-4'}>
 						{allPosts.map((post) => (
 							<div className={'masonry-item'} key={post.slug}>
-								<Link href={`/newsletters/${post.slug}`}>
+								<Link href={`/financials/${post.slug}`}>
 									<div className={'w-full bg-white cursor-pointer hover:shadow-md transition-shadow'}>
 										<div className={'border-b border-ygray-500 flex w-full'}>
 											<Image
@@ -47,13 +47,13 @@ export default Index;
 
 export const getStaticProps = async ({locale}) => {
 	const allPosts = getAllPosts(
-		'_newsletters',
-		[''],
+		'_financials',
+		['quarterly-report'],
 		['title', 'date', 'slug', 'author', 'image'],
 		locale
 	);
-
 	console.log(allPosts);
+
 	return {
 		props: {allPosts, locale},
 	};

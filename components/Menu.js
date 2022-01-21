@@ -50,10 +50,21 @@ function	MenuItems() {
 				condition={router.pathname.startsWith('/articles')}
 				href={'/articles'} />
 			<MenuItem
-				className={'mb-4 md:mb-8'}
+				className={'mb-2 md:mb-4'}
 				label={common['menu-financials']}
-				condition={router.pathname.startsWith('/financials')}
+				condition={
+					router.pathname.startsWith('/financials')
+					&&
+					!router.pathname.startsWith('/financials/quarterly-report')
+				}
 				href={'/financials'} />
+			<div className={'ml-4 space-y-2 md:space-y-4 mb-4 md:mb-8'}>
+				<MenuItem
+					className={'mb-4 md:mb-8'}
+					label={common['menu-financials-quarterly-report']}
+					condition={router.pathname.startsWith('/financials/quarterly-report')}
+					href={'/financials/quarterly-report'} />
+			</div>
 			
 			<div className={'text-ygray-200 dark:text-dark-50 cursor-pointer relative w-full'}>
 				<a href={'https://yearn.finance'} target={'_blank'} rel={'noreferrer'}>

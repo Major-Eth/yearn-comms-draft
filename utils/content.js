@@ -2,9 +2,14 @@ import fs from 'fs';
 import {join} from 'path';
 import matter from 'gray-matter';
 
-export function getPostSlugs(dir) {
+export function getPostSlugs(dir, subdir) {
 	const postsDirectory = join(process.cwd(), `public/_posts/${dir}`);
-	return fs.readdirSync(`${postsDirectory}`);
+	const dirContent = fs.readdirSync(`${postsDirectory}`);
+	const toRet = [];
+	for (let index = 0; index < dirContent.length; index++) {
+		toRet.push(`${subdir ? `${subdir}/` : ''}${dirContent[index]}`);
+	}
+	return (toRet);
 }
 
 export function getPostBySlug(dir, slug, fields = [], locale, withFallback) {
@@ -97,8 +102,25 @@ export function getRelatedPosts(dir, fields = [], locale, withFallback = false, 
 	return [];
 }
 
-export function getAllPosts(dir, fields = [], locale, withFallback = false) {
-	const slugs = getPostSlugs(dir);
+export function getAllPosts(
+	dir,
+	paths = [''],
+	fields = [],
+	locale,
+	withFallback = false
+) {
+	let	slugs = [];
+	for (let index = 0; index < paths.length; index++) {
+		slugs.push(
+			...getPostSlugs(
+				`${dir}${paths[index] ? `/${paths[index]}/` : paths[index]}`,
+				paths[index]
+			)
+		);
+	}
+
+	// const slugs = getPostSlugs(dir);
+	// console.log(slugs);
 	const posts = slugs
 		.map((slug) => getPostBySlug(dir, slug, fields, locale, withFallback)).filter(Boolean)
 		.sort((post1, post2) => (post1.date > post2?.date ? -1 : 1));

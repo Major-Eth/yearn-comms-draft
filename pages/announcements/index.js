@@ -49,6 +49,7 @@ export default Index;
 export const getStaticProps = async ({locale}) => {
 	const _allPosts = getAllPosts(
 		'_announcements',
+		[''],
 		['title', 'date', 'slug', 'author', 'image'],
 		locale
 	);

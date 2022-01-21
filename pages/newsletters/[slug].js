@@ -94,7 +94,7 @@ export async function getStaticProps({params, locale}) {
 	const [newer, older] = await getRelatedPosts('_newsletters', ['slug', 'date', 'title'], locale, false, params.slug);
 
 	return {
-		props: {post, newer, older},
+		props: {post, newer: newer || null, older: older || null},
 	};
 }
 
@@ -102,7 +102,7 @@ export async function getStaticPaths() {
 	const paths = [];
 
 	Object.values(LOCALES).map((lang) => {
-		const posts = getAllPosts('_newsletters', ['slug'], lang);
+		const posts = getAllPosts('_newsletters', [''], ['slug'], lang);
 		paths.push(...posts.map((post) => ({params: {slug: post.slug}, locale: lang})));
 	});
 
