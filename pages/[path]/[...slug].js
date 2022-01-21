@@ -119,7 +119,7 @@ export async function getStaticProps({params, locale}) {
 			props: {
 				allPosts: [...col1, ...col2, ...col3],
 				isListing: true,
-				path: params.path
+				path: `${params.path}/${actualSlug.substring(params.path.length + 1)}`
 			},
 		};
 	}
