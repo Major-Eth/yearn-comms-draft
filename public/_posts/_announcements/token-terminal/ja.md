@@ -12,7 +12,7 @@ translator: Cripu
 publish: true
 ---
 
-![](1.jpg)
+![](/_posts/_announcements/token-terminal/1.jpg)
 
 Token TerminalのYearnファンダメンタルズ指標ダッシュボード
 

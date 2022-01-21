@@ -13,7 +13,7 @@ publish: true
 ---
 
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image1.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/cover.jpeg?w=880&h=440)
 
 Willkommen zur 42. Ausgabe des Yearn Finance Newsletters. Mit diesem Newsletter möchten wir die Yearn- und die breitere Krypto-Community über die neuesten Nachrichten informieren, darunter Produkteinführungen, Änderungen in der Unternehmensführung und Aktualisierungen des Ökosystems. Wenn du daran interessiert bist, mehr über Yearn Finance zu erfahren, folge unseren offiziellen [Twitter](https://twitter.com/iearnfinance)- und [Medium](https://medium.com/iearn)-Konten.
 

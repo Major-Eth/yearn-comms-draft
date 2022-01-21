@@ -13,7 +13,7 @@ publish: true
 ---
 
 
-![](/image1.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/cover.jpeg?w=880&h=440)
 Καλώς ήρθατε στην 45η έκδοση του ενημερωτικού δελτίου του Yearn Finance. Στόχος μας με αυτό το ενημερωτικό δελτίο είναι να ενημερώνουμε την κοινότητα του Yearn και την ευρύτερη κρύπτο-κοινότητα για τα τελευταία νέα, συμπεριλαμβανομένων των νέων προϊόντων, των αλλαγών στη διακυβέρνηση και των ενημερώσεων του οικοσυστήματος. Εάν ενδιαφέρεστε να μάθετε περισσότερα για το Yearn Finance, ακολουθήστε τους επίσημους λογαριασμούς μας [Twitter](https://twitter.com/iearnfinance) και [Medium](https://medium.com/iearn).
 
 
@@ -28,7 +28,7 @@ publish: true
 
 ## **Πάροχοι ρευστότητας στο ALPHA και το YFI επιλέχτηκαν για ένα ξεχωριστό NFT**
 
-![](./image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image2.jpg)
 
 Οι πάροχοι ρευστότητας στα pools του Uniswap ETH/YFI και του Sushiswap ETH/YFI καθώς και στα pools Alpha Homora V2 θα είναι επιλέξιμοι για μια ειδική παραλαβή NFT από το Yearn, το Alpha και το Project Galaxy.
 

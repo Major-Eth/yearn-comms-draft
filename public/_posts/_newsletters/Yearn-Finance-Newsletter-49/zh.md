@@ -16,7 +16,7 @@ publish: true
 
 ### 2021年11月14日结束的一周
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image1.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/cover.jpeg?w=880&h=440)
 
 欢迎来到Yearn最新动态第49版。 此新闻简报的目的是让Yearn和所有加密货币社区了解最新消息，包括新产品发布，治理变化和生态系统更新。如果你有兴趣了解更多有关Yearn Finance的信息，请关注我们的官方[Twitter](https://twitter.com/iearnfinance)和[Medium](https://medium.com/iearn)帐户。
 

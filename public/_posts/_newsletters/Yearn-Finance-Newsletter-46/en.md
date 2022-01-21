@@ -15,7 +15,7 @@ publish: true
 #### Week Ending September 12th, 2021
 
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image1.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/cover.jpeg?w=880&h=440)
 
 
 

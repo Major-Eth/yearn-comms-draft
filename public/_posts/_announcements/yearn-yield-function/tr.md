@@ -12,7 +12,7 @@ translator: Dastronom
 publish: true
 ---
 
-![](yield1.jpg)
+![](/_posts/_announcements/yearn-yield-function/yield1.jpg)
 
 # Ya Yearn = web'in "verim işlevi" ise?
 

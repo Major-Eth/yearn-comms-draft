@@ -1,11 +1,17 @@
 import	React							from	'react';
 import	Link							from	'next/link';
+import	Image							from	'next/image';
 import	Head							from	'next/head';
 import	{useRouter}						from	'next/router';
 import	ErrorPage						from	'next/error';
+import	ReactMarkdown					from	'react-markdown';
+import	remarkGfm						from	'remark-gfm';
 import	{getPostBySlug, getAllPosts, getRelatedPosts} 	from	'utils/content';
-import	{parseMarkdown, markdownToHtml}	from	'utils';
+import	{parseMarkdown}					from	'utils';
 import	LOCALES							from	'utils/locale';
+
+
+
 
 function Chevron({className}) {
 	return (
@@ -32,12 +38,12 @@ function Post({post, newer, older}) {
 				{newer ? <Link href={`/newsletters/${newer?.slug}`}>
 					<div className={'flex flex-row'}>
 						<Chevron className={'transform rotate-180'} />
-						<p className={'text-yblue cursor-pointer text-xs ml-1'}>{newer?.title}</p>
+						<p className={'text-yblue cursor-pointer text-xs ml-1'}>{newer?.title.replaceAll('~~', '')}</p>
 					</div>
 				</Link> : <div />}
 				{older ? <Link href={`/newsletters/${older?.slug}`}>
 					<div className={'flex flex-row'}>
-						<p className={'text-yblue cursor-pointer text-xs mr-1'}>{older?.title}</p>
+						<p className={'text-yblue cursor-pointer text-xs mr-1'}>{older?.title.replaceAll('~~', '')}</p>
 						<Chevron />
 					</div>
 				</Link>: <div />}
@@ -49,14 +55,28 @@ function Post({post, newer, older}) {
 						className={'text-ygray-100 dark:text-white font-bold whitespace-pre-line font-title text-2xl'}
 						dangerouslySetInnerHTML={{__html: parseMarkdown(post?.title || '')}} />
 				</div>
-				<div className={'prose w-full max-w-full space-y-6 mb-8 prose-yblue'}>
-					<div
-						className={'text-ygray-200 dark:text-dark-50'}
-						dangerouslySetInnerHTML={{__html: post?.content || ''}} />
+				<div className={'prose w-full max-w-full space-y-6 mb-8 prose-yblue text-ygray-200 dark:text-dark-50'}>
+					<ReactMarkdown
+						components={{
+							img: ({...props}) => {
+								const width = props.src.match(/w=(\d+)/)?.[1] || 0;
+								const height = props.src.match(/h=(\d+)/)?.[1] || 0;
+								return (
+									<Image
+										className={'bg-ygray-600'}
+										quality={95}
+										width={width || 880}
+										objectFit={height + width === 0 ? 'contain' : ''}
+										height={height || 600}
+										{...props} />
+								);
+							}
+						}}
+						remarkPlugins={[remarkGfm]}>
+						{post?.content || ''}
+					</ReactMarkdown>
 				</div>
-
 			</article>
-
 		</div>
 	);
 }
@@ -67,19 +87,14 @@ export async function getStaticProps({params, locale}) {
 	const post = await getPostBySlug(
 		'_newsletters',
 		params.slug,
-		['title', 'image', 'date', 'slug', 'author', 'content'],
+		['title', 'image', 'date', 'slug', 'author', 'content', 'translator'],
 		locale,
 		true
 	);
 	const [newer, older] = await getRelatedPosts('_newsletters', ['slug', 'date', 'title'], locale, false, params.slug);
-	const content = await markdownToHtml(post.content || '');
 
 	return {
-		props: {
-			post: {...post, content},
-			newer,
-			older
-		},
+		props: {post, newer, older},
 	};
 }
 

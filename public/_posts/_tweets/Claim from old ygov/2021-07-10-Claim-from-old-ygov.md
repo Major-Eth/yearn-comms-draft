@@ -57,6 +57,6 @@ With your fresh YFI or yCRV in hand, you can head to http://yearn.finance/vaults
 
 Also worth adding here: just because you don't have any funds still staked doesn't mean you can't claim rewards! Similar to balanceOf(), you can check for claimable rewards under Read Contract with earned(), and then claim any available under Write Contract using getReward()! 🤑
 
-![](image4.png) </br>
+![](image4.png)  
 
 ![](image5.png)

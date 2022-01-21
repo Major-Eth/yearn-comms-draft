@@ -18,7 +18,7 @@ Artık iki bölümden öluşuyor:
 
 ## 1. Yearn Vault'leri arasında
 
-![](image1.jpg)
+![](/_posts/_announcements/update-bowswap-finance/image1.jpg)
 
 Fonları bir vault'dan diğerine takas eder. Likidite havuzu yok. İstenen vault'dan çekilir ve yeniden yatırılır. Yaptığı tek takas Curve'yi kullanmaktır. Vault'lerin ortak bir belirteci varsa (örneğin aynı metapool veya 3CRV) bunları kullanacaktır. Gaz açısından ucuz olmasa da, gaz açısından verimlidir - kesinlikle manuel yapmaktan daha ucuzdur, 
 
@@ -28,7 +28,7 @@ Fonları bir vault'dan diğerine takas eder. Likidite havuzu yok. İstenen vault
 
 Üzgünüm Stani
 
-![](image2.jpg)
+![](/_posts/_announcements/update-bowswap-finance/image2.jpg)
 
 Bu sonraki özellik, kullanıcıların Compound ve AAVE'den Yearn'e para taşımasına yardımcı olur. Bu, yukarıdakiyle aynı konsepttir, protokolden çekilip Yearn Vault'a yatırılır. Ayrıca listede her iki protokolün APY'sini gösterir ve aynı anda birden fazla token seçmenize izin verir.
 

@@ -12,7 +12,7 @@ translator: JKtranslator
 publish: true
 ---
 
-![](1.jpg) </br>
+![](/_posts/_announcements/token-terminal/1.jpg)
 
 Painel de Fundamentos de Yearn em Token Terminal
 

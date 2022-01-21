@@ -15,7 +15,7 @@ publish: true
 
 ### Woche bis 14. November 2021
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image1.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/cover.jpeg?w=880&h=440)
 
 Willkommen zur 49. Ausgabe des Yearn Finance Newsletter. Mit diesem Newsletter möchten wir die Yearn- und die breitere Kryptocommunity über die neuesten Nachrichten informieren, darunter Produkteinführungen, Änderungen in der Unternehmensführung und Aktualisierungen im Ökosystem. Wenn du mehr über Yearn Finance erfahren möchtest, folge unserem offiziellen [Twitter](https://twitter.com/iearnfinance)- und [Medium](https://medium.com/iearn)-Konten.
 

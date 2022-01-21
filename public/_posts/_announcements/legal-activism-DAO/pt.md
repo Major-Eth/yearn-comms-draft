@@ -12,7 +12,7 @@ translator: jameskbh
 publish: true
 ---
 
-![](image1.jpg)
+![](/_posts/_announcements/legal-activism-DAO/image1.jpg)
 
 [@LeXpunK_DAO]https://twitter.com/LeXpunK_DAO) está propondo a criação de um DAO de ativismo de cripto-advocacia focado em desenvolvedores com outras comunidades com valores alinhados.
 

@@ -12,7 +12,7 @@ translator: Dastronom
 publish: true
 ---
 
-![](image1.jpg) <br>
+![](/_posts/_announcements/what-do-i-need-to-write-a-strategy/cover.jpg)
 
 2021'de [Yearn](https://t.me/yearnupdates) stratejistlerine 5 milyon doların üzerinde ödeme yapıldı. Bugün [@EthCC](https://twitter.com/EthCC/) [Facu](https://t.me/fameal), kendisi gibi güçlü bir stratejist olmak için gerekenleri açıkladı. Harika bir genel bakış için aşağıdaki videoyu izleyin!👇
 

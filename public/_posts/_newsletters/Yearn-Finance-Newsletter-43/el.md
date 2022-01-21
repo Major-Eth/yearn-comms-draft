@@ -13,7 +13,7 @@ publish: true
 ---
 
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-43/image1.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-43/cover.jpeg?w=880&h=440)
 
 Καλώς ήρθατε στην 43η έκδοση του ενημερωτικού δελτίου του Yearn Finance. Στόχος μας με αυτό το ενημερωτικό δελτίο είναι να ενημερώνουμε την κοινότητα του Yearn και την ευρύτερη κρύπτο-κοινότητα για τα τελευταία νέα, συμπεριλαμβανομένων των νέων προϊόντων, των αλλαγών στη διακυβέρνηση και των ενημερώσεων του οικοσυστήματος. Εάν ενδιαφέρεστε να μάθετε περισσότερα για το Yearn Finance, ακολουθήστε τους επίσημους λογαριασμούς μας [Twitter](https://twitter.com/iearnfinance) και [Medium](https://medium.com/iearn).
 

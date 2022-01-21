@@ -12,7 +12,7 @@ translator: Dastronom
 publish: true
 ---
 
-![](1.jpg)
+![](/_posts/_announcements/token-terminal/1.jpg)
 
 Yearn'in Temel Bilgiler Panosu Token Terminal'de
 

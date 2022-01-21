@@ -12,7 +12,7 @@ translator: Cryptouf
 publish: true
 ---
 
-![](/_posts/_announcements/legal-activism-DAO/1.jpg)
+![](/_posts/_announcements/legal-activism-DAO/legal-activism-DAO/1.jpg)
 
 [@LeXpunK_DAO](https://twitter.com/LeXpunK_DAO) propose de lancer une DAO activiste composée de developpeur specialiser dans les lois autout de la crypto avec l'aide d'autres communautés partageant les mêmes valeurs 
 C'est pour les developpeurs et les degens ayant une voix plus importante dans les discussions critiques sur les lois cryptographiques, sans influence de la Silicon-Valley.

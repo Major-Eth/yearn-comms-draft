@@ -12,7 +12,7 @@ translator: Dastronom
 publish: true
 ---
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-41/image1.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-41/cover.jpeg?w=880&h=440)
 
 # Yearn Finance Haber Bülteni #41
 

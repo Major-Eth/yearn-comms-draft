@@ -13,7 +13,7 @@ publish: true
 ---
 
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image1.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/cover.jpeg?w=880&h=440)
 
 Yearn Finance Newsletterの第44号へようこそ。このニュースレターの目的は、プロジェクトのローンチ、ガバナンスの変更、エコシステムの更新など、最新のニュースをYearnとより広いクリプトコミュニティにお知らせすることです。Yearn Financeについてもっと知りたいという方は、私たちの公式[Twitter](https://twitter.com/iearnfinance)と[Medium](https://medium.com/iearn)アカウントをフォローしてください。
 

@@ -16,7 +16,7 @@ publish: true
 
 ### Tuần Kết thúc Ngày 14/11/2021
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image1.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/cover.jpeg?w=880&h=440)
 
 Chào mừng các bạn đến với Bản tin Yearn.Finance Số #49! Chúng tôi hy vọng sẽ truyền tải được những dữ kiện mới nhất cho cộng đồng tiền mã thuật số (`crypto`) nói chung lẫn cộng đồng Yearn nói riêng; từ phát hành sản phẩm, thay đổi trong quản trị đến nhiều dự án đối tác trực thuộc hệ sinh thái Yearn. Nếu quan tâm và muốn biết thêm chi tiết về Yearn.Finance, hãy theo dõi tài khoản [Twitter](https://twitter.com/iearnfinance), [Medium](https://medium.com/iearn) cũng như [blog Tiếng Việt](https://vietnamese.blog.yearn.finance/) chính thức của chúng tôi.
 

@@ -1,6 +1,4 @@
 import	{ethers}	from	'ethers';
-import	remark		from	'remark';
-import	html		from	'remark-html';
 
 export const toAddress = (address) => {
 	if (!address) {
@@ -34,9 +32,4 @@ export function	parseMarkdown(markdownText) {
 		;
 
 	return htmlText.trim();
-}
-
-export async function markdownToHtml(markdown) {
-	const result = await remark().use(html).process(markdown);
-	return result.toString();
 }

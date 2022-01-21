@@ -15,7 +15,7 @@ publish: true
 
 ### Woche bis zum 10. Oktober 2021
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image1.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/cover.jpeg?w=880&h=440)
 
 Willkommen zur 48. Ausgabe des Yearn Finance Newsletters. Mit diesem Newsletter möchten wir die Yearn- und die breitere Krypto-Community über die neuesten Nachrichten informieren, darunter Produkteinführungen, Änderungen in der Unternehmensführung und Aktualisierungen im Ökosystem. Wenn du mehr über Yearn Finance erfahren möchtest, folge unserem offiziellen [Twitter](https://twitter.com/iearnfinance)- und [Medium](https://medium.com/iearn)-Konten.
 

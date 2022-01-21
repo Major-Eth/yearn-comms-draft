@@ -12,7 +12,7 @@ translator: Nesyeth
 publish: true
 ---
 
-![](image1.jpg) <br>
+![](/_posts/_announcements/what-do-i-need-to-write-a-strategy/cover.jpg)
 
 Im Jahr 2021 wurden über 5 Mio. $ an [Yearn](https://t.me/yearnupdates) Strategen gezahlt. Heute hat [@EthCC](https://twitter.com/EthCC/) [Facu](https://t.me/fameal) dargelegt, was es braucht, um ein mächtiger Stratege wie er selbst zu werden. Das Video unten gibt einen tollen Überblick! 👇
 

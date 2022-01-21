@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Présentation de Deposit Together: Faites des économies lors de vos dépôts dans un coffre"
-categories: [ Annoucements ]
 image:
   src: ./cover.jpg
   width: 576
@@ -12,7 +11,7 @@ translator: Cryptouf
 publish: true
 ---
 
-# Présentation de Deposit Together (Dépôser Ensemble): économisez plus de  80% de frais de dépots sur yearn.finance… 💥
+# Présentation de Deposit Together (Dépôser Ensemble): économisez plus de 80% de frais de dépots sur yearn.finance… 💥
 
 Chez [Wido](https://app.joinwido.com/?page=detail&address=0x8cc94ccd0f3841a468184aCA3Cc478D2148E1757), nous pensons que tout le monde devrait pouvoir utiliser la DeFi. Les développeurs derrière yearn.finance développent des coffres offrant des APY exceptionnelles tout en permettant le “Set and forget” . C’est a dire que vous déposez du capital et qu'il n’y a ensuite plus rien a faire. Les baleines (Whales) ont déposées des millions de dollars dans ces coffres pour générer des intérets.  Mais pour beaucoup, ces APY sont économiquement non rentables en raison des coûts de transaction très élevés. C’est maintenant une chose du passé- découvrez **[Wido Deposit Together](https://app.joinwido.com/?page=detail&address=0x8cc94ccd0f3841a468184aCA3Cc478D2148E1757)**. 
 
@@ -30,7 +29,7 @@ Vous pouvez ajouter votre transaction de dépôt au lot du lundi au vendredi. Le
 
 Le week-end, lorsque le gaz est plus bas, Wido regroupera toutes les transactions, les déposera dans Yearn en une seule transaction et divisera les frais de dépôt de manière égale entre tous les déposants.
 
-![](deposit-together.png)
+![](/_posts/_announcements/deposit-together/deposit-together.png)
 
 Techniquement, en rejoignant un lot Deposit Together, vous donnerez à Wido la permission pour une transaction de dépôt signée pour un montant ERC-20 donné et un coffre Yearn en particulier. Lors de l'exécution du dépôt par lots, notre contrat intelligent exécutera ces étapes pour chaque coffre avec des dépôts par lots :
 

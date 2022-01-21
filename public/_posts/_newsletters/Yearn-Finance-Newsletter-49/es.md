@@ -16,7 +16,7 @@ publish: true
 
 ### Semana que termina el 14 de Noviembre de 2021
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image1.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/cover.jpeg?w=880&h=440)
 
 Bienvenido a la edición 49 de la newsletter de Yearn Finance. Nuestro objetivo con esta newsletter es mantener informada a la comunidad de Yearn y de cripto en general con las últimas noticias, incluyendo el lanzamiento de productos, cambios de gobernanza y actualizaciones del ecosistema. Si estás interesado en aprender más de Yearn Finance, sigue las cuentas de [Twitter](https://twitter.com/iearnfinance) y [Medium](https://medium.com/iearn) oficiales.
 
@@ -160,7 +160,7 @@ Puedes leer nuestra descripción detallada de las estrategias para todos las yVa
 
 ### Semana que termina el 14 de Noviembre de 2021
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image1.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/cover.jpeg?w=880&h=440)
 
 Bienvenido a la edición 49 de la newsletter de Yearn Finance. Nuestro objetivo con esta newsletter es mantener informada a la comunidad de Yearn y de cripto en general con las últimas noticias, incluyendo el lanzamiento de productos, cambios de gobernanza y actualizaciones del ecosistema. Si estás interesado en aprender más de Yearn Finance, sigue las cuentas de [Twitter](https://twitter.com/iearnfinance) y [Medium](https://medium.com/iearn) oficiales.
 

@@ -12,7 +12,7 @@ translator:
 publish: true
 ---
 
-![](yield1.jpg)
+![](/_posts/_announcements/yearn-yield-function/yield1.jpg)
 
 # What if Yearn = the web's "yield function"?
 

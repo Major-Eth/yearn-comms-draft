@@ -15,7 +15,7 @@ publish: true
 
 ### 2021年10月10日までの1週間
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image1.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/cover.jpeg?w=880&h=440)
 
 Yearn Finance Newsletter 第48号へようこそ。このニュースレターの目的はプロダクトの発売、ガバナンスの変更、エコシステムの更新など最新のニュースをYearnとより広いクリプトコミュニティにお知らせすることです。Yearn Financeについてもっと知りたいという方は、私たちの公式[Twitter](https://twitter.com/iearnfinance)と[Medium](https://medium.com/iearn)アカウントをフォローしてください。
 

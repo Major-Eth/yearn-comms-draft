@@ -12,7 +12,7 @@ translator: 🤖💵💵💰💰.eth
 publish: true
 ---
 
-![](1.jpg) <br>
+![](/_posts/_announcements/token-terminal/1.jpg) <br>
 
 Bảng đo Chỉ số Then chốt về Nguyên lý Kinh doanh—Mô hình Hoạt động của Yearn trên Token Terminal
 

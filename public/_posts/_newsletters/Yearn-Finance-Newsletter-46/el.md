@@ -15,7 +15,7 @@ publish: true
 #### Εβδομάδα Σεπτεμβρίου 12, 2021
 
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image1.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/cover.jpeg?w=880&h=440)
 
 
 

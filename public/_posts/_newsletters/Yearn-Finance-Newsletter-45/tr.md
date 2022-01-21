@@ -14,7 +14,7 @@ publish: true
 
 # Yearn Finance Haber Bülteni #45
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image1.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/cover.jpeg?w=880&h=440)
 
 Yearn Finance Bülteninin 45. baskısına hoş geldiniz. Bu bültenle amacımız, Yearn'i ve daha geniş kripto topluluğunu ürün lansmanları, yönetim değişiklikleri ve ekosistem güncellemeleri de dahil olmak üzere en son gelişmelerden haberdar etmektir. Yearn Finance hakkında daha fazla bilgi edinmek istiyorsanız, resmi [Twitter](https://twitter.com/iearnfinance) ve [Medium](https://medium.com/iearn) hesaplarımızı takip edin.
 

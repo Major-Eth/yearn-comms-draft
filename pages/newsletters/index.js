@@ -17,12 +17,11 @@ function	Index({allPosts}) {
 										<div className={'border-b border-ygray-500 flex w-full'}>
 											<Image
 												src={post?.image?.src || '/default.jpeg'}
+												quality={90}
 												objectFit={'cover'}
 												loading={'eager'}
 												width={post?.image?.width || 800}
-												height={post?.image?.height || 445}
-
-											/>
+												height={post?.image?.height || 445} />
 										</div>
 										<div className={'bg-white p-4'}>
 											<div className={'flex flex-row justify-between w-full mb-2'}>

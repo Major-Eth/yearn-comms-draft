@@ -15,7 +15,7 @@ publish: true
 # Yearn Finance 最新动态 #46
 #### 2021年9月12日之前的一周
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image1.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/cover.jpeg?w=880&h=440)
 
 欢迎来到Yearn最新动态第46版。我们此新闻简报的目的是使Yearn和所有加密货币社区了解最新消息，包括新产品发布，治理变化和生态系统更新。如果你有兴趣了解更多有关Yearn Finance的信息，请关注我们的官方 [Twitter](https://twitter.com/iearnfinance)和[Medium](https://medium.com/iearn)帐户。
 

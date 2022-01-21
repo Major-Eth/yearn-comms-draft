@@ -12,7 +12,7 @@ translator: JKtranslator
 publish: true
 ---
 
-![](yield1.jpg)
+![](/_posts/_announcements/yearn-yield-function/yield1.jpg)
 
 # E se Yearn = a "função de rendimento" da web?
 

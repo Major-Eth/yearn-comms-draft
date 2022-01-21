@@ -12,7 +12,7 @@ translator: Nesyeth
 publish: true
 ---
 
-![](1.jpg)
+![](/_posts/_announcements/token-terminal/1.jpg)
 
 Yearn Fundamentals Dashboard auf Token Terminal
 

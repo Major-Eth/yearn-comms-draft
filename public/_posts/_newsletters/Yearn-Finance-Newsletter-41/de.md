@@ -12,7 +12,7 @@ translator: Nesyeth
 publish: true
 ---
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-41/image1.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-41/cover.jpeg?w=880&h=440)
 
 
 Willkommen zur 41. Ausgabe des Yearn Finance Newsletters. Mit diesem Newsletter möchten wir die Yearn- und die breitere Krypto-Community über die neuesten Nachrichten informieren, darunter Produkteinführungen, Änderungen in der Unternehmensführung und Aktualisierungen im Ökosystem. Wenn du mehr über Yearn Finance erfahren möchtest, folge unseren offiziellen [Twitter](https://twitter.com/iearnfinance)- und [Medium](https://medium.com/iearn)-Konten.

@@ -12,7 +12,7 @@ translator: Nesyeth
 publish: true
 ---
 
-![](yield1.jpg)
+![](/_posts/_announcements/yearn-yield-function/yield1.jpg)
 
 # Was wäre, wenn Yearn = die "Ertragsfunktion" des Internets wäre?
 

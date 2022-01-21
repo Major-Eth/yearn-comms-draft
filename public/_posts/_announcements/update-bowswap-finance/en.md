@@ -18,7 +18,7 @@ It now has two parts:
 
 ## 1. Between Yearn Vaults
 
-![](image1.jpg)
+![](/_posts/_announcements/update-bowswap-finance/image1.jpg)
 
 It swaps funds from one vault to another. There's no liquidity pool. It withdraws and redeposits into the desired vault. The only swaps it does is using Curve. If the vaults have a token in common (same metapool or 3CRV for example) it will use them. While it's not cheap gas-wise, it is gas efficient - Cheaper than doing it manually, for sure
 
@@ -28,7 +28,7 @@ It swaps funds from one vault to another. There's no liquidity pool. It withdraw
 
 Sorry Stani
 
-![](image2.jpg)
+![](/_posts/_announcements/update-bowswap-finance/image2.jpg)
 
 This next feature helps users migrate funds from Compound and AAVE to Yearn. It's the same concept as above, withdraw from the protocol and deposit into a Yearn Vault. Also shows both protocol's APY in the list and let's you select multiple tokens at the same time.
 

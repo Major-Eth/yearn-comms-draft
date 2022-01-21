@@ -16,7 +16,7 @@ publish: true
 
 #### Semana del 12 de Septiembre de 2021
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image1.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/cover.jpeg?w=880&h=440)
 
 Bienvenidos a la edición número 46 de la newsletter de Yearn Finance. Con esta newsletter nuestra idea es mantener informada a la comunidad de Yearn y de cripto en general con las últimas noticias, incluyendo lanzamiento de productos, cambios de gobernanza y actualizaciones del ecosistema. Si estás interesado en aprender más sobre Yearn Finance, sigue las cuentas oficiales de [Twitter](https://twitter.com/iearnfinance) y [Medium](https://medium.com/iearn). 
 

@@ -12,7 +12,7 @@ translator: Jengajojo
 publish: true
 ---
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-41/image1.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-41/cover.jpeg?w=880&h=440)
 
 # यर्न फिनांस समाचार पत्र #४१
 

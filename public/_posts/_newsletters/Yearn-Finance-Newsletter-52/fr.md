@@ -14,7 +14,7 @@ publish: true
 
 ### Semaine du 2 Janvier, 2022
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-52/image1.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-52/cover.jpeg?w=880&h=440)
 
 Bienvenue à la 52e édition de la Newsletter Yearn Finance. Notre objectif avec cette newsletter est de tenir la communauté Yearn, et plus généralement la communauté crypto, au courant des dernières nouvelles, y compris les lancements de produits, les changements de gouvernance et les mises à jour de l'écosystème. Si vous souhaitez en savoir plus sur Yearn Finance, suivez nos comptes [Twitter](https://twitter.com/iearnfinance) et [Medium](https://medium.com/iearn) officiels.
 
@@ -29,7 +29,7 @@ Bienvenue à la 52e édition de la Newsletter Yearn Finance. Notre objectif avec
 
 ## YIP-65 Enters Voting
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-52/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-52/image2.jpg?w=980&h=871)
 
 En résumé, le YIP-65 cherche à faire évoluer le rôle que joue le jeton $YFI chez Yearn sur quatre points distincts. Cela cimentera la vision du jeton comme fondement de la gouvernance.
 
@@ -55,7 +55,7 @@ Un grand merci aux auteurs : @0xJiji, @banteg, daryllautk, HAtTip3675, @onlylar
 
 ## [Proposition] - Programme pilote de rachat en DCA
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-52/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-52/image3.jpg?w=690&h=301)
 
 L'objectif de ce programme pilote est de fournir une meilleure compréhension à travers un exemple concret, que le “DCAing” est le meilleur moyen d'exécuter des rachats pour la trésorerie.
 
@@ -95,7 +95,7 @@ Merci à Wot_Is_Goin_On pour ce fil incroyable qui peut être retrouvé [ici](ht
 
 ## Yearn a reçu une subvention de 1 million FTM de la part de la Fondation Fantom
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-52/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-52/image4.jpg?w=1100&h=1092)
 
 Yearn a reçu une subvention de 1M de FTM de là par de la Fantom Foundation.
 

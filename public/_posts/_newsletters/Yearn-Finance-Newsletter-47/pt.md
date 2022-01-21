@@ -15,7 +15,7 @@ publish: true
 
 ### Semana encerrada em 26 de setembro de 2021
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image1.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/cover.jpeg?w=880&h=440)
 
 Bem-vindo à 47ª edição da Yearn Finance Newsletter. Nosso objetivo com este boletim é manter a comunidade da Yearn e a comunidade cripto em geral informadas sobre as notícias mais recentes, incluindo lançamentos de produtos, mudanças de governança e atualizações do ecossistema. Se você estiver interessado em aprender mais sobre Yearn Finance, siga nossas contas oficiais [Twitter](https://twitter.com/iearnfinance) e [Medium](https://medium.com/iearn).
 

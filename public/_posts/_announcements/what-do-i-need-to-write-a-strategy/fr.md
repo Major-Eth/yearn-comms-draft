@@ -12,7 +12,7 @@ translator: Cryptouf
 publish: true
 ---
 
-![](image1.jpg) <br>
+![](/_posts/_announcements/what-do-i-need-to-write-a-strategy/cover.jpg)
 
 Plus de 5 millions de dollars ont été versés aux stratèges de [Yearn](https://t.me/yearnupdates) en 2021. Aujourd'hui, durant l'[@EthCC](https://twitter.com/EthCC/),  [Facu](https://t.me/fameal) a expliqué en details ce qu'il faut pour devenir un stratège efficace comme lui. Regardez la vidéo ci-dessous pour en avoir un aperçu! ??
 

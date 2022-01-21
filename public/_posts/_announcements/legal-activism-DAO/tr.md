@@ -12,7 +12,7 @@ translator: Dastronom
 publish: true
 ---
 
-![](1.jpg)
+![](/_posts/_announcements/legal-activism-DAO/1.jpg)
 
 [@LeXpunK_DAO](https://twitter.com/LeXpunK_DAO), diğer değer odaklı topluluklardan oluşturucu merkezli bir kripto yasa aktivizmi DAO'yu yükseltmeyi teklif ediyor.
 

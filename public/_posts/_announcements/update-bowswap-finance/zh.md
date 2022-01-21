@@ -18,7 +18,7 @@ published: true
 
 ## 1. 在Yearn机枪池之间
 
-![](image1.jpg)
+![](/_posts/_announcements/update-bowswap-finance/image1.jpg)
 
 它可以将资金从一个机枪池换到另一个机枪池。没有涉及到任何流动性池。它可提出资金并重新存入另一个用户要的机枪池。换币的运作涉及到的是Curve。 如果这些机枪池有涉及到共同的代币（例如同样的metapool或3CRV）这个机制会选择使用它们。虽然gas费并不便宜，它是非常有效率的 - 至少比手工操作还便宜。
 
@@ -28,7 +28,7 @@ published: true
 
 抱歉，Stani
 
-![](image2.jpg)
+![](/_posts/_announcements/update-bowswap-finance/image2.jpg)
 
 这个功能可以帮助用户将资金从Compound和AAVE迁移到Yearn。其概念和以上提到的功能一样，将资产从协议上提出，然后重新存入Yearn的机枪池。它还可以显示两个协议的APY，并能够让你一次选择多个代币。
 
