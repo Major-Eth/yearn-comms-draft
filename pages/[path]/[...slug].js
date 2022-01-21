@@ -94,7 +94,6 @@ function Post({path, post, newer, older, allPosts, isListing}) {
 export default Post;
 
 export async function getStaticProps({params, locale}) {
-	const	actualSlug = params.slug;
 	if (
 		(params.path === 'financials' && (params.slug.length === 1 && params.slug[0] === 'quarterly-report')) ||
 		(params.path === 'articles' && (params.slug.length === 1 && params.slug[0] === 'andre-cronje')) ||
@@ -119,7 +118,7 @@ export async function getStaticProps({params, locale}) {
 			props: {
 				allPosts: [...col1, ...col2, ...col3],
 				isListing: true,
-				path: `${params.path}/${actualSlug.substring(params.path.length + 1)}`
+				path: `${params.path}`
 			},
 		};
 	}
@@ -144,7 +143,7 @@ export async function getStaticProps({params, locale}) {
 	return {
 		props: {
 			post,
-			path: params.path,
+			path: `${params.path}/${params.slug[0]}`,
 			newer: newer || null,
 			older: older || null
 		},
