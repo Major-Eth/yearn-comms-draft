@@ -63,6 +63,12 @@ function Post({path, post, newer, older, allPosts}) {
 					<ReactMarkdown
 						components={{
 							img: ({...props}) => {
+								const	srcStartWithHttp = props.src.startsWith('http');
+								const	srcStartWithHttps = props.src.startsWith('https');
+								const	srcStartWithSlash = props.src.startsWith('/');
+								if (!srcStartWithHttp && !srcStartWithHttps && !srcStartWithSlash) {
+									props.src = `/_posts/_${router.asPath.substring(1)}/${props.src}`;
+								}
 								const width = props.src.match(/w=(\d+)/)?.[1] || 0;
 								const height = props.src.match(/h=(\d+)/)?.[1] || 0;
 								return (

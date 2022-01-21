@@ -21,7 +21,6 @@ function	MenuItem({label, condition, href, className, height = 'h-6'}) {
 function	MenuItems() {
 	const	router = useRouter();
 	const	{common} = useLocalization();
-	console.log(router.asPath);
 	return (
 		<div className={'w-64.5'}>
 			<MenuItem
