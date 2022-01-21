@@ -199,9 +199,10 @@ export function _getSlugs(dir, locale) {
 			for (let jindex = 0; jindex < subDirContent.length; jindex++) {
 				const subsubDir = subDirContent[jindex];
 				const fullPath = join(`${postsDirectory}/${subDir}/${subsubDir}/${locale}.md`);
+				const fullPathEN = join(`${postsDirectory}/${subDir}/${subsubDir}/en.md`);
 				if (fs.existsSync(fullPath)) {
 					slugs.push(`${subDir}/${subsubDir}/${locale}.md`);
-				} else {
+				} else if (fullPathEN) {
 					slugs.push(`${subDir}/${subsubDir}/en.md`);
 				}
 			}
