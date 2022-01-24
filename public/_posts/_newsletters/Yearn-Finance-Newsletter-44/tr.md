@@ -30,7 +30,7 @@ Yearn Finance Bülteninin 42. baskısına hoş geldiniz. Bu bültenle amacımız
 
 ## **YIP-63 Sonuçları**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image2.jpg?w=1456&h=690)
 
 YIP-63 için yapılan son oylama, LeXpunK DAO'nun finansmanı için anlaşmayla sonuçlandı. Yearn, Curve Finance, Lido Finance ve LeXpunK DAO tarafından kontrol edilen bir multisig'e bir milyon DAI aktardı.
 
@@ -50,7 +50,7 @@ Anketi [buradan](https://yearnfinance.typeform.com/to/ojp3J8gn) doldurabilirsini
 
 ## **Dört Yeni yVault ile Tanışın**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image3.jpg?w=611&h=298)
 
 Dört yeni yVault artık kullanıcı arayüzümüzde yayında. Bugün depozitinizi yatırın ve AAVE, COMP, TUSD ve SUSHI'nizden getiri kazanın  
 
@@ -60,7 +60,7 @@ Bu vault'lar için en son APY'leri görüntüleyebilir ve bu [bağlantıyı](htt
 
 ## **Yearn Defi Saver'e Entegre oldu**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image4.jpg?w=1012&h=506)
 
 YFI, Defi Saver Recipe Creator'a entegre edilmiştir. Bu entegrasyonla, desteklenen tüm varlıkları DeFi Saver kullanarak Yearn kasalarına yatırabilir ve bu eylemi diğer protokol etkileşimleriyle birleştirebilirsiniz. Bazı örnekler aşağıda detaylandırılmıştır.  
 
@@ -72,7 +72,7 @@ Yearn'in kullanan diğer tariflerine [buradan](https://app.defisaver.com/) göz 
 
 ## **Woofy'yi Unutma**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image5.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image5.jpg?w=986&h=1251)
 
 İnanılmaz verimler için YFI'yi bir milyon WOOFY için bir YFI oranında WOOFY'ye dönüştürerek, onunla lp yapabilir, Polygon veya Fantom gibi diğer zincirlere köprü kurabilir ve [ape.tax](https://ape.tax/) üzerinde para yatırabilirsiniz.
 

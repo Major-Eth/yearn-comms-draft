@@ -25,17 +25,17 @@ Yearn DAO ilk başladığında, yönetişim ağırlıklı maaşları benimsedi (
 
 [Coordinape](https://coordinape.com/) nedir, basitçe söylemek gerekirse, yearn'e (veya kendi DAO'ları) katkıda bulunmak isteyen herkes kayıt olabilir (şu anda github ayrıntılarını kullanarak), her dönem (1 yıl boyunca), çalışmakta olduğunuz ve etkileşimde bulunduğunuz ekip üyelerini seçebilirsiniz, aşağıda, katkıda bulunanları bekliyoruz;
 
-![](1.jpg)
+![](1.jpg?w=1400&h=674)
 
 Örneğin, aşağıdaki etkileşimlerim (bu geçmiş dönemde etkileşime girmiş olarak işaretlediğim üyeler);
 
-![](2.jpg)
+![](2.jpg?w=700&h=337)
 
 Artık her üyenin belirli bir tahsis puanı vardır ve katılım sağladığını düşündükleri kişiye veya birlikte çalıştıkları katkıda bulunanlara puan tahsis edebilirler
 
 Dolayısıyla mevcut dönem katkılarına bakarsak şunları görürüz;
 
-![](3.jpg)
+![](3.jpg?w=700&h=339)
 
 Her çizgi, bir üyeden diğerine bir tahsistir. Bu, en fazla etkileşime ve tahsise sahip üyelere göre ağırlıklandırılmış bir katılımcı grafiği oluşturur.
 

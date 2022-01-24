@@ -38,7 +38,7 @@ publish: true
 
 ## Το Yearn πηγαίνει multichain με το Fantom
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image2.jpg?w=1280&h=1271)
 
 Το βασίλειο του Multichain καλεί. Και το yearn έχει λάβει υπόψη την κλήση.
 
@@ -64,7 +64,7 @@ Tα πρώτα θυσαυροφυλάκια στο Fantom είναι: YVWFTM, YV
 
 ## Το Yearn φτάνει τα $ 5B TVL (και πάλι)
 
- ![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image3.jpg)
+ ![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image3.jpg?w=1456&h=1092)
 
 Η συνολική αξία που είναι κλειδωμένη σε όλα τα προϊόντα του Yearn έχει ξεπεράσει και πάλι τα 5 δισεκατομμύρια δολάρια και ένα δισεκατομμύριο δολάρια έχει προστεθεί μόνο τον τελευταίο μήνα. Το Yearn συνεχίζει να βλέπει παραβολική ανάπτυξη μεταξύ των προϊόντων του χωρίς καμία ένδειξη επιβράδυνσης. Το Iron Bank και το V2 είναι ιδιαίτερα αξιοσημείωτα συστατικά της εκθετικής μας ανάπτυξης. Μπορείτε να δείτε και να παρακολουθείτε μετρήσεις TVL μεταξύ των προϊόντων μας χρησιμοποιώντας το [Yearn.Science](https://yearn.science/).
 
@@ -72,7 +72,7 @@ Tα πρώτα θυσαυροφυλάκια στο Fantom είναι: YVWFTM, YV
 
 ## Πώς μπορείτε να συμβάλλετε στο Yearn
 
- ![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image4.jpg)
+ ![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image4.jpg?w=973&h=651)
 
 Μπορεί να ρωτάτε: "Πώς μπορώ να συνεισφέρω στο Yearn;" Πρώτον, το Yearn δεν έχει ιδρυτικά έγγραφα, δεν έχει έδρα, ούτε καν κατάλογο ονομάτων και τοποθεσιών για τους συντελεστές του. Είναι ένα ριζικό πείραμα στην αποκέντρωση και ιδού πόσο εύκολο είναι να εμπλακείς.
 
@@ -96,7 +96,7 @@ Tα πρώτα θυσαυροφυλάκια στο Fantom είναι: YVWFTM, YV
 
 ## Διαφάνεια στο Yearn
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image6.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image6.jpg?w=1260&h=820)
 
 Μέσω της διαφάνειας και της επαληθευσιμότητας στο chain, πιστεύουμε ακράδαντα ότι η κρυπτογράφηση θα αλλάξει τον κόσμο. Το Yearn ελπίζει να δώσει παράδειγμα μέσω αυτής της διαφάνειας και παρακάτω, παρουσιάζουμε μερικά παραδείγματα.
 

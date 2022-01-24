@@ -36,7 +36,7 @@ publish: true
 
 ## Yearn用户界面第3版的介绍
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image2.jpg?w=800&h=450)
 
 本周，我们为用户开放了新的Yearn v3测试版。新界面是更用户友好的，它将显示你需要的所有数据，以全面了解你的所有持仓以及历史和年度收益。它还可以模拟交易，以防止意外滑点或交易失败的问题。
 
@@ -52,7 +52,7 @@ v3是从头开始重建的，它是轻量级和可扩展的，并且已经为多
 
 ## 看看新的Labs Section
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image3.jpg?w=1200&h=820)
 
 欢迎大家在新的Yearn V3用户界面上看看新的Labs部分，这是一组将尝试在DeFi中突破界限的实验性机枪池。让我们来看一下这些新的机枪池。
 
@@ -66,7 +66,7 @@ v3是从头开始重建的，它是轻量级和可扩展的，并且已经为多
 
 ## Yearn在9月份购买了价值32万美元的YFI
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image4.jpg?w=1456&h=805)
 
 根据2021年1月通过的YIP-56: Buyback and Build Yearn（回购并建造Yearn），Yearn的金库又购买了价值32万美元的YFI。
 
@@ -76,7 +76,7 @@ v3是从头开始重建的，它是轻量级和可扩展的，并且已经为多
 
 ## 累计协议收入已达到了4300万美元
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image5.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image5.jpg?w=1456&h=827)
 
 自推出以来，Yearn已赚取了近4300万美元的收入（这不包括存款人赚取的利息）。在过去的30天内，协议就生产了近600万美元的收入。根据该数据的推断我们预计年收入将接近7000万美元。 
 

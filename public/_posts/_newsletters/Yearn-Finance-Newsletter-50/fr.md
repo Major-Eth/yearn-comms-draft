@@ -31,7 +31,7 @@ Bienvenue à la 50e édition de la Newsletter Yearn Finance. Notre objectif avec
 
 ## Nouvelle UI chez Yearn
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/image2.jpg?w=1024&h=1024)
 
 Nous avons reconstruit [yearn.finance](https://yearn.finance/) à partir de zéro avec des tonnes de commentaires de notre communauté. C'est en direct maintenant, alors faites-le faire un tour.
 
@@ -65,7 +65,7 @@ Découvrez les nouveaux documents [ici](https://docs.yearn.finance/).
 
 ## La YIP-64 n'a pas atteind le Quorum
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/image3.jpg?w=1100&h=759)
 
 YIP-64 : Ajuster les frais sur les yVaults non stables est entré dans la phase de vote et s'est terminé par un vote majoritaire contre l'ajustement des frais.
 
@@ -73,7 +73,7 @@ Consultez la proposition [ici](https://snapshot.org/#/ybaby.eth/proposal/0xfe729
 
 ## Yearn délègue 23 millions de veCRV à Convexe
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/image4.jpg?w=873&h=615)
 
 Yearn a délégué 23 millions de veCRV à Convex Finance à l'aide de la nouvelle fonctionnalité native de délégation de boost de Curve. Cela augmentera les rendements des pools d'usine pour nos deux DAO. Cela n'affecte pas les pools réguliers, les frais ou le vote.
 

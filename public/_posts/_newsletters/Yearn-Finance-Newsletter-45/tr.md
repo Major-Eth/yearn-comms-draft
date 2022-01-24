@@ -29,7 +29,7 @@ Yearn Finance Bülteninin 45. baskısına hoş geldiniz. Bu bültenle amacımız
 
 ## **Özel Bir NFT İçin hak kazanan ALPHA ve YFI Likidite Sağlayıcıları**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image2.jpg?w=1456&h=1729)
 
 Alpha Homora V2 havuzlarındaki Uniswap ETH/YFI ve Sushiswap ETH/YFI havuzları için likidite sağlayanlar, Yearn, Alpha ve Project Galaxy'nin özel bir NFT'sini kazanacaklardır.
 
@@ -47,7 +47,7 @@ V2 aylardır yayında olduğundan, v1 vauşt'ları kullanımdan kaldırıldı ve
 
 ## **Yearn Vault'larına Nasıl Geçiş Yapılır**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image3.jpg?w=679&h=388)
 
 Yearn Vaults'un bir vault'dan diğerine para takası yapmanın en iyi yollarından biri, genellikle [curve.fi](https://curve.fi/) kullanmak veya Yearn'in kullanıcı arayüzünde yerleşik zapları kullanmaktır. Bu gaz etkilidir, ancak slipaj veya ek ücretler için ekstra maliyete neden olabilir.
 
@@ -57,7 +57,7 @@ Bu kısa kılavuzu hazırladığı için [cryptouf](https://twitter.com/cryptouf
 
 ## **Kümülatif Protokol Geliri 39 Milyon Dolara Ulaştı**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image4.jpg?w=1456&h=833)
 
 Yearn, lansmanından bu yana 39 milyon doların üzerinde gelir elde etti (mudiler tarafından kazanılan faiz hariç). Son 30 günde, protokol tarafından 5 milyon doların üzerinde gelir elde edildi. Bu verilerin ekstrapolasyonu, yıllık gelirin yaklaşık 30 milyon dolar olmasını öngörüyor.
 

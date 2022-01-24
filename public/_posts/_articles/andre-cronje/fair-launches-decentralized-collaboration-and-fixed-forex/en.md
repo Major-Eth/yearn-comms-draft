@@ -38,7 +38,7 @@ While I am most excited about the latter, its go-live date is only possible afte
 
 Fixed Forex leveraged Iron Bank, Yearn, Sushi, and Curve
 
-![](image1.jpg)
+![](image1.jpg?w=500&h=500)
 
 **Disclaimers;**
 
@@ -51,11 +51,11 @@ Fixed Forex is the collective name for USD, EUR, ZAR, JPY, CNY, AUD, AED, CAD, I
 
 The first available option is [ibEUR](https://www.coingecko.com/en/coins/iron-bank-euro) which can be minted via [yearn.fi/lend](https://yearn.fi/lend)
 
-![](image2.png)
+![](image2.png?w=700&h=194)
 
 All forex options can be minted via any of the accepted collateral on [yearn.fi](https://yearn.fi/lend)
 
-![](image3.png)
+![](image3.png?w=645&h=874)
 
 For up to date collateral factors, you can visit the Iron Bank documentation, [here](https://docs.cream.finance/iron-bank/collateral-and-reserve-factor)
 
@@ -64,7 +64,7 @@ Each forex pair will target 2 liquidity pools;
 ib\*/\* ([curve.fi](https://curve.fi/))  
 ib\*/ETH ([sushi.com](https://sushi.com/))
 
-![](image4.png)
+![](image4.png?w=700&h=243)
 
 For each asset, liquidity providers will have four available yield options;
 

@@ -47,7 +47,7 @@ Ou sur le tweet de storming0x [ici](https://twitter.com/storming0x/status/143685
 
 ## **Introduction du yVault yveCRV**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image2.jpg?w=1456&h=753)
 
 Le $CRV est le jeton de gouvernance de curve.fi, qui peut être verrouillé jusqu'à 4 ans et vous donne la possibilité de voter et de réclamer une part des frais de protocole. En utilisant Yearn pour verrouiller votre $CRV contre du $veCRV (vote-escrowed CRV), vous pouvez gagner plus de récompenses en faisant périodiquement don de certains de nos $CRV  farmés au coffre yveCRV. Ainsi, en plus des récompenses $CRV normales, vous pourrez réclamer la part de Yearn des frais de protocole de Curve.
 
@@ -65,7 +65,7 @@ Découvrez les coffres-forts ici sur[yearn.finance/vaults](https://yearn.finance
 
 ## **Rapport Financier Trimestriel **
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image3.jpg?w=1276&h=429)
 
 Plusieurs membres de la communauté Yearn ont créé un rapport financier trimestriel informel couvrant la période d'avril 2021 à juin 2021. Ce rapport a été généré à l'aide d'informations accessibles au public . Ce rapport n'a pas été audité par un cabinet comptable professionnel tiers et ne représente pas un conseil financier, d'investissement ou de quelque nature que ce soit. Il existe uniquement à titre d'information.
 
@@ -75,7 +75,7 @@ Vous pouvez consulter ce rapport [ici](https://github.com/yearn/yearn-pm/blob/ma
 
 ## **Les revenus cumulés du protocole atteignent 41 millions de dollars **
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image4.jpg?w=1456&h=828)
 
 Yearn a généré plus de 41 millions de dollars de revenus depuis son lancement (hors intérêts perçus par les déposants). Au cours des 30 derniers jours, plus de 6 millions de dollars de revenus ont été générés par le protocole. Une extrapolation de ces données prévoit un chiffre d'affaires annuel de près de 60 millions de dollars.
 

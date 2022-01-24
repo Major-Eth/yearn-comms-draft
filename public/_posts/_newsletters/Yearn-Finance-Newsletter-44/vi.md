@@ -30,7 +30,7 @@ Chào mừng các bạn đến với Bản tin Yearn.Finance Số #44! Chúng t�
 
 ## **Kết quả YIP-63**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image2.jpg?w=1456&h=690)
 
 Kết quả biểu quyết YIP-63 đã thông qua và nhất trí tài trợ ủng hộ LeXpunK ĐAO. Yearn đã chuyển khoản một triệu ĐAI vào ví đa-ký (multisig) đồng kiểm soát bởi Curve Finance, Lido Finance và LeXpunK ĐAO.
 
@@ -50,7 +50,7 @@ Tham gia cuộc khảo sát [tại đây](https://yearnfinance.typeform.com/to/o
 
 ## **Giới thiệu Bốn Kho bạc (yVault) Mới**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image3.jpg?w=611&h=298)
 
 Bốn Kho bạc (yVault) mới đã chính thức phát hành trên giao diện người dùng (UI) của chúng tôi. Ký gửi ngay hôm nay để lấy lãi suất cho AAVE, COMP, TUSD và SUSHI. 
   
@@ -60,7 +60,7 @@ Bạn có thể xem APY (Phần Trăm Lãi Suất Hàng Năm) mới nhất và k
 
 ## **Yearn Tích hợp vào Defi Saver**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image4.jpg?w=1012&h=506)
 
 YFI đã được tích hợp vào Trình tạo Công thức Defi Saver (Defi Saver Recipe Creator). Từ giờ, bạn có thể ký gửi bất cứ tài sản phù hợp nào vào Kho bạc (Vault) của Yearn bằng cách dùng DeFi Saver, hay kèm tác vụ này theo mọi tương tác với giao thức khác. Vài ví dụ như sau.
   
@@ -72,7 +72,7 @@ Xem những công thức khác có dùng đến Yearn [ở đây](https://app.de
 
 ## **Đừng Quên Woofy**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image5.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image5.jpg?w=986&h=1251)
 
 Sau khi quy đổi YFI sang WOOFY với tỷ lệ 1&nbsp;YFI&nbsp;=&nbsp;1&nbsp;triệu&nbsp;WOOFY, bạn có thể dùng nó để cấp thanh khoản, "cầu nối" sang các chuỗi khối khác như Polygon hay Fantom, cũng như ký gửi vào [ape.tax](https://ape.tax/) (sản phẩm thử nghiệm thú vị của Yearn) để hưởng lãi suất cao khó tin.
   

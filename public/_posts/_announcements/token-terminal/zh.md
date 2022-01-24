@@ -12,7 +12,7 @@ translator: mesa1ee
 published: true
 ---
 
-![](/_posts/_announcements/token-terminal/1.jpg)
+![](/_posts/_announcements/token-terminal/1.jpg?w=812&h=247)
 
 Yearn在Token Terminal上的基本指标面板 
 

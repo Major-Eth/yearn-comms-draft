@@ -33,7 +33,7 @@ Bienvenidos a la edición número 48 de la newsletter de Yearn Finance. Con esta
 
 ## Yearn se convierte en multi blockchain con la ayuda de Fantom
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image2.jpg?w=1280&h=1271)
 
 El reino de multi blockchain ha hecho el llamado. Y Yearn ha acudido.
 
@@ -57,7 +57,7 @@ El reino se expande y nosotros con él. Queremos conocer personas donde estén, 
 
 ## Yearn alcanza 5 Billones de dólares en TVL (De nuevo)
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image3.jpg?w=1456&h=1092)
 
 El valor total bloqueado (TVL) a través de todo Yearn ha superado los 5 billones de dólares una vez más y 1 ilion ha sido obtenido en el mes pasado. Yearn continúa viendo crecimiento parabólico en sus productos sin mostrar signos de disminuir el paso. El Iron Bank y la versión V2 son componentes fundamentales de nuestro crecimiento exponencial. Puedes ver y monitorizar las métricas del TVL en todos nuestros productos utilizando [yearn.science](https://yearn.science/).
 
@@ -65,7 +65,7 @@ Muchas gracias a todos los participantes del ecosistema de Yearn, nuestros colab
 
 ## ¿Cómo puedes colaborar con Yearn?
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image4.jpg?w=973&h=651)
 
 Te preguntarás, ¿cómo puedo colaborar con Yearn? Para empezar, Yearn no posee papeles de incorporación, no hay headquaters y ni siquiera una lista de nombres de locaciones para sus contribuidores. En un experimento radical en la descentralización y así es como puedes involucrarte.
 
@@ -89,7 +89,7 @@ Más detalles [Aquí](https://twitter.com/iearnfinance/status/144579926918988186
 
 ## Convocatoria de ideas: Nuevas Tokenomics de YFI
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image5.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image5.jpg?w=1456&h=997)
 
 Con un renovado interés en las tockenomincs de YFI en los pasados días y la versión V3 del protocolo aún en fase en la que aún permite ser moldeada, es buen momento para poder combinarlos. Todo está sobre la mesa, sea una dilución del token, minería de liquidez, mantener las recompensas indefinidamente o bloqueos de capital similares a los de veCRV. Si empezaras YFI ahora mismo, ¿cómo lo estructurarías? Queremos escuchar las recomendaciones de nuestra comunidad y nos encantaría implementarlas en el futuro.
 
@@ -97,7 +97,7 @@ Echa un vistazo a este post del foro [Aquí](https://gov.yearn.finance/t/call-fo
 
 ## Transparencia en Yearn
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image6.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image6.jpg?w=1260&h=820)
 
 A través de la transparencia y verificación on-chain, creemos firmemente que el mundo cripto cambiará el mundo. Yearn aspira a ejemplificar su transparencia, y debajo podrás ver algunos ejemplos.
 

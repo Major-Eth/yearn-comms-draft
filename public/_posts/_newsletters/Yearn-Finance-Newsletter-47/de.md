@@ -36,7 +36,7 @@ publish: true
 
 ## Einführung von V3 der Yearn Benutzeroberfläche
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image2.jpg?w=800&h=450)
 
 Diese Woche haben wir die neue Version 3 der Yearn Benutzeroberfläche für beta-Benutzer freigeschaltet. Dieses neue, übersichtliche Benutzerinterface stellt alle Informationen dar, die Sie für einen Gesamtüberblick über Ihre Finanzen brauchen, inklusive vergangener, sowie jährlicher Gewinne. Außerdem werden nun "simulierte Transaktionen" unterstützt, durch die Sie nie wieder unerwartete slippage-Mehrkosten oder gescheiterte Transaktionen erdulden müssen.
 
@@ -52,7 +52,7 @@ Testen Sie es aus [beta.yearn.finance](https://beta.yearn.finance/).
 
 ## Neue "Labs" Rubrik
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image3.jpg?w=1200&h=820)
 
 Wir präsentieren: Die Labs Rubrik der neuen Yearn v3 Benutzeroberfläche, eine Ansammlung experimenteller Vaults, die die Grenzen der Zinsgenerierung auf dem Gebiet der dezentralen Finanzen (DeFi) neu definiert. Lassen Sie uns einen Blick in die neuen Vaults werfen.
 
@@ -67,7 +67,7 @@ Schauen Sie also gerne in unser Labs Rubrik vorbei [beta.yearn.finance/#labs](ht
 
 ## Yearn hat im September YFI in Höhe von 320Tsd $ gekauft
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image4.jpg?w=1456&h=805)
 
 In Übereinstimmung mit YIP-56: Buyback and Build Yearn, nach der Abstimmung im Januar 2021, hat die Yearn Treasury zusätzliche 320Tsd $ an YFI gekauft.
 
@@ -77,7 +77,7 @@ Informationen über die Rückkäufe können [hier](https://www.yfistats.com/fina
 
 ## Kummulative Protokolleinnahmen erreichen 43M $
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image5.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image5.jpg?w=1456&h=827)
 Yearn hat seit Protokollstart Einnahmen in Höhe von 43M $ verzeichnet (exklusive Zinsen generiert durch Anleger). In den letzten 30 Tagen wurden knapp 6M $ Einnahmen durch das Protokoll generiert. Unter Verwendung dieser Daten ergibt sich eine prognostizierter Schätzwert jährlichen Einkommens in Höhe von knapp 70M $. 
 
 Yearns kummulative Einnahmen und andere Statistiken sind [hier](https://www.yfistats.com/) einsehbar.

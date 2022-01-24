@@ -21,17 +21,17 @@ Para resolver os problemas de dimensionamento e despesas gerais, a equipe do Yea
 
 O que é [Coordinape](https://coordinape.com/)? De forma simples, colocar qualquer pessoa que deseje contribuir para o yearn (ou seu próprio DAO) pode se registrar (atualmente usando detalhes do github). A cada época (para o Yearn, 1 mês), você pode seleciona os membros da equipe com quem você tem trabalhado e interagido, abaixo, contribuidores do Yearn;
 
-![](1.jpg)
+![](1.jpg?w=1400&h=674)
 
 Por exemplo, minhas interações abaixo (membros que marquei como tendo interagido com esta época passada);
 
-![](2.jpg)
+![](2.jpg?w=700&h=337)
 
 Agora, cada membro tem uma quantidade definida de pontos de alocação e pode alocar pontos aos contribuidores com os quais trabalharam com base no que pensam de suas contribuições.
 
 Portanto, se olharmos para as contribuições da época atual, veremos o seguinte;
 
-![](3.jpg)
+![](3.jpg?w=700&h=339)
 
 Cada linha é uma alocação de um membro para outro. Isso cria um gráfico de contribuição que é ponderado em relação aos membros que têm mais interações e alocações.
 

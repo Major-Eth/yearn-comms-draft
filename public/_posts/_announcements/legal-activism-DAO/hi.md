@@ -12,7 +12,7 @@ translator: Jengajojo
 publish: true
 ---
 
-![](/_posts/_announcements/legal-activism-DAO/1.jpg)
+![](/_posts/_announcements/legal-activism-DAO/1.jpg?w=800&h=450)
 
 [@LeXpunK_DAO](https://twitter.com/LeXpunK_DAO) अन्य मूल्य-संरेखित समुदायों से एक बिल्डर-केंद्रित क्रिप्टोलॉ सक्रियता डडाओ को बढ़ाने का प्रस्ताव कर रहा है।
 

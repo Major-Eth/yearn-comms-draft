@@ -28,7 +28,7 @@ publish: true
 
 ## **Πάροχοι ρευστότητας στο ALPHA και το YFI επιλέχτηκαν για ένα ξεχωριστό NFT**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image2.jpg?w=1456&h=1729)
 
 Οι πάροχοι ρευστότητας στα pools του Uniswap ETH/YFI και του Sushiswap ETH/YFI καθώς και στα pools Alpha Homora V2 θα είναι επιλέξιμοι για μια ειδική παραλαβή NFT από το Yearn, το Alpha και το Project Galaxy.
 
@@ -46,7 +46,7 @@ publish: true
 
 ## **Πώς να κάνετε ανταλλάγες μέσα στα θησαυροφυλάκια του Yearn**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image3.jpg?w=679&h=388)
 
 Ένας από τους καλύτερους τρόπους για να κάνετε ανταλλαγές κεφαλαίων στα Yearn Vaults, από το ένα vault στο άλλο, είναι συνήθως η χρήση του [curve.fi](https://curve.fi/) ή μεσω των zaps που είναι ενσωματωμένα στο γραφικό περιβάλλον χρήστη (UI) του Yearn. Αυτό είναι αποδοτικό ως προς το gas που ξοδεύετε, αλλά μπορεί να κοστίσει επιπλέον σε ολίσθηση (slippage) ή πρόσθετες χρεώσεις.
 
@@ -56,7 +56,7 @@ publish: true
 
 ## **Τα έσοδα του πρωτοκόλλου έφτασαν τα 39 εκατομμύρια $**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image4.jpg?w=1456&h=833)
 
 Το Yearn έχει κερδίσει έσοδα άνω των 39 εκατομμυρίων δολαρίων από την κυκλοφορία του (χωρίς τους τόκους που κερδίζουν οι καταθέτες). Τις τελευταίες 30 ημέρες, πάνω από 5 εκατομμύρια δολάρια σε έσοδα έχουν δημιουργηθεί από το πρωτόκολλο. Μια προεκβολή αυτών των δεδομένων προβλέπει ότι τα ετήσια έσοδα ανέρχονται σε σχεδόν 30 εκατομμύρια δολάρια.
 

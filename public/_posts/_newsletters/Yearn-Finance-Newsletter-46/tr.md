@@ -41,7 +41,7 @@ Storming0x'in tweet'inde [burada](https://twitter.com/storming0x/status/14368512
 
 ## **yvBOOST Vault'ta Okuma Kitabı**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image2.jpg?w=1456&h=753)
 
 CRV, 4 yıla kadar kilitlenebilen ve size protokol ücretlerini oylama ve talep etme olanağı veren curve.fi'nin yönetim simgesidir. CRV'nizi veCRV (oy emanetli CRV) için kilitlemek için Yearn'i kullanarak, çiftlik CRV'lerimizden bazılarını yveCRV kasasına periyodik olarak bağışlayarak Yearn aracılığıyla daha fazla ödül kazanabilirsiniz. Böylece, normal CRV ödüllerine ek olarak, Curve'ün protokol ücretlerinin Yearn'e ait kısmını talep edebileceksiniz.
 
@@ -59,7 +59,7 @@ Her zaman olduğu gibi, DeFi için her zaman en üst düzey getiri altyapısı o
 
 ## **Yearn Üç Aylık Mali Rapor**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image3.jpg?w=1276&h=429)
 
 Birkaç Yearn topluluğu üyesi, Nisan 2021'den Haziran 2021'e kadar olan dönemi kapsayan gayri resmi bir üç aylık mali rapor oluşturdu. Bu rapor, kamuya açık bilgiler kullanılarak oluşturulmuştur ve bir gelir tablosu ve bilanço içerir. Bu rapor bir üçüncü şahıs profesyonel muhasebe firması tarafından denetlenmemiştir ve herhangi bir finansal, yatırım veya tavsiyeyi temsil etmez. Bu sadece bilgi amaçlıdır.
 
@@ -67,7 +67,7 @@ Bu raporu [buradan](https://github.com/yearn/yearn-pm/blob/master/financials/rep
 
 ## **Kümülatif Protokol Geliri 41 Milyon Dolara Ulaştı**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image4.jpg?w=1456&h=828)
 
 Yearn, lansmanından bu yana 41 milyon doların üzerinde gelir elde etti (mudiler tarafından kazanılan faiz hariç). Son 30 günde, protokol tarafından 6 milyon doların üzerinde gelir elde edildi. Bu verilerin ekstrapolasyonu, yıllık gelirin yaklaşık 60 milyon dolar olmasını öngörüyor.
 

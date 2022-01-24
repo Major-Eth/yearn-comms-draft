@@ -11,7 +11,7 @@ publish: true
 
 # Easily earn with Yearn v2 in Argent
 
-![](Image1.jpg)
+![](Image1.jpg?w=2064&h=1080)
 
 Yearn V2 Vaults are now just a tap away in Argent! Earn up to 16.47% Net APY\* with automated yield generation. This builds on our existing support for Yearn's [V1 Vaults](https://www.argent.xyz/blog/yearn-vaults-in-argent/).
 
@@ -28,7 +28,7 @@ We've launched with 7 Vaults (USDC, DAI, SNX, 1INCH, YFI, WBTC, USDT, UNI, ETH).
 
 Yearn has grown at a [monumental pace](https://defipulse.com/yearn.finance) since its launch in early 2020. Yearn makes it easy for anyone to "yield farm" (trying to maximize the return on your assets by utilizing multiple DeFi protocols). Yearn compare their approach to passive investing.
 
-![](Image2.jpg)DeFi Pulse Graph showing the total value locked (TVL) in Yearn.Finance
+![](Image2.jpg?w=944&h=549)DeFi Pulse Graph showing the total value locked (TVL) in Yearn.Finance
 
 There's also a big benefit when it comes to Ethereum network fees ('gas'). Gas is "socialized" across everyone using that Vault making it much more economical for the average user.
 
@@ -58,7 +58,7 @@ Yearn takes:
 
 You also need to pay for gas.
 
-![](Image3.jpg)
+![](Image3.jpg?w=2500&h=1300)
 Using yearn in the Argent app
 
 ## **Tracking your Vault's performance**

@@ -28,7 +28,7 @@ Willkommen zur 45. Ausgabe des Yearn Finance Newsletters. Mit diesem Newsletter 
 
 ## **ALPHA- und YFI-Liquiditätsanbieter kommen für ein spezielles NFT in Frage**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image2.jpg?w=1456&h=1729)
 
 Liquiditätsanbieter für die Uniswap-ETH/YFI- und Sushiswap-ETH/YFI-Pools in den Alpha-Homora-V2-Pools kommen in den Genuss eines speziellen NFT-Drops mit freundlicher Genehmigung von Yearn, Alpha und Project Galaxy.
 
@@ -46,7 +46,7 @@ Sieh dir die Vaults hier an: [yearn.finance/vaults](https://yearn.finance/vaults
 
 ## **Wie man in Yearn Vaults eintauscht**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image3.jpg?w=679&h=388)
 
 Eine der besten Möglichkeiten, um Yearn Vaults Swaps Fonds von einem Vaults zu einem anderen zu bringen ist in der Regel mit [curve.fi](https://curve.fi/) oder mit Zaps in Yearn's UI. Dies ist gas-effizient, aber kann zusätzliche Kosten in Slippage oder zusätzliche Gebühren bedeuten.
 
@@ -56,7 +56,7 @@ Vielen Dank an [cryptouf](https://twitter.com/cryptouf) für die Zusammenstellun
 
 ## **Kumulative Protokoll-Einnahmen erreichen $39M**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image4.jpg?w=1456&h=833)
 
 Yearn hat seit dem Start über 39 Millionen Dollar an Einnahmen erzielt (ohne die von den Einlegern erzielten Zinsen). In den letzten 30 Tagen wurden über 5 Millionen Dollar an Einnahmen durch das Protokoll generiert. Eine Extrapolation dieser Daten lässt auf einen Jahresumsatz von fast 30 Millionen Dollar schließen.
 

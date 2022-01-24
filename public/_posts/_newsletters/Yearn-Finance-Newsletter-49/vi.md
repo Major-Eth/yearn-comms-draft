@@ -47,7 +47,7 @@ Chào mừng các bạn đến với Bản tin Yearn.Finance Số #49! Chúng t�
 
 ## Cập nhật Mô hình Kinh tế Yearn
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image2.jpg?w=690&h=472)
 
 Gần đây, một số thành viên và lập trình viên của cộng đồng Yearn đã họp lại để lập nên những kế hoạch khả thi nhằm nâng cấp mô hình kinh tế tôken YFI. Các ý tưởng đáng kể bao gồm chia nhỏ tôken, ứng dụng mô hình veCRV, chia sẻ phí (doanh thu), giảm phí sử dụng, bảo hiểm kho bạc, v.v... Xin cảm ơn tất cả mọi người đã tham gia và đóng góp những ý kiến quý giá.
 
@@ -57,7 +57,7 @@ Tổng quan về Buổi họp Mô hình Kinh tế Tôken YFI gần nhất đư�
 
 ## Giải thưởng Thiên niên kỷ Yearn
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image3.jpg?w=686&h=457)
 
 Viết một chiến lược an toàn, thu về ổn định 40% APY (Phần trăm Hoa lợi Một năm) trên 300&nbsp;triệu&nbsp;$ hoặc 12% APY trên 1&nbsp;tỷ&nbsp;$ trong 30&nbsp;ngày, bạn sẽ kiếm được 1&nbsp;triệu&nbsp;$ phí (doanh thu) chiến lược gia hàng tháng.
 
@@ -69,7 +69,7 @@ Tìm hiểu thêm về quy trình tạo và triển khai chiến lược của Y
 
 ## Tổng Giá trị Ký gửi (TVL) của Yearn đạt 6&nbsp;Tỷ&nbsp;$
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image4.jpg?w=1456&h=1092)
 
 Tổng giá trị ký gửi (TVL) khắp mọi sản phẩm của Yearn đã đạt mốc 6&nbsp;tỷ&nbsp;$, với gần 1&nbsp;tỷ&nbsp;$ mới thêm chỉ trong tháng qua. Yearn tiếp tục chứng kiến ​​sự tăng trưởng hình parabôn mà không có dấu hiệu chậm lại. Iron&nbsp;Bank và kho bạc (`vault`) v2 là các điểm nhấn đặc biệt đáng chú ý làm nên thành công theo cấp số nhân của chúng tôi. Bạn có thể xem và theo dõi các chỉ số TVL bằng trang [yearn.science](https://yearn.science/). 
 
@@ -79,7 +79,7 @@ Xin chân thành cảm ơn tất cả mọi thành viên trong cộng đồng Ye
 
 ## Dự án Đầu tiên của `YFI Combinator`: Tesseract
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image5.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image5.jpg?w=876&h=1280)
 
 Tesseract là cái tên đầu tiên "đâm&nbsp;trồi" từ `YFI Combinator`, "vườn&nbsp;ươm" những dự án khởi nghiệp giai-đoạn-đầu mới nhất của chúng tôi. Tesseract sẽ vận dụng kiến thức chuyên sâu tích lũy ở Yearn để mang lại hoa lợi tốt nhất cho nhiều đối tượng khách hàng hơn.
 
@@ -105,7 +105,7 @@ Gần đây, Messari đã đăng tải một báo cáo toàn diện về Yearn, 
 
 ## Tình hình Ngân khố Yearn
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image6.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image6.jpg?w=1456&h=538)
 
 Tính đến 29/10/2021, Ngân khố Yearn nắm giữ số dư 27.2&nbsp;triệu&nbsp;$ dưới dạng tôken khác (không phải chính mình phát hành, hay đồng YFI), trong đó 13.7&nbsp;triệu&nbsp;$ là tiền bình giá (`stablecoin`). 
 
@@ -115,7 +115,7 @@ Kiểm tra ngay hàng loạt chỉ số thống kê về Yearn [tại đây](htt
 
 ## Ê-kíp Yearn Cứu `Robo Vault` Khỏi Tổn thất 50&nbsp;Triệu&nbsp;$
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image7.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image7.jpg?w=1432&h=894)
 
 Với sự trợ giúp từ ê-kíp Yearn, Robo&nbsp;Vault đã xác định và khắc phục một vấn đề nghiêm trọng, có thể ảnh hưởng tiêu cực đến hơn 50&nbsp;triệu&nbsp;$ tiền ký gửi của người dùng. Yearn cũng đã cứu được và trả lại hơn 9&nbsp;triệu&nbsp;$ từ vụ trục lợi ở CREAM.
 
@@ -123,7 +123,7 @@ Với sự trợ giúp từ ê-kíp Yearn, Robo&nbsp;Vault đã xác định và
 
 ## Tính năng `Zap` vào Fixed&nbsp;Forex
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image8.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image8.jpg?w=686&h=654)
 
 Chúng tôi đã hợp tác với Zapper để giúp người dùng Yearn có thể `zap` thẳng vào các kho bạc Keep3r Fixed&nbsp;Forex bằng gần như bất cứ tôken nào trong ví mình. 
 

@@ -30,7 +30,7 @@ publish: true
 
 ## **YIP-63 Αποτελέσματα**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image2.jpg?w=1456&h=690)
 
 Η πρόσφατη ψηφοφορία για το YIP-63 ολοκληρώθηκε με την υπερψήφηση της πρότασης για τη χρηματοδότηση του LeXpunK DAO. Το Yearn έχει μεταφέρει ένα εκατομμύριο DAI σε ένα multisig πορτοφόλι που ελέγχεται από τους Curve Finance, Lido Finance και το LeXpunK DAO.
 
@@ -50,7 +50,7 @@ publish: true
 
 ## **Παρουσιάζουμε τέσσερα νέα yVault**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image3.jpg?w=611&h=298)
 
 Τέσσερα νέα yVault είναι πλέον ζωντανά στη περιβάλλον του χρήστη (UI) μας. Καταθέστε σήμερα τα κεφάλαιά σας και κερδίστε απόδοση στα AAVE, COMP, TUSD και SUSHI σας.
 
@@ -60,7 +60,7 @@ publish: true
 
 ## **Το Yearn ενσωματώθηκε στο Defi Saver**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image4.jpg?w=1012&h=506)
 
 Το YFI ενσωματωθηκε στο Defi Saver Recipe Creator. Με αυτήν την ενσωμάτωση, μπορείτε να καταθέσετε οποιαδήποτε υποστηριζόμενα περιουσιακά στοιχεία σε θησαυροφυλάκια του Yearn χρησιμοποιώντας το DeFi Saver, καθώς και να συνδυάσετε αυτήν την ενέργεια με οποιεσδήποτε άλλες αλληλεπιδράσεις με το πρωτοκόλλο. Ορισμένα παραδείγματα περιγράφονται λεπτομερώς παρακάτω.
 
@@ -72,7 +72,7 @@ publish: true
 
 ## **Μην ξεχνάτε τον Woofy**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image5.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image5.jpg?w=986&h=1251)
 
 Μετατρέποντας το YFI σε WOOFY με τιμή ένα YFI για ένα εκατομμύριο WOOFY, μπορείτε να κάνετε lp με αυτό, να κάνετε bridge σε άλλες αλυσίδες όπως το Polygon ή το Fantom και να καταθέσετε στο [ape.tax](https://ape.tax/) για απίστευτες αποδόσεις.
 

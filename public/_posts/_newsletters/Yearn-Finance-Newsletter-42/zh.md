@@ -32,7 +32,7 @@ publish: true
 
 ## **蓝色药丸NFT**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image2.jpg?w=1456&h=819)
 
 为了庆祝Yearn的第一周年，我们再次与Project Galaxy合作，为你推出了The Blue Pill（蓝色药丸）。这是一份关于Yearn的过去，现在和未来的精神指南。这是由 Zemm 制作的一本精美排版的书，特别提供给我们13,500 名最忠实的支持者。这一系列7个独特的 NFT将被送给Yearn社区中的各个挖矿农民，质押者，投票者和贡献者。和我们一起庆祝YFI给我们带来的礼物吧！
 
@@ -42,7 +42,7 @@ publish: true
 
 ## **Woofy第11周的Snapshot**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image3.jpg?w=1333&h=1600)
 
 新的WOOFY持有者将可通过Yearn和Project Galaxy之间的合作获得NFT礼物。如上所示，这些是来自一系列六个独特的WOOFY NFT。这些Snapshot涵盖了跨链的代币持有者，LP，质押者和机枪池用户。
 
@@ -50,7 +50,7 @@ publish: true
 
 ## **迁移或死亡**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image4.jpg?w=1456&h=728)
 
 近一年来，v1机枪池一直是每个人的可靠收益来源，但现在是该说再见的时候了。所有旧的机枪池都已被做了最后一次的收割，而部署的策略也被停止了。提醒各位一下，我们的v2机器枪池有一些更改，例如应用多种策略来部署资本以提高效率和更优化的风险调整收益。
 
@@ -68,7 +68,7 @@ publish: true
 
 ## **看一下Pickle Jars**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image5.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image5.jpg?w=1081&h=565)
 
 在Pickle Finance，你可以为你最喜欢的yVault代币找到7%到40%可观的收益率。你可以应用Yearn FRAX，Yearn LUSD，yUSDC等赚取收益！
 
@@ -80,7 +80,7 @@ Pickle是我们出色的合作伙伴之一，他们参与了我们的收益分�
 
 ## **如何才能成为策略家**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image6.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image6.jpg?w=1366&h=496)
 
 在2021年，Yearn的策略家已赚取了超过500万美元的报酬。在EthCC，Facu Ameal分析了成为像他这样厉害的策略家所需的条件。如你所知，策略是Yearn的支柱，它们能让你的代币获得最佳的风险调整收益。
 
@@ -90,7 +90,7 @@ Pickle是我们出色的合作伙伴之一，他们参与了我们的收益分�
 
 ## **Yearn V2审计已发布**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image7.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image7.jpg?w=900&h=450)
 
 Yearn与Trail of Bits联系，为v2 Vault、BaseStrategy和BaseWrapper的合约做了审计，并在5月份发布的0.4.x系列合约中融合了审计结果。
 

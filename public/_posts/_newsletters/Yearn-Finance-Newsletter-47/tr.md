@@ -37,7 +37,7 @@ Yearn Finance Bülteninin 47. baskısına hoş geldiniz. Bu bültenle amacımız
 
 ## Yearn'in Kullanıcı Arayüzü V3 Tanıtımı
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image2.jpg?w=800&h=450)
 
 Bu hafta yeni Yearn v3'ü beta olarak kullanıcılara açtık. Güncel, kullanıcı dostu arayüz, varlıklarınızın ve geçmiş artı yıllık kazançlarınızın kuş bakışı görünümü için ihtiyaç duyduğunuz tüm verileri ortaya çıkarır. Ayrıca, beklenmeyen slipaj veya başarısız işlemlerle karşılaşmamanız için işlemleri simüle eder.
 
@@ -53,7 +53,7 @@ V3 kullanıcı arayüzünün ayrıntılı özetini [buradan](https://medium.com/
 
 ## Yeni Laboratuvarlar Bölümüne Göz Atın
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image3.jpg?w=1200&h=820)
 
 DeFi'de verim sınırlarını zorlayan bir dizi deneysel vault olan yeni Yearn V3 UI'deki Lab'lar bölümü ile tanışın. Bu yeni vaul'lara bir göz atalım.
 
@@ -67,7 +67,7 @@ Bu nedenle, [beta.yearn.finance/#labs](https://beta.yearn.finance/#/labs) adresi
 
 ## Yearn Eylül'de 320 bin dolarlık YFI satın aldı
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image4.jpg?w=1456&h=805)
 
 Ocak 2021'de kabul edilen YIP-56: Geri Alım ve İnşa Yılı uyarınca, Yearn Hazinesi 320 bin dolar değerinde ek bir YFI satın aldı.
 
@@ -77,7 +77,7 @@ Geri alımlarla ilgili veriler [burada](https://www.yfistats.com/financials/YFIB
 
 ## - Kümülatif Protokol Geliri 43 Milyon Dolara Ulaştı
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image5.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image5.jpg?w=1456&h=827)
 
 Yearn, lansmanından bu yana 43 milyon doların üzerinde gelir elde etti (mudiler tarafından kazanılan faiz hariç). Son 30 günde, protokol tarafından 6 milyon doların üzerinde gelir elde edildi. Bu verilerin ekstrapolasyonu, yıllık gelirin yaklaşık 70 milyon dolar olmasını öngörüyor.
 

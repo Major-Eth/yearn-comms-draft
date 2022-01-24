@@ -25,17 +25,17 @@ Um die Skalierungs- und Overhead-Probleme zu lösen, hat das Yearn-Team [Coordin
 
 Was ist [Coordinape](https://coordinape.com/)? Einfach ausgedrückt, jeder, der zu Yearn (oder seiner eigenen DAO) beitragen möchte, kann sich registrieren (derzeit mit Github Details), jede Epoche (für Yearn 1 Monat). Du kannst die Teammitglieder auswählen, mit denen du gearbeitet und interagiert hast, (unten Yearn-Beitragende);
 
-![](1.jpg)
+![](1.jpg?w=1400&h=674)
 
 Zum Beispiel meine Interaktionen unten (Mitglieder, die ich markiert habe, dass ich mit ihnen in der vergangenen Epoche interagiert habe);
 
-![](2.jpg)
+![](2.jpg?w=700&h=337)
 
 Jetzt hat jedes Mitglied eine bestimmte Anzahl von Zuweisungspunkten und kann den Mitwirkenden, mit denen es zusammengearbeitet hat, Punkte zuweisen, je nachdem, was es von deren Beiträgen hält.
 
 Wenn wir uns also die Beiträge der aktuellen Epoche ansehen, sehen wir Folgendes;
 
-![](3.jpg)
+![](3.jpg?w=700&h=339)
 
 Jede Zeile ist eine Zuweisung von einem Mitglied zum nächsten. Auf diese Weise wird ein Beitragsdiagramm erstellt, das auf die Mitglieder mit den meisten Interaktionen und Zuweisungen ausgerichtet ist.
 

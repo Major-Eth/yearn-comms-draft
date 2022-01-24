@@ -12,7 +12,7 @@ translator: Nesyeth
 publish: true
 ---
 
-![](/_posts/_announcements/legal-activism-DAO/1.jpg)
+![](/_posts/_announcements/legal-activism-DAO/1.jpg?w=800&h=450)
 
 [@LeXpunK_DAO](https://twitter.com/LeXpunK_DAO) schlägt vor, eine Krypto-Aktivismus-DAO aus anderen werteorientierten Gemeinschaften zu gründen, die sich auf die Erbauer konzentriert.
 

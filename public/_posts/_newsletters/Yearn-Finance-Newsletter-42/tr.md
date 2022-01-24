@@ -32,7 +32,7 @@ Yearn Finance Bülteninin 42. baskısına hoş geldiniz. Bu bültenle amacımız
 
 ## **The Blue Pill NFT'leri**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image2.jpg?w=1456&h=819)
 
 Yearn'ın ilk yılını kutlamak için, size Yearn'ın geçmişi, bugünü ve geleceği için manevi bir rehber olan The Blue Pill'i getirmek için Project Galaxy ile bir kez daha işbirliği yaptık. Zemm tarafından yapılan The Blue Pill, en sadık 13.500 destekçimize sunulan güzel bir dizgi kitabıdır. Bu, Yearn topluluğunun çeşitli çiftçileri, paydaşları, seçmenleri ve bağışçıları için yedi benzersiz NFT dizisidir. YFI'nin hediyesini kutlamak için bize katılın!
 
@@ -42,7 +42,7 @@ Kitaplarınızı [buradan](https://galaxy.eco/yearn) alın ve kitabın tamamına
 
 ## **Woofy Week 11 Anlık Görüntüsü**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image3.jpg?w=1333&h=1600)
 
 Yeni WOOFY sahipleri, Yearn ve Project Galaxy arasındaki işbirliği sayesinde bir NFT hediyesi bekleyebilirler. Bunlar, yukarıda gösterildiği gibi altı benzersiz WOOFY NFT serisindendir. Bu anlık görüntüler, birden fazla zincirdeki token sahiplerini, LP'leri, staker'ları ve kasa kullanıcılarını kapsar.
 
@@ -50,7 +50,7 @@ Woofy NFT'lerinizi [buradan](https://galaxy.eco/yearn) talep edin.
 
 ## **Migrate Or Die (Göç Ya da Öl)**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image4.jpg?w=1456&h=728)
 
 v1 vault'ları neredeyse bir yıldır herkese güvenilir bir gelir kaynağı olarak hizmet etti, ancak artık veda zamanı geldi. Tüm eski vault'lar son bir kez toplandı ve stratejiler çözüldü. Bir hatırlatma olarak, v2 kasalarımız, daha fazla verimlilik ve daha iyi bir riske göre ayarlanmış kazanç için sermayeyi çeşitli stratejilere dağıtmak gibi çeşitli değişiklikler gerektirir.
 
@@ -68,7 +68,7 @@ Vault'lara [buradan](https://yearn.finance/vaults) göz atın.
 
 ## ** Pickle Kavanozlarına Bakın**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image5.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image5.jpg?w=1081&h=565)
 
 Pickle Finance'de favori yVault tokenlarınız için %7 ile %40 arasında etkileyici oranlar bulabilirsiniz. Yearn FRAX, Yearn LUSD, yUSDC ve çok daha fazlasında kazanabilirsiniz!
 
@@ -80,7 +80,7 @@ Ortaklıklar hakkında daha fazla ayrıntıyı [buradan](https://twitter.com/iea
 
 ## **Stratejist Olmak İçin Gerekenler**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image6.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image6.jpg?w=1366&h=496)
 
 2021'de Yearn stratejistlerine 5 milyon doların üzerinde ödeme yapıldı. EthCC'de Facu Ameal, kendisi gibi güçlü bir stratejist olmak için gerekenleri açıkladı. Stratejiler, bildiğiniz gibi, Yearn'in belkemiğidir ve token'lerinizden riske göre ayarlanmış en iyi verimi elde etmenizi sağlar.
 
@@ -90,7 +90,7 @@ YFI Yatılı Okulu'na davetiye içeren [videoya](https://www.youtube.com/watch?v
 
 ## **Yearn V2 İçin Yayınlanan Denetimler**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image7.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image7.jpg?w=900&h=450)
 
 Yearn, v2 Vault, BaseStrategy ve BaseWrapper sözleşmelerinin denetiminde Trail of Bits ile bağlantı kurdu. Denetimin bulguları, Mayıs ayında yayınlanan 0.4.x serisi sözleşmelerde ele alındı.
 

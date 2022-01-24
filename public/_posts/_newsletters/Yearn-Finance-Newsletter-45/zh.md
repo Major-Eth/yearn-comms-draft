@@ -29,7 +29,7 @@ publish: true
 
 ## **ALPHA和YFI流动性提供者有资格获得独特的NFT**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image2.jpg?w=1456&h=1729)
 
 在Alpha Homora V2池中的Uniswap ETH/YFI和Sushiswap ETH/YFI池的流动性提供者将有资格获得由Yearn，Alpha和Project Galaxy提供的NFT空投。
 
@@ -47,7 +47,7 @@ publish: true
 
 ## **如何转换到Yearn的机枪池**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image3.jpg?w=679&h=388)
 
 将资产从一个机枪池移到到另一个机枪池的最佳方法之一通常是使用[curve.fi](https://curve.fi/)或使用内置于Yearn用户界面的zaps。这在gas费用方面是有效率的，但可能会产生额外的滑点或额外的费用。
 
@@ -57,7 +57,7 @@ publish: true
 
 ## **累计协议收入已达到3900万美元**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image4.jpg?w=1456&h=833)
 
 自推出以来，Yearn的收入已超过了3900万美元（这不包括存款人赚取的利息）。在过去30天内，协议就生产了超过500万美元的收入。以该数据的推断，我们预计协议年收入为约3000万美元。
 

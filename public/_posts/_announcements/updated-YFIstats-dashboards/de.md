@@ -12,7 +12,7 @@ translator: Nesyeth
 publish: true
 ---
 
-![](/_posts/_announcements/updated-YFIstats-dashboards/1.jpg)
+![](/_posts/_announcements/updated-YFIstats-dashboards/1.jpg?w=1280&h=707)
 
 [YFI Stats](https://www.yfistats.com/) wurde mit einigen neuen Dashboards aktualisiert. Wir haben jetzt ein Dashboard für YFI-Rückkäufe und ein Dashboard für CRV aus EPS-Airdrops, um den Nutzern zu helfen, diese Metriken besser zu visualisieren. Diese Funktionen wurden in letzter Zeit am häufigsten nachgefragt und sind jetzt verfügbar! Wenn du noch andere Kennzahlen in YFI Stats sehen möchtest, kannst du dich gerne an uns wenden. Du kannst es jetzt über die untenstehenden Links ausprobieren.
 

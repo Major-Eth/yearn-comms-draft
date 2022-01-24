@@ -26,4 +26,4 @@ Bono: 50$ en USDC si invitas a tus amigos 🤑
 
 prueba: [joinwido](https://app.joinwido.com/?page=detail&address=0x8cc94ccd0f3841a468184aCA3Cc478D2148E1757)
 
-![](/_posts/_announcements/deposit-together/deposit-together.png)
+![](/_posts/_announcements/deposit-together/deposit-together.png?w=800&h=800)

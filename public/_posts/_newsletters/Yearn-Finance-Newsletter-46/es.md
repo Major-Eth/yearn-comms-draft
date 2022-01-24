@@ -41,7 +41,7 @@ Obtén mas información de los procedimientos de seguridad de Yearn en el tweet 
 
 ## **Lanzamiento de la vault yvBOOST**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image2.jpg?w=1456&h=753)
 
 CRV es el token de gobernanza de Curve.fi, el mismo puedo dejarse bloqueado por hasta 4 años y te permite la habilidad de votar y cobrar parte de los rendimientos del protocolo. Al utilizar Yearn para bloquear tu CRV a través de veCRV (CRV con poder de voto), puedes obtener mayores recompensas debido a las donaciones periódicas de CRV a la vault yveCRV que realiza Yearn. Adicional a las recompensas normales de CRV, obtendrías parte del rendimiento del protocolo de Curve correspondientes a Yearn.
 
@@ -59,7 +59,7 @@ Echa un vistazo a las vaults en [yearn.finance/vaults](https://yearn.finance/vau
 
 ## **Informe financiero trimestral de Yearn**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image3.jpg?w=1276&h=429)
 
 Varios miembros de la comunidad de Yearn, han creado un informe trimestral informal para el periodo de abril a junio 2021. Este reporte fue generado utilizando información pública disponible e incluye un informe de ingresos y balance general. Este reporte no ha sido auditado por una firma de auditoria externa y no representa asesoría financiera ni de ningún tipo. Es solo para efectos informativos.
 
@@ -67,7 +67,7 @@ Puedes ver este reporte [Aquí](https://github.com/yearn/yearn-pm/blob/master/fi
 
 ## **Los ingresos acumulados del protocolo alcanzan los 41M$**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image4.jpg?w=1456&h=828)
 
 Yearn ha generado ingresos de casi 41 millones de dólares desde su lanzamiento (excluyendo los intereses generados por los depositantes). En los últimos 30 días, casi 6 millones de dólares han sido generados en ingresos del protocolo. Estos datos permiten proyectar ingresos anuales de casi 60 millones de dólares.
 

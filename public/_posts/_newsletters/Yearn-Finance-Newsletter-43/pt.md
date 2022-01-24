@@ -28,7 +28,7 @@ Bem-vindo à 43ª edição do Yearn Finance Newsletter. Nosso objetivo com este 
 
 ## **YIP-63: Criador de fundos - Primeiro DAO para ativismo legal**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-43/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-43/image2.jpg?w=360&h=203)
 
 Em meio à intensificação do escrutínio regulatório sobre o DeFi, foi proposto que o LeXpunK_DAO deveria ser dedicado à defesa legal de comunidades DeFi e outras comunidades centradas em construtores. O LeXpunK_DAO será administrado por construtores de comunidades contribuintes (incluindo yearn) e advogados praticantes do LeXpunK Army 146.
 
@@ -42,7 +42,7 @@ O YIP foi aprovado. Você pode ver os resultados [aqui] (https://gov.yearn.finan
 
 ## **Alchemix migra para Yearn v2**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-43/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-43/image3.jpg?w=1334&h=582)
 
 Alchemix migrou com sucesso para o yvDAI mais recente. O pequeno pico no gráfico é de $ 400 milhões passando dos cofres v1 para os cofres v2. Estamos orgulhosos de ser o backend de melhor rendimento da DeFi.
 
@@ -52,7 +52,7 @@ Confira os vaults [aqui] (https://yearn.finance/vaults).
 
 ## **YFI adicionado a Compound Finance**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-43/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-43/image4.jpg?w=1456&h=540)
 
 YFI foi adicionado com sucesso ao Compound Finance como um mercado. Atualmente, ele possui um fator de garantia zero (inicialmente), o mesmo modelo de taxa de juros (como COMP / LINK) e um fator de reserva de 25% para cada mercado (o que é o padrão). Em um futuro próximo, os fatores de garantia serão aumentados e os usuários poderão fornecer YFI na Compound e tomar emprestado outras moedas com essa garantia. Isso permitirá que os estrategistas da Yearn criem uma estratégia de farm de YFI semelhante a uma estratégia atual implementada para o vault YFI que utiliza o MakerDAO. Assim, os usuários podem receber mais rendimento líquido graças a essa integração, o que geralmente melhora os retornos. Leia mais sobre a estratégia MakerDAO [aqui] (https://yearn.fi/invest/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1).
 

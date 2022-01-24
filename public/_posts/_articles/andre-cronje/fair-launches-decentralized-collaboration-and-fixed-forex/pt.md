@@ -34,7 +34,7 @@ Embora eu esteja mais animado com o último, sua data de início de operação s
 
 Fixed Forex alavancado Iron Bank, Yearn, Sushi e Curve
 
-![](image1.jpg)
+![](image1.jpg?w=500&h=500)
 
 **Isenção de responsabilidade;**
 
@@ -47,11 +47,11 @@ Fixed Forex fixo é o nome coletivo para USD, EUR, ZAR, JPY, CNY, AUD, AED, CAD,
 
 A primeira opção disponível é [ibEUR](https://www.coingecko.com/en/coins/iron-bank-euro), que pode ser emitido em [yearn.fi/lend](https://yearn.fi/lend)
 
-![](image2.png)
+![](image2.png?w=700&h=194)
 
 Todas as opções de câmbio podem ser cunhadas por meio de qualquer uma das garantias aceitas em [yearn.fi](https://yearn.fi/lend)
 
-![](image3.png)
+![](image3.png?w=645&h=874)
 
 Para fatores de garantia atualizados, você pode visitar a documentação do Iron Bank, [aqui](https://docs.cream.finance/iron-bank/collateral-and-reserve-factor)
 
@@ -61,7 +61,7 @@ ib\*/\* ([curve.fi](https://curve.fi/))
 
 ib\*/ETH ([sushi.com](https://sushi.com/))
 
-![](image4.png)
+![](image4.png?w=700&h=243)
 
 Para cada ativo, os provedores de liquidez terão quatro opções de rendimento disponíveis;
 

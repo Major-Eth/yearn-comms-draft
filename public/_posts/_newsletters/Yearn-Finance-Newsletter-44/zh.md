@@ -30,7 +30,7 @@ publish: true
 
 ## **YIP-63结果**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image2.jpg?w=1456&h=690)
 
 最近对Y-63的投票结果表明大家都同意为LeXpunK DAO提供资金。Yearn已将100万DAI转移到由Curve Finance，Lido Finance和LeXpunK DAO控制的多重签名钱包中。
 
@@ -50,7 +50,7 @@ publish: true
 
 ## **推出四个新的yVaults**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image3.jpg?w=611&h=298)
 
 四个新的yVault目前已在我们的用户界面上线。你可以立即存款并开始应用AAVE，COMP，TUSD和SUSHI赚取收益。 
   
@@ -60,7 +60,7 @@ AAVE，COMP和SUSHI的机枪池是通过Universe.xyz上的单资产质押池赚�
 
 ## **Yearn集成到DeFi Saver中**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image4.jpg?w=1012&h=506)
 
 YFI已被集成到Defi Saver Recipe Creator中。通过这个集成，你可以使用DeFi Saver将任何支持的资产存入Yearn的机枪池，也可以将此操作与任何其他协议交互结合起来。下面我们详细介绍了一些示例。
   
@@ -72,7 +72,7 @@ YFI已被集成到Defi Saver Recipe Creator中。通过这个集成，你可以�
 
 ## **别忘了WOOFY**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image5.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image5.jpg?w=986&h=1251)
 
 通过以1颗YFI换100万颗WOOFY的比率将YFI转换为WOOFY，你可以用它来提供流动性，连接到其他链，例如Polygon或Fantom，并存入ape.tax以获得很高的收益。
   

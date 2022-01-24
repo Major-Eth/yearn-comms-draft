@@ -15,7 +15,7 @@ original publication: [https://www.gemini.com/cryptopedia/yearn-finance-defi-len
 
 Yearn Finance offers a suite of investment strategies powered by robots that contain “wisdom sourced from the crowd” — Yearn’s own community.
 
-![alt_text](image1.png)
+![alt_text](image1.png?w=1281&h=721)
 
 ## Summary
 

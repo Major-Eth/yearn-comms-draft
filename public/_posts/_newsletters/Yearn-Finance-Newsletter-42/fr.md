@@ -31,7 +31,7 @@ Bienvenue à la 42e édition de la Newsletter Yearn Finance. Notre objectif avec
 
 ## **Les NFTs The Blue Pills**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image2.jpg?w=1456&h=819)
 
 Pour célébrer l’anniversaire de Yearn, nous avons de nouveau collaboré avec Project Galaxy pour vous proposer “The Blue Pill”, un guide spirituel pour le passé, le présent et l'avenir de Yearn. Réalisé par Zemm, The Blue Pill est un livre magnifique, distribue a nos 13 500 supporters les plus fidèles. Il s'agit d'une série de sept NFT uniques pour les différents farmeur, stakeurs, électeurs et donateurs de la communauté Yearn. Joignez-vous à nous pour célébrer ce cadeau qu’est le YFI !
 
@@ -43,7 +43,7 @@ Réclamez vos livres ici et consultez le livre complet [ici](https://thebluepill
 
 ## **Woofy Snapshot semaine 11**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image3.jpg?w=1333&h=1600)
 
 
 Les nouveaux détenteurs de WOOFY peuvent s'attendre à un cadeau sous forme de NFT via une collaboration entre Yearn et Project Galaxy. C’est une série de six WOOFY NFT uniques, comme indiqué ci-dessus. Ces snapshot couvrent les détenteurs de jetons, les LPs, les stakeurs et les utilisateurs de coffres sur plusieurs chaînes.
@@ -52,7 +52,7 @@ Réclamez vos Woofy NFT [ici](https://galaxy.eco/yearn).
 
 ## **Migrer ou Mourir**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image4.jpg?w=1456&h=728)
 
 Les coffres v1 ont servi à tout le monde de source de rendement fiable pendant près d'un an, mais le moment est maintenant venu de dire leur dire au revoir. Tous les anciens coffres ont été récoltés une dernière fois et les stratégies ont été stoppées. Pour rappel, nos coffres v2 impliquent plusieurs changements tels que le déploiement de capital à travers plusieurs stratégies pour plus d'efficacité et un meilleur rendement ajusté au risque.
 
@@ -73,7 +73,7 @@ Découvrez les coffres [ici](https://yearn.finance/vaults).
 
 ## **Découvrez les Jars de Pickle**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image5.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image5.jpg?w=1081&h=565)
 
 Chez Pickle Finance, vous pouvez trouver des taux impressionnants de 7% à 40% sur vos jetons yVault préférés. 
 
@@ -87,7 +87,7 @@ Voir plus de détails sur les partenariats [ici](https://twitter.com/iearnfinanc
 
 ## **Ce qu'il faut pour être un stratège**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image6.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image6.jpg?w=1366&h=496)
 
 
 Plus de 5 millions de dollars ont été versés aux stratèges de Yearn en 2021. A l’EthCC, Facu Ameal a expliqué ce qu'il faut pour devenir un puissant stratège comme lui. Les stratégies, comme vous le savez peut-être, sont l'épine dorsale de Yearn et vous permettent d'obtenir le meilleur rendement ajusté au risque sur vos jetons.
@@ -100,7 +100,7 @@ Regardez la [video](https://www.youtube.com/watch?v=NVR3teJw0Y0), qui comprend u
 
 ## **Audits publiés pour les yVaults V2 **
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image7.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image7.jpg?w=900&h=450)
 
 Yearn s'est rapproché de Trail of Bits pour effectuer un audit des contrats v2 Vault ainsi que la BaseStrategy et le BaseWrapper. Les résultats ont été publies dans la série 0.4.x des contrats publiés en mai.
 

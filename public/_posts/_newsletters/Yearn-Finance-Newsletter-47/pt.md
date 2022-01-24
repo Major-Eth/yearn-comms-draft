@@ -36,7 +36,7 @@ Bem-vindo à 47ª edição da Yearn Finance Newsletter. Nosso objetivo com este 
 
 ## Apresentando a V3 da IU de Yearn
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image2.jpg?w=800&h=450)
 
 Esta semana, abrimos o novo Yearn v3 em beta para os usuários. A nova interface mais amigável mostra todos os dados de que você precisa para uma visão panorâmica de seus ativos e histórico de ganhos. Ele também simula transações para que você não sofra com slippage inesperada ou transações com falha.
 
@@ -52,7 +52,7 @@ Confira [beta.yearn.finance](https://beta.yearn.finance/).
 
 ## Confira a nova seção Labs
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image3.jpg?w=1200&h=820)
 
 Apresentando a seção Labs na nova IU do Yearn V3, um conjunto de vaults experimentais que ultrapassam os limites de rendimento no DeFi. Vamos dar uma olhada nesses novos vaults.
 
@@ -66,7 +66,7 @@ Portanto, confira o Labs em [beta.yearn.finance/#labs](https://beta.yearn.financ
 
 ## Yearn comprou $320K de YFI em setembro
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image4.jpg?w=1456&h=805)
 
 De acordo com YIP-56: Buyback and Build Yearn, que foi aprovado em janeiro de 2021, a Tesouraria de Yearn comprou um valor adicional de $ 320K em YFI.
 
@@ -76,7 +76,7 @@ Os dados sobre as recompras podem ser encontrados [aqui](https://www.yfistats.co
 
 ## A receita cumulativa do protocolo atinge US$43 milhões
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image5.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image5.jpg?w=1456&h=827)
 
 Yearn recebeu mais de $43 milhões em receitas, desde o lançamento (excluindo os juros ganhos pelos depositantes). Nos últimos 30 dias, cerca de 6 milhões de dólares em receita foram gerados pelo protocolo. Uma extrapolação desses dados projeta uma receita anual de quase US$70 milhões.
 

@@ -29,7 +29,7 @@ Chào mừng các bạn đến với Bản tin Yearn.Finance Số #45! Chúng t�
 
 ## **Bất kỳ ai Cấp Thanh khoản cho ALPHA và YFI Sẽ Nhận được Một NFT Đặc biệt**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image2.jpg?w=1456&h=1729)
 
 Bất kỳ ai cấp thanh khoản cho bể góp vốn Uniswap ETH/YFI và Sushiswap ETH/YFI ở các bể của Alpha Homora V2 sẽ nhận được một NFT đặc biệt, nhã ý từ Yearn, Alpha và Project Galaxy.
 
@@ -47,7 +47,7 @@ Xem các Kho bạc (Vault) tại liên kết [yearn.finance/vaults](https://year
 
 ## **Cách Chuyển-Đổi vào Kho bạc (Vault) của Yearn**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image3.jpg?w=679&h=388)
 
 Cách tốt nhất để chuyển-đổi từ kho Yearn này sang kho Yearn khác thường vận dụng [curve.fi](https://curve.fi/) hoặc tính năng Zap tích hợp sẵn ở giao diện người dùng (UI) của Yearn. Chúng tiết kiệm phí gas, nhưng có thể tốn thêm ở khía cạnh trượt giá hay phụ phí khác.
 
@@ -57,7 +57,7 @@ Xin cảm ơn [cryptouf](https://twitter.com/cryptouf/status/1433039747052625920
 
 ## **Tổng Doanh thu của Giao thức Đạt 39 Triệu Đô-la Mỹ**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image4.jpg?w=1456&h=833)
 
 Yearn đã ghi nhận doanh thu hơn 39 triệu đô-la Mỹ kể từ lúc phát hành (chưa tính tiền lãi mà những người ký gửi thu về). Trong 30 ngày qua, lợi nhuận của giao thức lên đến hơn 5 triệu $. Sử dụng phép ngoại suy dựa trên dữ liệu này, doanh thu hàng năm dự đoán lên đến gần 30 triệu $.
 

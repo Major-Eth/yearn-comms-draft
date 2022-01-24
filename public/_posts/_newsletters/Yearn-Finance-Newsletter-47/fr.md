@@ -37,7 +37,7 @@ Bienvenue à la 47e édition de la Newsletter Yearn Finance. Notre objectif avec
 
 ## Introduction de l’UI de Yearn V3 
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image2.jpg?w=800&h=450)
 
 
 Cette semaine, nous avons ouvert la nouvelle UI Yearn v3 aux utilisateurs en version bêta. Cette nouvelle interface plus conviviale présente toutes les données dont vous avez besoin pour une vue d'ensemble de vos avoirs et de vos revenus historiques et annuels. Elle simule également les transactions afin que vous n'obteniez pas de slippage inattendu ou d'échec de transactions.
@@ -56,7 +56,7 @@ Découvrez [beta.yearn.finance](https://beta.yearn.finance/).
 
 ## Découvrez la nouvelle “Labs Section”
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image3.jpg?w=1200&h=820)
 
 
 
@@ -74,7 +74,7 @@ Consultez les Labs sur [beta.yearn.finance/#labs](https://beta.yearn.finance/#/l
 
 ## Yearn a acheté  $320K de YFI en Septembre
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image4.jpg?w=1456&h=805)
 
 
 Conformément au YIP-56: Buyback and Build Yearn, qui a été adopté en janvier 2021, la trésorerie de Yearn a acheté pour 320 000 $ supplémentaires de YFI.
@@ -87,7 +87,7 @@ Les données sur les rachats peuvent être trouvées [ici](https://www.yfistats.
 
 ## Les revenus cumulés du protocole atteignent 43 millions de dollars
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image5.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image5.jpg?w=1456&h=827)
 
 
 Yearn a généré plus de 43 millions de dollars de revenus depuis son lancement (hors intérêts perçus par les déposants). Au cours des 30 derniers jours, plus de 6 millions de dollars de revenus ont été générés par le protocole. Une extrapolation de ces données prévoit un chiffre d'affaires annuel de près de 70 millions de dollars.

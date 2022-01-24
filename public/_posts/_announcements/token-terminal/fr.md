@@ -12,7 +12,7 @@ translator: Cryptouf
 publish: true
 ---
 
-![](/_posts/_announcements/token-terminal/1.jpg)
+![](/_posts/_announcements/token-terminal/1.jpg?w=812&h=247)
 
 Tableau de bord contenant les fondamentaux de Yearn sur Token Terminal
 

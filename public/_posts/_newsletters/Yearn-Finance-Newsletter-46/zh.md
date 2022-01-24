@@ -41,7 +41,7 @@ storming0x的[推文](https://twitter.com/storming0x/status/1436851219864059906)
 
 ## **了解yvBOOST机枪池**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image2.jpg?w=1456&h=753)
 
 CRV是curve.fi的治理代币，可以被锁定长达4 年，并能够让你投票和领取协议费用份额。由于Yearn定期向yveCRV的池投入我们挖的一些CRV以获得更多奖励，如果用户通过使用Yearn来锁定他们的CRV以获取veCRV（投票托管 CRV）他们可获得更多的奖励。因此，除了正常的CRV奖励之外，你还可以领取Yearn的Curve协议费用分额。
 
@@ -59,7 +59,7 @@ yvBoost是我们较新的机枪池之一，它是yveCRV的自动复合版本。�
 
 ## **Yearn的季度财报**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image3.jpg?w=1276&h=429)
 
 一些Yearn的社区成员创建了一份非正式的季度财务报告，涵盖2021年4月至2021年6月的期间。此报告是应用公开的信息来创建的，包括收入报表和资产负债表。本报告未经第三方专业会计师事务所审计，它不代表任何财务或投资建议。它仅供大家做参考。
 
@@ -67,7 +67,7 @@ yvBoost是我们较新的机枪池之一，它是yveCRV的自动复合版本。�
 
 ## **累计协议收入已达到4100万美元**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image4.jpg?w=1456&h=828)
 
 自推出以来，Yearn已赚取了近4100万美元的收入（这不包括存款人赚取的利息）。在过去的30天内，协议就生产了近600万美元的收入。根据该数据的推断我们预计年收入将接近6000万美元。
 

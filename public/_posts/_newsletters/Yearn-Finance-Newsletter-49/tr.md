@@ -47,7 +47,7 @@ Yearn Finance Bülteninin 49. baskısına hoş geldiniz. Bu bültenle amacımız
 
 ## Yearn Token'misinin Yenilenmesi
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image2.jpg?w=690&h=472)
 
 Son zamanlarda, birkaç Yearn topluluğu üyesi ve geliştiricisi, YFI belirteçlerini yükseltmek için eyleme geçirilebilir planlar oluşturmak için bir araya geldi. Bu önerilerden bazıları token paylaşımı, veCRV modeli, ücret paylaşımı, ücret indirimi, vault sigortası ve daha pek çok şaşırtıcı fikri içerir. Değerli katkılarınız için emeği geçen herkese teşekkür ederiz.
 
@@ -57,7 +57,7 @@ Son YFI Tokenomics Toplantılarına genel bakış [burada](https://www.notion.so
 
 ## Yearn Milenyum Ödülü
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image3.jpg?w=686&h=457)
 
 Bir ay boyunca 300 milyon ABD Doları üzerinden %40 veya 1 milyar ABD Doları üzerinden %12 APY kazanan tutarlı ve güvenli bir strateji yazın ve aylık strateji uzmanı ücretlerinden 1 milyon ABD Doları kazanın.
 
@@ -69,7 +69,7 @@ Yearn'in strateji oluşturma ve uygulama süreci hakkında [buradan](https://twi
 
 ## Kilitlenen Yearn Toplam Değer 6 Milyar Dolara Ulaştı
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image4.jpg?w=1456&h=1092)
 
 Tüm Yearn ürünlerinde kilitlenen toplam değer 6 milyar dolara ulaştı ve sadece geçen ay neredeyse 1 milyar dolar eklendi. Yearn, hiçbir yavaşlama belirtisi göstermeden ürünleri arasında parabolik büyüme görmeye devam ediyor. Iron Bank ve v2 vault'ları, üstel büyümemizin özellikle dikkate değer bileşenleridir. [yearn.science](https://yearn.science/) kullanarak ürünlerimiz arasındaki TVL metriklerini görüntüleyebilir ve takip edebilirsiniz.
 
@@ -79,7 +79,7 @@ Bu dönüm noktasını kutlamak için @MoTomiWasTaken tarafından yapılan coğr
 
 ## YFI Combinator'ın İlk Projesi: Tesseract
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image5.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image5.jpg?w=876&h=1280)
 
 Tesseract, en yeni erken aşama inkübatörümüz olan YFI Combinator'dan çıkan ilk projedir. En iyi verimi daha geniş bir kitleye ulaştırmak için Yearn'de birikmiş uzmanlıktan yararlanır.
 
@@ -105,7 +105,7 @@ Makaleyi [buradan](https://messari.io/article/yearning-for-yearn) okuyabilirsini
 
 ## Yearn Hazine Durumu
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image6.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image6.jpg?w=1456&h=538)
 
 29 Ekim itibariyle Yearn'ın Hazinesi, 13.7 milyon doları sabit para olmak üzere yerel olmayan token'lerde 27,2 milyon dolarlık bir bakiyeye sahip.
 
@@ -115,7 +115,7 @@ Ayrıca şu anda 137 milyon dolar değerinde 3935 YFI'ye sahibiz. YFI belirteçl
 
 ## Yearn Dev'leri, Robo Vault'u 50 Milyon Dolarlık Kayıptan Kurtardı
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image7.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image7.jpg?w=1432&h=894)
 
 Robo Vault, Yearn ekibinin yardımıyla 50 milyon doların üzerinde kullanıcı mevduatını etkilemiş olabilecek kritik bir sorunu belirledi ve düzeltti. Yearn ayrıca, o zamandan beri iade edilen CREAM istismarından 9 milyon doların üzerinde bir tasarruf sağladı.
 
@@ -123,7 +123,7 @@ Süreçle ilgili daha fazla bilgiyi [buradan](https://medium.com/@RoboVault/post
 
 ## Sabit Forex Zap'ları
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image8.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image8.jpg?w=686&h=654)
 
 Zapper ile işbirliği yaptık, böylece Yearn kullanıcıları cüzdanınızdaki hemen hemen her token'le Keep3r Sabit Forex vault'larına girebilirler.
 

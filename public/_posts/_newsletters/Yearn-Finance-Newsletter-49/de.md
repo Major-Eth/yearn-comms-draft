@@ -46,7 +46,7 @@ Willkommen zur 49. Ausgabe des Yearn Finance Newsletter. Mit diesem Newsletter m
 
 ## Umgestaltung von YFI Tokenomics
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image2.jpg?w=690&h=472)
 
 Kürzlich haben sich mehrere Mitglieder und Entwickler der Yearn-Community zusammengetan, um umsetzbare Pläne zur Verbesserung der YFI-Tokenomics zu entwickeln. Einige dieser Vorschläge beinhalten einen Token-Split, ein veCRV-Modell, Gebührenteilung, Gebührensenkung, Vault-Versicherung und viele weitere tolle Ideen. Vielen Dank an alle Beteiligten für ihren wertvollen Beitrag.
 
@@ -56,7 +56,7 @@ Schaut euch den Forenbeitrag [hier](https://gov.yearn.finance/t/call-for-ideas-y
 
 ## Yearn Millenniumspreis
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image3.jpg?w=686&h=457)
 
 Schreibe eine Strategie, die einen Monat lang konstant und sicher 40 % APY auf 300 Mio. $ oder 12 % auf 1 Mrd. $ einbringt, und erhalte 1 Mio. $ an monatlichen Strategengebühren.
 
@@ -68,7 +68,7 @@ Erfahren [hier](https://twitter.com/flashfish0x/status/1460246273488044036?s=21)
 
 ## Yearn Gesamtwert (TVL) erreicht 6 Milliarden Dollar
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image4.jpg?w=1456&h=1092)
 
 Der Gesamtwert aller Yearn-Produkte hat 6 Milliarden Dollar erreicht, und allein im letzten Monat ist fast 1 Milliarde Dollar hinzugekommen. Yearn verzeichnet weiterhin ein parabolisches Wachstum bei seinen Produkten und es gibt keine Anzeichen für eine Verlangsamung. Die Iron Bank und v2 Vaults sind besonders bemerkenswerte Komponenten unseres exponentiellen Wachstums. Du kannst die TVL-Metriken unserer Produkte unter [yearn.science](https://yearn.science/) einsehen und verfolgen.
 
@@ -78,7 +78,7 @@ Um diesen Meilenstein zu feiern, fordere [hier](https://6b-pill.glitch.me/) dein
 
 ## Das erste Projekt von YFI Combinator: Tesseract!
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image5.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image5.jpg?w=876&h=1280)
 
 Tesseract ist das erste Projekt, das aus YFI Combinator, unserem neuesten Frühphasen-Inkubator, ausgebrütet wurde. Es nutzt die bei Yearn angesammelte Expertise, um die besten Erträge einem breiteren Publikum zugänglich zu machen.
 
@@ -104,7 +104,7 @@ Lies den Artikel [hier](https://messari.io/article/yearning-for-yearn).
 
 ## Status von Yearns Schatzkammer
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image6.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image6.jpg?w=1456&h=538)
 
 Mit Stand vom 29. Oktober hält Yearn's Schatzkammer ein Guthaben von 27,2 Mio. $ in nicht-nativen Token, davon 13,7 Mio. $ in Stablecoins.
 
@@ -114,7 +114,7 @@ Sieh dir verschiedene Yearn-Statistiken [hier](https://yearn.vision/) an und sie
 
 ## Yearn-Entwickler retten Robo Vault vor $50M Verlust
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image7.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image7.jpg?w=1432&h=894)
 
 Mit Hilfe des Yearn-Teams hat Robo Vault ein kritisches Problem identifiziert und behoben, von dem über 50 Millionen Dollar an Benutzereinlagen betroffen gewesen sein könnten. Yearn hat außerdem über 9 Millionen Dollar aus dem CREAM-Exploit gerettet, die inzwischen zurückgegeben wurden.
 
@@ -122,7 +122,7 @@ Lies mehr über den Prozess [hier](https://medium.com/@RoboVault/post-mortem-nex
 
 ## Feste Forex Zaps
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image8.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image8.jpg?w=686&h=654)
 
 Wir haben mit Zapper zusammengearbeitet, so dass Yearn-Benutzer mit fast jedem Token in deiner Brieftasche in Keep3r Fixed Forex Vaults zappen können.
 

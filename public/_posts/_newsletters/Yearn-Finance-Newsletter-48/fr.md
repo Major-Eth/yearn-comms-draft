@@ -41,7 +41,7 @@ Bienvenue à la 48e édition de la Newsletter Yearn Finance. Notre objectif avec
 
 ## Yearn devient Multichain avec Fantom
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image2.jpg?w=1280&h=1271)
 
 
 
@@ -72,13 +72,13 @@ Vous avez une question ? Rejoingnez notre TG ou notre [Discord](https://discord.
 
 ## Yearn atteind les $5B TVL (à nouveau)
 
- ![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image3.jpg)
+ ![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image3.jpg?w=1456&h=1092)
  
  La valeur totale verrouillée sur tous les produits Yearn a de nouveau dépassé les 5 milliards de dollars, et 1 milliard de dollars a été ajouté au cours du seul mois dernier. Yearn continue d’observer une croissance parabolique sans aucun signe de ralentissement. L'Iron Bank et les coffres v2 sont des éléments particulièrement notables de notre croissance . Vous pouvez afficher et suivre les métriques concernant la TVL en utilisant [yearn.science](https://yearn.science/). 
  
 
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image5.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image5.jpg?w=1456&h=997)
 
 Avec le regain d'intérêt pour la tokenomique YFI ces derniers jours et comme le développement du protocole v3 est toujours dans sa phase où il est suffisamment malléable, cela pourrait être le bon moment pour relier ces 2 aspects. Tout est discutable, qu'il s'agisse de la division des jetons, de l'extraction de liquidités, de la tail emission, de verrouillage comme le veCRV. Si vous lanciez le YFI  maintenant, comment veriez-vous ? Nous attendons avec impatience les suggestions de notre communauté et aimerions les prendre en compte.
 
@@ -89,7 +89,7 @@ Consultez le post et participez [ici](https://gov.yearn.finance/t/call-for-ideas
 ## Comment contribuer ?
 
 
- ![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image4.jpg)
+ ![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image4.jpg?w=973&h=651)
 
 
 
@@ -123,7 +123,7 @@ Plus de details [ici](https://twitter.com/iearnfinance/status/144579926918988186
 ## Transparence chez Yearn
 
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image6.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/image6.jpg?w=1260&h=820)
 
 
 

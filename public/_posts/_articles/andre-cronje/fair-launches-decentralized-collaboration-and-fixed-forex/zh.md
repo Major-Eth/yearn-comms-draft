@@ -30,7 +30,7 @@ Fixed Forex希望在终端用户无需了解这些步骤的情况下完成上述
 
 固定外汇使用杠杆Iron Bank，Yearn，Sushi，和Curve
 
-![](image1.jpg)
+![](image1.jpg?w=500&h=500)
 
 **免责声明;**
 
@@ -43,11 +43,11 @@ Fixed Forex是USD、EUR、ZAR、JPY、CNY、AUD、AED、CAD、INR以及以 Fixed
 
 第一个推出的产品是[ibEUR](https://www.coingecko.com/en/coins/iron-bank-euro)，可以通过 [yearn.fi/lend](https://yearn.fi/lend) 来铸造。
 
-![](image2.png)
+![](image2.png?w=700&h=194)
 
 所有外汇产品都可以通过 [yearn.fi](https://yearn.fi/lend) 上任何可接受的抵押品铸造。
 
-![](image3.png)
+![](image3.png?w=645&h=874)
 
 有关最新的抵押因数，你可以在[此处](https://docs.cream.finance/iron-bank/collateral-and-reserve-factor)访问Iron Bank的文档。
 
@@ -56,7 +56,7 @@ Fixed Forex是USD、EUR、ZAR、JPY、CNY、AUD、AED、CAD、INR以及以 Fixed
 ib\*/\* ([curve.fi](https://curve.fi/))  
 ib\*/ETH ([sushi.com](https://sushi.com/))
 
-![](image4.png)
+![](image4.png?w=700&h=243)
 
 对于每种资产，流动性提供者将有四种可能的收益；
 

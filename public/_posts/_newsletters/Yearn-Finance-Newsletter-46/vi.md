@@ -40,7 +40,7 @@ Bạn cũng có thể xem chi tiết các Kho bạc ('Vault') và chiến lượ
 
 ## **Kiến thức Vỡ lòng về Kho bạc yvBOOST**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image2.jpg?w=1456&h=753)
 
 CRV là tôken quản trị của curve.fi, vốn có thể được khóa lên đến 4 năm và mang lại quyền biểu quyết cũng như quyền nhận phần chia sẻ doanh thu (từ phí sử dụng) giao thức này. Bằng việc sử dụng Yearn để khóa CRV—lấy veCRV ("phiếu bầu ký quỹ" hay 'vote-escrowed CRV'), bạn có thể thu lời nhiều hơn nhờ việc Yearn định kỳ quyên góp một phần CRV "cày" được vào kho bạc yveCRV. Nghĩa là, ngoài lợi nhuận từ CRV thường thấy, bạn sẽ có khả năng lấy phần tiền của Yearn ở doanh thu của giao thức Curve.
 
@@ -58,7 +58,7 @@ Xem các Kho bạc ('Vault') tại liên kết [yearn.finance/vaults](https://ye
 
 ## Báo cáo Tài chính Hàng Quý của Yearn
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image3.jpg?w=1276&h=429)
 
 Các thành viên cộng đồng Yearn đã hoàn thành báo cáo tài chính hàng quý không-chính-thức cho giai đoạn 04/2021—06/2021. Báo cáo này được tổng hợp từ nhiều thông tin công khai, bao gồm giải trình thu nhập và bảng quyết toán. Báo cáo này chưa được kiểm định bởi tổ chức kiểm toán chuyên nghiệp bên-thứ-ba, và không phải lời tư vấn tài chính, đầu tư hay bất kỳ hình thức nào khác. Nó chỉ có mục đích cung cấp thông tin tham khảo.
 
@@ -66,7 +66,7 @@ Bạn có thể xem báo cáo này [tại đây](https://github.com/yearn/yearn-
 
 ## **Tổng Doanh thu của Giao thức Đạt 41 Triệu Đô-la Mỹ**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image4.jpg?w=1456&h=828)
 
 Yearn đã ghi nhận doanh thu hơn 41 triệu đô-la Mỹ kể từ lúc phát hành (chưa tính tiền lãi mà những người ký gửi thu về). Trong 30 ngày qua, lợi nhuận của giao thức lên đến hơn 6 triệu $. Sử dụng phép ngoại suy dựa trên dữ liệu này, doanh thu hàng năm dự đoán lên đến gần 60 triệu $.
 

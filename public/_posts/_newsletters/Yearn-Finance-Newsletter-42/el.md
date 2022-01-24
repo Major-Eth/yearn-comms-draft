@@ -31,7 +31,7 @@ publish: true
 
 ## **Το μπλε χάπι των NFTs**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image2.jpg?w=1456&h=819)
 
 Για να γιορτάσουμε τον πρώτο χρόνο του Yearn, συνεργαστήκαμε για άλλη μια φορά με το Project Galaxy για να σας φέρουμε το The Blue Pill, έναν πνευματικό οδηγό για το παρελθόν, το παρόν και το μέλλον του Yearn. Φτιαγμένο από τον Zemm, το The Blue Pill είναι ένα όμορφο βιβλίο που διατίθεται στους 13.500 πιο πιστούς υποστηρικτές μας. Αυτή είναι μια σειρά από επτά μοναδικά NFT για τους διάφορους farmers, stakers, ψηφοφόρους και δωρητές της κοινότητας Yearn. Ελάτε μαζί μας για να γιορτάσουμε το δώρο του YFI!
 
@@ -41,7 +41,7 @@ publish: true
 
 ## **Snapshot για το Woofy, Εβδομάδα 11**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image3.jpg?w=1333&h=1600)
 
 Οι νέοι κάτοχοι του WOOFY μπορούν να περιμένουν ένα NFT δώρο μέσω της συνεργασίας μεταξύ του Yearn και του Project Galaxy. Πρόκειτε για μια σειρά έξι μοναδικών WOOFY NFT όπως βλέπετε παραπάνω. Το Snapshot που καθορίζει τις διευθύνσεις που πληρούν τις προϋποθέσεις καλύπτουν κατόχους tokens, LP, stakers και χρήστες των θησαυροφυλάκιων σε διάφορες αλυσίδες.
 
@@ -49,7 +49,7 @@ publish: true
 
 ## **Μετανάστευεσε ή Πέθανε**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image4.jpg?w=1456&h=728)
 
 Τα θησαυροφυλάκια v1 έχουν χρησιμεύσει σε όλους ως αξιόπιστη πηγή αποδόσεων για σχεδόν ένα χρόνο, αλλά τώρα ήρθε η ώρα να πούμε αντίο. Όλες οι ανταμοιβές από τα παλιά θησαυροφυλάκια έχουν συλλεχθεί για τελευταία φορά και οι στρατηγικές έχουν σταματήσει. Υπενθυμίζουμε ότι τα θησαυροφυλάκια του v2 έρχονται με  αρκετές σημαντικές αλλαγές, όπως η ανάπτυξη κεφαλαίων σε διάφορες στρατηγικές για μεγαλύτερη αποτελεσματικότητα και καλύτερη απόδοση προσαρμοσμένη στον κίνδυνο.
 
@@ -67,7 +67,7 @@ publish: true
 
 ## **Ανακαλύψτε το "The Pickle Jars**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image5.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image5.jpg?w=1081&h=565)
 
 Στο Pickle Finance, μπορείτε να βρείτε εντυπωσιακές αποδώσεις, από 7% έως και 40% στα αγαπημένα σας yVault token. Μπορείτε να κερδίσετε ανταμοιβές σε Yearn FRAX, Yearn LUSD, yUSDC και πολλά άλλα!
 
@@ -79,7 +79,7 @@ publish: true
 
 ## **Τι χρειάζεται για να γίνεις Στρατηγικός Αναλυτής (Strategist)**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image6.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image6.jpg?w=1366&h=496)
 
 Πάνω από 5 εκατομμύρια δολάρια έχουν πληρωθεί στους στρατηγικούς αναλυτές του Yearn το 2021. Στην EthCC, ο Facu Ameal ανέλυσε ό,τι χρειάζεται για να γίνει κάποιος ένας πανίσχυρος στρατηγικός αναλυτής σαν αυτόν. Οι στρατηγικές, όπως ίσως γνωρίζετε, αποτελούν τη ραχοκοκαλιά του Yearn και είναι αυτές που σας επιτρέπουν να κερδίσετε την καλύτερη, προσαρμοσμένη ως προς τον κίνδυνο, απόδοση των tokens σας.
 
@@ -89,7 +89,7 @@ publish: true
 
 ## **Δημοσιεύτηκαν οι έλεγχοι των έξυπνων συμβολαίων για το Yearn V2**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image7.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/image7.jpg?w=900&h=450)
 
 Το Yearn έχει απευθυνθεί στο Trail of Bits για τον έλεγχο των έξυπνων συμβολαίων v2 Vault, BaseStrategy και BaseWrapper. Τα ευρήματα του ελέγχου αντιμετωπίστηκαν στη σειρά 0,4.x των συμβολαίων που κυκλοφόρησαν τον Μάιο.
 

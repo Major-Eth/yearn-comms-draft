@@ -22,17 +22,17 @@ To address the scaling and overhead problems, the yearn team built [Coordinape](
 
 What is [Coordinape](https://coordinape.com/), simply put anyone wishing to contribute to yearn (or their own DAO) can register (currently using github details), every epoch (for yearn 1 month), you can select the team members you have been working and interacting with, below, yearn contributors;
 
-![](1.jpg)
+![](1.jpg?w=1400&h=674)
 
 For example, my interactions below (members I marked as having interacted with this past epoch);
 
-![](2.jpg)
+![](2.jpg?w=700&h=337)
 
 Now each member has a set amount of allocation points, and can allocate points to the contributors they have worked with based on what they think of their contributions.
 
 So if we look at the current epoch contributions we see the following;
 
-![](3.jpg)
+![](3.jpg?w=700&h=339)
 
 Each line is an allocation from one member to the next. This builds up a contributor graph that is weighted towards the members that have the most interactions and allocations.
 

@@ -27,7 +27,7 @@ Yearn Finance Newsletterの第45号へようこそ。このニュースレター
 
 ## **ALPHAとYFIのリクイディティプロバイダーが特別なNFTの対象となりました**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image2.jpg?w=1456&h=1729)
 
 Alpha Homora V2プールのUniswap ETH/YFIおよびSushiswap ETH/YFIプールのリクイディティプロバイダーは、Yearn、Alpha、Project Galaxyの提供による特別なNFTドロップの対象となります。
 
@@ -45,7 +45,7 @@ Vaultsは[yearn.finance/vaults](https://yearn.finance/vaults)でご覧いただ�
 
 ## **YearnのVaultにスワップする方法**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image3.jpg?w=679&h=388)
 
 Yearn VaultsでひとつのVaultから別のVaultに資金をスワップする最善の方法の1つは、通常[curve.fi](https://curve.fi/)を使用するか、YearnのUIに組み込まれたZapを使用することです。この方法はガス効率が良いですが、スリッページや追加手数料がかかる場合があります。
 
@@ -55,7 +55,7 @@ CompoundやAAVEからYearnに資金を移行するもう一つの方法は、[bo
 
 ## **プロトコルの累積収益が39Mドルに到達**
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image4.jpg?w=1456&h=833)
 
 Yearnはローンチ以来、39Mドル以上の収益を上げています（預金者が得た利息を除く）。過去30日間では、5Mドル以上の収益がこのプロトコルによってもたらされました。このデータから推計すると、年間収益は30Mドル近くになると予測されます。
 

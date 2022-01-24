@@ -39,7 +39,7 @@ Welcome to the 50th edition of the Yearn Finance Newsletter. Our aim with this n
 
 ## New Yearn UI
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/image2.jpg?w=1024&h=1024)
 
 We’ve rebuilt [yearn.finance](https://yearn.finance/) from scratch with tons of feedback from our community. It's live now, so take it for a spin. 
 
@@ -73,7 +73,7 @@ Check out the new docs [here](https://docs.yearn.finance/).
 
 ## YIP-64 Fails To Meet Quorum
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/image3.jpg?w=1100&h=759)
 
 YIP-64: Adjust fees on non-stablecoin yVaults entered the voting phase and ended in the majority voting against adjusting fees.
 
@@ -81,7 +81,7 @@ Check out the proposal [here](https://snapshot.org/#/ybaby.eth/proposal/0xfe7296
 
 ## Yearn Delegates 23M veCRV to Convex
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/image4.jpg?w=873&h=615)
 
 Yearn has delegated 23 million veCRV to Convex Finance using Curve’s new native boost delegation feature. This will increase yields of factory pools for both our DAOs. This does not affect regular pools, fees or voting.
 

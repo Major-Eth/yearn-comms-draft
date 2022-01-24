@@ -45,7 +45,7 @@ Bienvenue à la 49e édition de la Newsletter Yearn Finance. Notre objectif avec
 
 ## La refonte de la tokenomics Yearn 
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image2.jpg?w=690&h=472)
 
 Récemment, plusieurs membres et développeurs de la communauté Yearn se sont regroupés pour créer des plans d'action visant à mettre à niveau la tokenomics du  YFI. Certaines de ces suggestions incluent une division de jetons, un modèle type veCRV, le partage des frais, la réduction des frais, l'assurance de coffre  et bien d'autres idées étonnantes. Merci à toutes les personnes impliquées pour vos précieuses contributions.
 
@@ -55,7 +55,7 @@ Des aperçus des récentes réunions autour de la YFI Tokenomics sont disponible
 
 ## Prix Millennium Yearn
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image3.jpg?w=686&h=457)
 
 Développez une stratégie qui rapporte de manière continue et sûre 40 % APY sur 300 millions de dollars ou 12 % sur 1 milliard de dollars pendant un mois et vous gagnerez 1 million de dollars en frais !
 
@@ -67,7 +67,7 @@ En savoir plus sur le processus de création et de déploiement de stratégies c
 
 ## La Total Value Locked de Yearn a atteint $6B
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image4.jpg?w=1456&h=1092)
 
 La valeur totale vérouilleée sur tous les produits Yearn a atteint 6 milliards de dollars, et près d'un milliard de dollars a été ajouté au cours du seul mois dernier. Yearn continue sa croissance parabolique sans aucun signe de ralentissement. L'Iron Bank et les coffres v2 sont des éléments particulièrement centrales de cette croissance exponentielle. Vous pouvez afficher et suivre les métriques TVL de nos produits en utilisant [yearn.science](https://yearn.science/).
 
@@ -77,7 +77,7 @@ Pour célébrer cette étape, réclamez votre NFT  réalisé par @MoTomiWasTaken
 
 ## Le 1er aggregateur YFI: Tesseract
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image5.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image5.jpg?w=876&h=1280)
 
 Tesseract est le premier projet né de YFI Combinator, notre tout nouvel incubateur. Il s'appuie sur l'expertise accumulée par Yearn pour apporter les meilleurs rendements à un public plus large.
 
@@ -103,7 +103,7 @@ Lisez l'article [ici](https://messari.io/article/yearning-for-yearn).
 
 ## Trésorerie de Yearn 
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image6.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image6.jpg?w=1456&h=538)
 
 Au 29 octobre, la trésorerie de Yearn détenait 27,2 millions de dollars en jetons non natifs, dont 13,7 millions de dollars en stablecoins.
 
@@ -113,7 +113,7 @@ Consultez diverses statistiques concernant Yearn [ici](https://yearn.vision/) et
 
 ## Les Devs Yearn ont évite a Robo Vault de perdre $50M
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image7.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image7.jpg?w=1432&h=894)
 
 Avec l'aide de l'équipe de Yearn, Robo Vault a identifié et résolu un problème critique qui aurait pu affecter plus de 50 millions de dollars. Yearn a également récupéré plus de 9 millions de dollars de l'exploit de CREAM, qui a depuis été restitué.
 
@@ -121,7 +121,7 @@ En savoir plus sur ce qu'il s'est passé [ici](https://medium.com/@RoboVault/pos
 
 ## Zaps pour le Fixed Forex 
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image8.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image8.jpg?w=686&h=654)
 
 Nous avons collaboré avec Zapper, pour que les utilisateurs de Yearn puissent zapper dans les coffres Keep3r Fixed Forex avec presque n'importe quel jeton dans leur portefeuille.
 

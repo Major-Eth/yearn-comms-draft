@@ -47,7 +47,7 @@ publish: true
 
 ## Ανανέωση Tokenomics του Yearn
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image2.jpg?w=690&h=472)
 
 Πρόσφατα, πολλά μέλη της κοινότητας και προγραμματιστές του Yearn έχουν ενωθεί για να δημιουργήσουν δραστικά σχέδια για την αναβάθμιση των tokenomics του YFI. Μερικές από αυτές τις προτάσεις περιλαμβάνουν διαχωρισμό tokens, ένα μοντέλο veCRV, κοινή χρήση χρεώσεων, μείωση χρεώσεων, ασφάλιση θησαυροφυλακίου και πολλές ακόμη εκπληκτικές ιδέες. Ευχαριστούμε όλους τους ανθρώπους που συμμετείχαν για την πολύτιμη συμβολή σας.
 
@@ -57,7 +57,7 @@ publish: true
 
 ## Βραβείο Yearn Millennium
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image3.jpg?w=686&h=457)
 
 Γράψτε μια στρατηγική που θα κερδίζει σταθερά και με ασφάλεια 40% APY σε 300 εκατομμύρια $ ή 12% σε 1 δισεκατομμύριο $ για ένα μήνα και θα κερδίσετε 1 εκατομμύριο $ σε μηνιαίες αμοιβές στρατηγικής.
 
@@ -69,7 +69,7 @@ publish: true
 
 ## Η Κλειδωμένη Συνολική Αξία (TVL) του Yearn φτάνει τα 6 δισεκατομμύρια $
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image4.jpg?w=1456&h=1092)
 
 Η συνολική αξία που έχει κλειδωθεί σε όλα τα προϊόντα του Yearn έφτασε τα 6 δισεκατομμύρια δολάρια και σχεδόν 1 δισεκατομμύριο δολάρια προστέθηκε μόνο τον τελευταίο μήνα. Το Yearn συνεχίζει να βλέπει παραβολική ανάπτυξη μεταξύ των προϊόντων του χωρίς καμία ένδειξη επιβράδυνσης. Τα θησαυροφυλάκια Iron Bank και v2 είναι ιδιαίτερα αξιοσημείωτα στοιχεία της εκθετικής μας ανάπτυξης. Μπορείτε να προβάλετε και να παρακολουθείτε μετρήσεις TVL μεταξύ των προϊόντων μας χρησιμοποιώντας το [yearn.science](https://yearn.science/).
 
@@ -79,7 +79,7 @@ publish: true
 
 ## Tο πρώτο έργο του YFI Combinator: Tesseract
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image5.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image5.jpg?w=876&h=1280)
 
 Το Tesseract είναι το πρώτο έργο που εκκολάπτεται από το YFI Combinator, τη νεότερη θερμοκοιτίδα μας έργων σε πρώιμο στάδιο. Αξιοποιεί την τεχνογνωσία που έχει συγκεντρώσει το Yearn για να προσφέρει τις καλύτερες αποδόσεις σε ένα ευρύτερο κοινό.
 
@@ -105,7 +105,7 @@ publish: true
 
 ## Κατάσταση του ταμείου του Yearn
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image6.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image6.jpg?w=1456&h=538)
 
 Από τις 29 Οκτωβρίου, το  ταμείο του Yearn διατηρεί υπόλοιπο 27,2 εκατομμυρίων δολαρίων σε μη εγγενή tokens, εκ των οποίων τα 13,7 εκατομμύρια δολάρια είναι stablecoins.
 
@@ -115,7 +115,7 @@ publish: true
 
 ## Η ομάδα προγραμματιστών του Yearn σώζει το Robo Vault από 50 εκατομμύρια $ απώλεια
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image7.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image7.jpg?w=1432&h=894)
 
 Με τη βοήθεια της ομάδας του Yearn, το Robo Vault εντόπισε και διόρθωσε ένα κρίσιμο ζήτημα που θα μπορούσε να επηρεάσει πάνω από 50 εκατομμύρια δολάρια σε καταθέσεις χρηστών. Το Yearn έχει επίσης διασώσει πάνω από 9 εκατομμύρια δολάρια από το CREAM exploit, το οποίο έκτοτε έχει επιστραφεί.
 
@@ -123,7 +123,7 @@ publish: true
 
 ## Σταθερά Forex Zaps
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image8.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/image8.jpg?w=686&h=654)
 
 Συνεργαστήκαμε με το Zapper, έτσι ώστε οι χρήστες του Yearn να μπορούν να κάνουν zap στα θησαυροφυλάκια Keep3r Fixed Forex με σχεδόν οποιοδήποτε token στο πορτοφόλι τους.
 

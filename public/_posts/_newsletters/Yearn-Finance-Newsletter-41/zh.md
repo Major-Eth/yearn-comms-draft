@@ -30,7 +30,7 @@ publish: true
 
 ## 庆祝YFI成立第一年
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-41/image5.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-41/image5.jpg?w=500&h=500)
 
 一年前，在2020年7月17日，YFI代币正式上线。感谢大家在DeFi中创造了一些难忘的时刻。 Yearn现在拥有DeFi领域中最强大的生态系统之一。
 
@@ -38,7 +38,7 @@ publish: true
 
 ## Yearn在聚合器市场中的占有率上升
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-41/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-41/image4.jpg?w=1280&h=720)
 
 在2021年的第二季度，Yearn在收益聚合器市场上的占有率从29%上升到69%。我们的AUM（管理的资产）增长了136%，达到了超过50亿美元，这种增长令人印象深刻。我们会不断地努力为你找市场上最佳的风险调整回报。将资金存入我们的yVaults中，让我们的策略师为你解决所有麻烦的工作。
 
@@ -46,7 +46,7 @@ publish: true
 
 ## Yearn将被加到Compound
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-41/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-41/image3.jpg?w=968&h=714)
 
 将YFI作为市场添加到Compound Finance的提案已完成，而且合约也已被部署。每个代币将有一个零抵押因子（初步阶段），相同的利率模型（如 COMP/LINK）以及在每个市场保持 25% 的储备因子（这是标准的）。
 
@@ -56,7 +56,7 @@ publish: true
 
 ## MakerDao已下调YFI借款利率
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-41/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-41/image2.jpg?w=366&h=420)
 
 MakerDao已下调YFI-A的稳定费至1%，而ETH-C的稳定费也已被调至0.50%。这些调整对Yearn的YFI和ETH策略非常有益，因为它们将降低借贷成本。资产成本的降低可为用户带来更多的净收益，从而提高回报。
 

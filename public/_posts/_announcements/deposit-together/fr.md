@@ -29,7 +29,7 @@ Vous pouvez ajouter votre transaction de dépôt au lot du lundi au vendredi. Le
 
 Le week-end, lorsque le gaz est plus bas, Wido regroupera toutes les transactions, les déposera dans Yearn en une seule transaction et divisera les frais de dépôt de manière égale entre tous les déposants.
 
-![](/_posts/_announcements/deposit-together/deposit-together.png)
+![](/_posts/_announcements/deposit-together/deposit-together.png?w=800&h=800)
 
 Techniquement, en rejoignant un lot Deposit Together, vous donnerez à Wido la permission pour une transaction de dépôt signée pour un montant ERC-20 donné et un coffre Yearn en particulier. Lors de l'exécution du dépôt par lots, notre contrat intelligent exécutera ces étapes pour chaque coffre avec des dépôts par lots :
 

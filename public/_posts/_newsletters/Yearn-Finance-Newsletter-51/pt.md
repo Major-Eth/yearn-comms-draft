@@ -37,7 +37,7 @@ Muito obrigado a [Fin4Dao](https://twitter.com/Fin4Dao) por todo o trabalho de f
 
 ## Yearn comprou $ 7,5 milhões de YFI
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-51/image2.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-51/image2.jpg?w=800&h=609)
 
 Yearn comprou $ 7.526.343 em YFI do mercado aberto. Obtivemos 282,4 YFI (0,77% do fornecimento total) a um preço médio de $ 26.651. Mais YFI foi comprado de volta no mês passado do que no ano anterior.
 
@@ -47,7 +47,7 @@ Também temos comprado de volta uma quantidade significativa de yvBOOST para res
 
 ## Proposta: Evolução do Modelo Econômico do Token YFI
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-51/image3.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-51/image3.jpg?w=800&h=466)
 
 A etapa 1 é xYFI, em que se faz stake no vault xYFI, ganhando de volta YFI da tesouraria.
 
@@ -65,7 +65,7 @@ Leia todos os detalhes da proposta [aqui](https://gov.yearn.finance/t/proposal-e
 
 ## Relatório: Renascido como um buraco negro
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-51/image4.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-51/image4.jpg?w=733&h=750)
 
 Ape Froman publicou recentemente um relatório detalhando uma visão abrangente de Yearn, e ele detalha os problemas recentes do tokenomics em Yearn, possíveis correções e integrações adicionais do token YFI no grande ecossistema DeFi. Isso permitirá uma melhor captura de valor para os detentores do token, e permitirá um desequilíbrio potencial na oferta circulante de YFI - impulsionando assim a demanda.
 
@@ -73,7 +73,7 @@ Agradecimentos especiais a [Ape Froman](https://medium.com/@portiadog) pela reda
 
 ## Cartão de Natal Yearn NFT
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-51/image5.jpg)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-51/image5.jpg?w=625&h=750)
 
 Participe da caça ao tesouro do projeto Galaxy e pegue este cartão de férias Yearn NFT, apenas por ser um assinante do boletim informativo Yearn.
 
