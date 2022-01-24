@@ -2,7 +2,11 @@
 layout: post
 title:  "What can you do with YFI?"
 categories: [ Articles ]
-image: ./What-can-you-do-with-YFI/image1.png
+image:
+  src: ./cover.png
+  width: 768
+  height: 429
+date: '2021-05-05'
 author: Dark Ghosty
 translator: RestlessMik3
 publish: true

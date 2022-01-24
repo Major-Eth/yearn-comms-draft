@@ -2,7 +2,10 @@
 layout: post
 title:  "How we think about Yearn"
 categories: [ Articles ]
-image: ./cover.jpeg
+image:
+  src: ./cover.jpeg
+  width: 690
+  height: 472
 date: '2020-10-20'
 author: Yearn DAO Contributors
 translator:

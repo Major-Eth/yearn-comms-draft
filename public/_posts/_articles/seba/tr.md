@@ -2,7 +2,11 @@
 layout: post
 title:  "Yearn Finance - Decentralised Asset Management"
 categories: [ Articles ]
-image: ./Yearn-Finance-Decentralised-Asset-Management/seba.jpg
+image:
+  src: ./cover.jpg
+  width: 1100
+  height: 736
+date: '2021-06-02'
 author: The Digital Investor
 translator: Dastronom
 publish: true
@@ -92,15 +96,15 @@ Yearn Finance'e değer vermek sıkıcı bir iştir. Yearn, bağlama şeklinde ve
 
 ### Şekil 1: Yükseliş Senaryosu
 
-![alt_text](image1.png "image_tooltip")
+![](image1.png "image_tooltip")
 
 ### Şekil 2: Temel Durum Senaryosu
 
-![alt_text](image2.png "image_tooltip")
+![](image2.png "image_tooltip")
 
 ### Şekil 3: Tutucu Senaryosu
 
-![alt_text](image3.png "image_tooltip")
+![](image3.png "image_tooltip")
 
 ## Riskler
 

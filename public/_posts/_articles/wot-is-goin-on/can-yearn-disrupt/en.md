@@ -2,9 +2,12 @@
 layout: post
 title:  "Can Yearn disrupt the $110 trillion asset management industry?"
 categories: [ Articles ]
-image: ./cover.png
-author: Wot_Is_Goin_On
+image:
+  src: ./cover.png
+  width: 1280
+  height: 800
 date: '2021-04-07'
+author: Wot_Is_Goin_On
 translator:
 publish: true
 ---
@@ -143,7 +146,7 @@ Each DeFi token has its quirks as their communities try to find ways of incentiv
 
 The value of these tokens has increased significantly over the last year as the market puts a greater value on tokens representing a transparent and fair (to the extent that each wallet is treated the same) financial system that is available to anyone with an internet connection. The cashflows help too.
 
-![](image8.jfif?w=700&h=393)
+![](image8.png?w=700&h=393)
 
 DeFi protocols recently surpassed $1bn in total revenue (Token Terminal)
 
@@ -301,7 +304,7 @@ The vault re-design proposed in YIP-48 has now been implemented, audits have bee
 
 The image below shows the yvDai vault earning a yield for depositors with 6 strategies in action at the same time (the strategy labels are in green).
 
-![](image17.jfif?w=700&h=925)
+![](image17.png?w=700&h=925)
 
 Six strategies in one vault ([https://twitter.com/bantg/status/1377681238249574404?s=20](https://twitter.com/bantg/status/1377681238249574404?s=20))
 
@@ -333,7 +336,7 @@ This happened with no management. No HR department. No résumés.
 
 It’s one thing to describe how Yearn is leading the innovation in risk-adjusted yields, but ultimately the asset management industry uses one key metric, and that’s AUM (TVL in DeFi). This is up by 3x in the last quarter. At less than 1% of the assets on Ethereum, which are themselves growing at a rapid pace, there is still plenty of room for Yearn’s AUM to grow.
 
-![](image20.jfif?w=700&h=501)Yearn’s TVL hits $1.84b on 31st March 2021 — The Block (and banteg)
+![](image20.png?w=700&h=501)Yearn’s TVL hits $1.84b on 31st March 2021 — The Block (and banteg)
 
 **5\. Competition**
 

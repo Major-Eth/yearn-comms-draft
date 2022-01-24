@@ -2,7 +2,11 @@
 layout: post
 title:  "The Blue Pill"
 categories: [ Articles ]
-image: ./cover.jpg
+image:
+  src: ./cover.jpg
+  width: 742
+  height: 450
+date: '2021-06-02'
 author: Yearn
 publish: false
 ---

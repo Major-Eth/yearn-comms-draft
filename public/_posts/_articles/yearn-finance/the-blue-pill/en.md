@@ -2,8 +2,11 @@
 layout: post
 title:  "The Blue Pill"
 categories: [ Articles ]
-image: ./cover.png
-date: '2021-07-29'
+image:
+  src: ./cover.png
+  width: 711
+  height: 474
+date: '2021-06-01'
 author: Weaver
 translator:
 publish: true

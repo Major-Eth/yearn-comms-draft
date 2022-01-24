@@ -2,7 +2,11 @@
 layout: post
 title:  "Yearn Finance和投资机器人"
 categories: [ Articles ]
-image: ./Yearn-Finance-and-Money-Robots/image1.png
+image:
+  src: ./cover.png
+  width: 1281
+  height: 721
+date: '2021-03-25'
 author: Gemini/Cryptopedia
 translator: Bee926
 published: true
@@ -14,7 +18,7 @@ published: true
 
 Yearn Finance提供了一套由机器人驱动的投资策略，这些机器人应用“来自人群的智慧”-而这都来自于Yearn自己的社区中。
 
-![alt_text](image1.png?w=1281&h=721)
+![](image1.png?w=1281&h=721)
 
 ## 简介
 

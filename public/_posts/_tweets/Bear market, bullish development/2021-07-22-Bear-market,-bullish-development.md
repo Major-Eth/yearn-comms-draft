@@ -2,7 +2,7 @@
 layout: post
 title:  "Bear market, bullish development"
 categories: [ Tweets ]
-image: ./Bear-market,-bullish-development/image1.jfif
+image: ./Bear-market,-bullish-development/image1.png
 author: Dudesahn
 translator:
 publish: true
@@ -55,4 +55,4 @@ If you'd like to come build with us, we'd love to have you. Simple as that.
 Feel free to reach out to me on telegram
 [@dudesahn](https://twitter.com/dudesahn) and we can get you started.
 
-![](image1.jfif)
+![](image1.png)

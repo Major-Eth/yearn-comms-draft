@@ -2,7 +2,11 @@
 layout: post
 title:  "Pode Yearn ser disruptivo no setor de gerenciamento de ativos de US$ 110 trilhões?"
 categories: [ Articles ]
-image: ./Can-Yearn-Disrupt-the-110-Trillion-Asset-Management-Industry/img-Wot_Is_Goin_On.png
+image:
+  src: ./cover.png
+  width: 1280
+  height: 800
+date: '2021-04-07'
 author: Wot_Is_Goin_On
 translator: JKtranslator
 publish: true
@@ -142,7 +146,7 @@ Cada token DeFi tem suas peculiaridades à medida que suas comunidades tentam en
 
 O valor desses tokens aumentou significativamente no último ano, pois o mercado valoriza mais os tokens que representam um sistema financeiro transparente e justo (na medida em que cada carteira é tratada da mesma forma) que está disponível para qualquer pessoa com uma conexão à Internet. Os fluxos de caixa também ajudam.
 
-![](image8.jfif?w=700&h=393)
+![](image8.png?w=700&h=393)
 
 Os protocolos DeFi recentemente ultrapassaram US$ 1 bilhão em receita total (Terminal Token)
 
@@ -299,7 +303,7 @@ O redesenho do vault proposto em YIP-48 já foi implementado, as auditorias fora
 
 A imagem abaixo mostra o vault yvDai ganhando rendimento para depositantes com 6 estratégias em ação ao mesmo tempo (os rótulos das estratégias estão em verde).
 
-![](image17.jfif?w=700&h=925)
+![](image17.png?w=700&h=925)
 
 Seis estratégias em um vault ([https://twitter.com/bantg/status/1377681238249574404?s = 20](https://twitter.com/bantg/status/1377681238249574404?s=20))
 
@@ -331,7 +335,7 @@ Isso aconteceu sem gerenciamento. Nenhum departamento de RH. Sem currículos.
 
 Uma coisa é descrever como Yearn está liderando a inovação em rendimentos ajustados ao risco, mas, em última análise, o setor de gerenciamento de ativos usa uma métrica-chave, que é AUM (TVL em DeFi). Isso aumentou 3x no último trimestre. Com menos de 1% dos ativos na Ethereum, que estão crescendo em um ritmo rápido, ainda há muito espaço para o AUM de Yearn crescer.
 
-![](image20.jfif?w=700&h=501)TVL de Yearn atinge US$ 1,84 bilhão em 31 de março de 2021 - The Block (e banteg)
+![](image20.png?w=700&h=501)TVL de Yearn atinge US$ 1,84 bilhão em 31 de março de 2021 - The Block (e banteg)
 
 **5\. Competição**
 

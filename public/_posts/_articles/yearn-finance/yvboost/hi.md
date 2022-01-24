@@ -2,7 +2,11 @@
 layout: post
 title:  "yvBOOST के साथ आपके लिए अधिक बूस्ट, कंपाउंडिंग और मोहिटोस"
 categories: [ Articles ]
-image: ./thats-boost-folks/image4.png
+image:
+  src: ./cover.png
+  width: 1050
+  height: 543
+date: '2021-09-14'
 author: Qosmonot
 translator: Jengajojo
 publish: true

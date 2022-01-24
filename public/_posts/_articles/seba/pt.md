@@ -2,7 +2,11 @@
 layout: post
 title: "Yearn Finance - Gestão de Ativos Descentralizada"
 categories: [ Articles ]
-image: ./Yearn-Finance-Decentralised-Asset-Management/seba.jpg
+image:
+  src: ./cover.jpg
+  width: 1100
+  height: 736
+date: '2021-06-02'
 author: The Digital Investor
 translator: JKtranslator 
 publish: true
@@ -92,15 +96,15 @@ Usando uma taxa de desconto de 25%, taxa de crescimento terminal de 5%, e dando 
 
 ### Figura 1: Cenário otimista
 
-![alt_text](image1.png "image_tooltip")
+![](image1.png "image_tooltip")
 
 ### Figura 2: Cenário do Caso-Base
 
-![alt_text](image2.png "image_tooltip")
+![](image2.png "image_tooltip")
 
 ### Figura 3: Cenário Conservador
 
-![alt_text](image3.png "image_tooltip")
+![](image3.png "image_tooltip")
 
 ## Riscos
 

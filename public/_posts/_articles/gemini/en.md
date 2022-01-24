@@ -2,7 +2,10 @@
 layout: post
 title:  "Yearn Finance and Money Robots"
 categories: [ Articles ]
-image: ./cover.png
+image:
+  src: ./cover.png
+  width: 1281
+  height: 721
 date: '2021-03-25'
 author: Gemini/Cryptopedia
 translator:
@@ -15,7 +18,7 @@ original publication: [https://www.gemini.com/cryptopedia/yearn-finance-defi-len
 
 Yearn Finance offers a suite of investment strategies powered by robots that contain “wisdom sourced from the crowd” — Yearn’s own community.
 
-![alt_text](image1.png?w=1281&h=721)
+![](image1.png?w=1281&h=721)
 
 ## Summary
 

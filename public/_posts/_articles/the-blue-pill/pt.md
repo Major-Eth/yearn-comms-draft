@@ -2,7 +2,11 @@
 layout: post
 title:  "A Pílula Azul"
 categories: [ Articles ]
-image: ./The-Blue-Pill/bluepill.jpg
+image:
+  src: ./cover.jpg
+  width: 742
+  height: 450
+date: '2021-06-02'
 author: Yearn
 translator: JKtranslator
 publish: true

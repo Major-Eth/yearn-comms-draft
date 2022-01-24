@@ -2,7 +2,11 @@
 layout: post
 title:  "Yearn Finance - 去中心化资产管理"
 categories: [ Articles ]
-image: ./Yearn-Finance-Decentralised-Asset-Management/seba.jpg
+image:
+  src: ./cover.jpg
+  width: 1100
+  height: 736
+date: '2021-06-02'
 author: The Digital Investor
 translator: Bee926
 published: true
@@ -92,15 +96,15 @@ Yearn V1机枪池有不同的费用结构，每次提款都要收费。 而[YIP-
 
 ### Figure 1: 看涨情景
 
-![alt_text](image1.png "image_tooltip")
+![](image1.png "image_tooltip")
 
 ### Figure 2: 基准情景
 
-![alt_text](image2.png "image_tooltip")
+![](image2.png "image_tooltip")
 
 ### Figure 3: 保守情景
 
-![alt_text](image3.png "image_tooltip")
+![](image3.png "image_tooltip")
 
 ## 风险
 

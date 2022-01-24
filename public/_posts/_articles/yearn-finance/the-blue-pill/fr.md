@@ -2,7 +2,11 @@
 layout: post
 title:  "The Blue Pill"
 categories: [ Articles ]
-image: ./The-Blue-Pill/pill-wt-text.png
+image:
+  src: ./cover.png
+  width: 711
+  height: 474
+date: '2021-06-01'
 author: Weaver
 translator: Cryptouf
 publish: true

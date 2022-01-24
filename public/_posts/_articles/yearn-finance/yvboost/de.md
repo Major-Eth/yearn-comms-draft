@@ -2,7 +2,11 @@
 layout: post
 title:  "Mehr Boosts, Compounding und Mojitos mit yvBOOST für dich"
 categories: [ Articles ]
-image: ./thats-boost-folks/image4.png
+image:
+  src: ./cover.png
+  width: 1050
+  height: 543
+date: '2021-09-14'
 author: Qosmonot
 translator: Nesyeth
 publish: true

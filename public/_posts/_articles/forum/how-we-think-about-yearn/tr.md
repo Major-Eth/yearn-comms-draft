@@ -2,7 +2,11 @@
 layout: post
 title:  "Yearn hakkında ne düşünüyoruz"
 categories: [ Articles ]
-image: ./How-we-think-about-Yearn/YFI1.jpeg
+image:
+  src: ./cover.jpeg
+  width: 690
+  height: 472
+date: '2020-10-20'
 author: Yearn DAO Contributors
 translator: Dastronom
 publish: true

@@ -2,7 +2,11 @@
 layout: post
 title:  "yearn.finance UI कि अगली पुनरावृत्ति यहां है"
 categories: [ Articles ]
-image: ./Yearn-UI-v3/image1.png
+image:
+  src: ./cover.png
+  width: 800
+  height: 450
+date: '2021-09-17'
 author: Dudesahn
 translator: Major-Rager
 publish: true

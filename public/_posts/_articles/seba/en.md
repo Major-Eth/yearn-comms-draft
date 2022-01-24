@@ -2,7 +2,10 @@
 layout: post
 title:  "Yearn Finance - Decentralised Asset Management"
 categories: [ Articles ]
-image: ./cover.jpg
+image:
+  src: ./cover.jpg
+  width: 1100
+  height: 736
 date: '2021-06-02'
 author: The Digital Investor
 translator:
@@ -93,15 +96,15 @@ Using a discounting rate of 25%, terminal growth rate of 5%, and giving equal we
 
 ### Figure 1: Bullish scenario
 
-![alt_text](image1.png "image_tooltip")
+![](image1.png "image_tooltip")
 
 ### Figure 2: Base Case Scenario
 
-![alt_text](image2.png "image_tooltip")
+![](image2.png "image_tooltip")
 
 ### Figure 3: Conservative Scenario
 
-![alt_text](image3.png "image_tooltip")
+![](image3.png "image_tooltip")
 
 ## Risks
 

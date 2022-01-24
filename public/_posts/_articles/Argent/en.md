@@ -2,7 +2,10 @@
 layout: post
 title:  "Easily earn with Yearn V2 in Argent"
 categories: [ Articles ]
-image: ./cover.jpg
+image:
+  src: ./cover.jpeg
+  width: 800
+  height: 419
 date: '2021-08-24'
 author: Argent
 translator:

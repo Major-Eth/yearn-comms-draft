@@ -2,7 +2,11 @@
 layout: post
 title:  "使用Argent中的Yearn V2轻松赚取被动收入"
 categories: [ Articles ]
-image: ./easily-earn-with-yearn-v2-in-argent/Image1.jpg
+image:
+  src: ./cover.jpeg
+  width: 800
+  height: 419
+date: '2021-08-24'
 author: Argent
 translator: Bee926
 published: true

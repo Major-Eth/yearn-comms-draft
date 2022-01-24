@@ -2,8 +2,11 @@
 layout: post
 title:  "More boosts, compounding, and mojitos for you with yvBOOST"
 categories: [ Articles ]
-image: ./cover.png
-date: "2021-09-14"
+image:
+  src: ./cover.png
+  width: 1050
+  height: 543
+date: '2021-09-14'
 author: Qosmonot
 translator:
 publish: true

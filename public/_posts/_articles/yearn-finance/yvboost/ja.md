@@ -2,7 +2,11 @@
 layout: post
 title:  "yvBOOSTを使ってより多くのブースト、複利、モヒートを！"
 categories: [ Articles ]
-image: ./thats-boost-folks/image4.png
+image:
+  src: ./cover.png
+  width: 1050
+  height: 543
+date: '2021-09-14'
 author: Qosmonot
 translator: Cripu
 publish: true

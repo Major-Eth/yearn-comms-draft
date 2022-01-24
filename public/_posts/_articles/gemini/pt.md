@@ -2,7 +2,11 @@
 layout: post
 title:  "Yearn Finance e Robôs de Dinheiro"
 categories: [ Articles ]
-image: ./Yearn-Finance-and-Money-Robots/image1.png
+image:
+  src: ./cover.png
+  width: 1281
+  height: 721
+date: '2021-03-25'
 author: Gemini/Cryptopedia
 translator: JKtranslator
 publish: true
@@ -18,7 +22,7 @@ Atualizado em 25 de março, 2021
 
 Yearn Finance oferece um conjunto de estratégias de investimento que utilizam robôs que contém uma “sabedoria vinda da multidão” — a comunidade da Yearn.
 
-![alt_text](image1.png "image_tooltip")
+![](image1.png "image_tooltip")
 
 ## Resumo
 
