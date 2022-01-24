@@ -73,7 +73,6 @@ function Post({path, post, newer, older, allPosts, isListing}) {
 								const height = props.src.match(/h=(\d+)/)?.[1] || 0;
 								return (
 									<Image
-										className={'bg-ygray-600'}
 										quality={95}
 										width={width || 880}
 										objectFit={height + width === 0 ? 'contain' : ''}
