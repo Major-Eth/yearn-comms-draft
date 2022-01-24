@@ -12,6 +12,6 @@ module.exports = ({
 		],
 	},
 	env: {
-		WEBSITE_URI: 'https://vaults.yearn.finance/',
+		WEBSITE_URI: 'https://yearn-comms-blond.vercel.app/',
 	}
 });
