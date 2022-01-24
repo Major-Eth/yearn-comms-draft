@@ -9,7 +9,6 @@ image:
 author: Yearn
 date: '2021-07-30'
 translator: Dastronom
-publish: true
 ---
 
 Bugün sizi Yearn'ın dünü, bugünü ve geleceği için manevi bir rehber olan [The Blue Pill](https://medium.com/iearn/the-blue-pill-ca44ed01f16f) ile Yearn'ın ilk yılını kutlamaya davet ediyoruz. En sadık 13.500 destekçimiz için güzel bir dizgi kitabı var.

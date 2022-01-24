@@ -9,7 +9,6 @@ image:
 date: '2021-08-24'
 author: Argent
 translator: 🤖💵💵💰💰.eth
-publish: true
 ---
 
 # Kiếm tiền dễ dàng với Yearn V2 trong Argent

@@ -9,7 +9,6 @@ image:
 author: Yearn
 date: '2021-08-03'
 translator: Dastronom
-publish: true
 ---
 
 Geçen hafta The Blue Pill kitabını duyurduk ve erken Yearn destekçilerine sınırlı bir NFT serisi aracılığıyla ilk izlenimleri verdik.

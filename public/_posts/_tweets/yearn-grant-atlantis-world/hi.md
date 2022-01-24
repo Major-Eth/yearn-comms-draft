@@ -9,7 +9,6 @@ image:
 date: "2021-08-31"
 author: Yearn
 translator: Major-Rager
-publish: true
 ---
 
 ![](image1.jpg)

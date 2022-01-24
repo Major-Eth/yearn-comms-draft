@@ -9,7 +9,6 @@ image:
 date: "2021-06-30"
 author: Tracheopteryx
 translator: Jengajojo
-publish: true
 ---
 
 लेखक @[tracheopteryx](https://twitter.com/tracheopteryx)

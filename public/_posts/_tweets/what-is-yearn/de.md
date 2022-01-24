@@ -9,7 +9,6 @@ image:
 date: "2021-10-09"
 author: Wot_Is_Goin_On
 translator: Nesyeth
-publish: true
 ---
 
 Originalquelle: [twitter](https://twitter.com/Wot_Is_Goin_On/status/1446540007292952579)

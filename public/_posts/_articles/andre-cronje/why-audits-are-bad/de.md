@@ -8,7 +8,6 @@ image:
   height: 300
 author: Andre
 translator: Nesyeth
-publish: true
 ---
 
 # Audit der Iron Bank Fixed Forex: Warum Audits schlecht sind

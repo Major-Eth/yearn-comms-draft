@@ -9,7 +9,6 @@ image:
 date: '2021-08-24'
 author: Argent
 translator: Dastronom
-publish: true
 ---
 
 # Argent aracılığıyla Yearn v2'de kolayca kazan

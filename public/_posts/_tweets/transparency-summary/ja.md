@@ -9,7 +9,6 @@ image:
 date: "2021-10-05"
 author: Yearn
 translator: Cripu
-publish: true
 ---
 ソース: [twitter](https://twitter.com/iearnfinance/status/1445143482830446600)
 

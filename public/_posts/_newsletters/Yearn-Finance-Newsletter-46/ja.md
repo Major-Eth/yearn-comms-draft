@@ -9,7 +9,6 @@ image:
 author: Yearn
 date: '2021-09-12'
 translator: Cripu
-publish: true
 ---
 
 #### 2021年9月12日までの週次レポート

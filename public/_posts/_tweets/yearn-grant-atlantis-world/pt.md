@@ -8,8 +8,7 @@ image:
   height: 1010
 date: "2021-08-31"
 author: Yearn
-translator:jameskbh
-publish: true
+translator: jameskbh
 ---
 
 fonte: [twitter](https://twitter.com/iearnfinance/status/1432387438014435332)

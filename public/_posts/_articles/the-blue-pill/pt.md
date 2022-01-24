@@ -9,7 +9,6 @@ image:
 date: '2021-06-02'
 author: Yearn
 translator: JKtranslator
-publish: true
 ---
 
 A Pílula Azul

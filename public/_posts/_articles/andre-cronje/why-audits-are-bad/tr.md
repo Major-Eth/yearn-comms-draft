@@ -8,7 +8,6 @@ image:
   height: 300
 author: Andre
 translator: Dastronom
-publish: true
 ---
 
 # Iron Bank Sabit Forex denetimi: Denetimler neden kötü

@@ -9,7 +9,6 @@ image:
 author: Yearn
 date: '2021-07-30'
 translator: JKtranslator
-publish: true
 ---
 
 Hoje convidamos você para celebrar o primeiro ano de Yearn com [The Blue Pill](https://medium.com/iearn/the-blue-pill-ca44ed01f16f), um guia espiritual para o passado, presente e futuro de. Um lindo livro que setá disponível para nossos 13,500 mais leais apoiadores.

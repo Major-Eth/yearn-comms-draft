@@ -9,7 +9,6 @@ image:
 date: "2021-09-10"
 author: Facu
 translator: Cryptouf
-publish: True
 ---
 
 Source: [twitter](https://twitter.com/fameal/status/1424857239505018880)

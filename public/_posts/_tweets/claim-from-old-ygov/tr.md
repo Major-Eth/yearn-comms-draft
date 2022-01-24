@@ -9,7 +9,6 @@ image:
 date: "2021-07-10"
 author: Dudesahn
 translator: Dastronom
-publish: true
 ---
 
 asıl kaynak: [twitter](https://twitter.com/dudesahn/status/1413567068583104512)

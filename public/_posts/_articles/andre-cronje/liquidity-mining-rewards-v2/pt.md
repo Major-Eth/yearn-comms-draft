@@ -8,7 +8,6 @@ image:
   height: 300
 author: Andre
 translator: JKtranslator
-publish: true
 ---
 
 # Recompensas De Mineração de Liquidez v2

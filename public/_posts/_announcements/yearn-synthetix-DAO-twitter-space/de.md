@@ -9,7 +9,6 @@ image:
 author: Yearn
 date: '2021-07-29'
 translator:
-publish: true
 ---
 
 Yearn und Synthetix sprechen über DAO-Governance und Entscheidungsfindung, siehe unten👇

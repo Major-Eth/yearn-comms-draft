@@ -9,7 +9,6 @@ image:
 date: "2021-06-30"
 author: Tracheopteryx
 translator: Nesyeth
-publish: true
 ---
 
 Originalquelle: [twitter](https://twitter.com/tracheopteryx/status/1410243752434753547)

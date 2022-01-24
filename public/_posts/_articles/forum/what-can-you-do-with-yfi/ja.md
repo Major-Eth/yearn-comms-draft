@@ -9,7 +9,6 @@ image:
 date: '2021-05-05'
 author: Dark Ghosty
 translator: Cripu
-publish: true
 ---
 
 # YFIで出来ることはなんですか？

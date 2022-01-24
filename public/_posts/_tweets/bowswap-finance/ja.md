@@ -9,7 +9,6 @@ image:
 date: "2021-09-10"
 author: Facu
 translator: Cripu
-publish: true
 ---
 
 ソース: [twitter](https://twitter.com/fameal/status/1424857239505018880)

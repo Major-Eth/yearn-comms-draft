@@ -8,7 +8,6 @@ image:
   height: 300
 author: Andre
 translator: Dastronom
-publish: true
 ---
 
 # DAO'lar için merkezi olmayan bordro yönetimi

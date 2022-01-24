@@ -9,7 +9,6 @@ image:
 author: Yearn
 date: '2021-10-10'
 translator: RestlessMik3
-publish: true
 ---
 
 # Newsletter #48 de Yearn Finance

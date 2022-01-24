@@ -9,7 +9,6 @@ image:
 date: '2020-10-20'
 author: Yearn DAO Contributors
 translator: Cripu
-publish: true
 ---
 
 # わたしたちにとってのYearnとは

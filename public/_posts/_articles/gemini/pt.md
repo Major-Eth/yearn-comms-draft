@@ -9,7 +9,6 @@ image:
 date: '2021-03-25'
 author: Gemini/Cryptopedia
 translator: JKtranslator
-publish: true
 ---
 
 Escrito por nossos amigos em Gemini & pela [equipe da Cryptopedia](https://www.gemini.com/cryptopedia/authors#cryptopedia-staff)

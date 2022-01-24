@@ -9,7 +9,6 @@ image:
 date: '2021-06-01'
 author: Wot_Is_Goin_On
 translator: Cripu
-publish: true
 ---
 
 # **YearnのDaiボールト —今やトップ20のDeFiプロトコルであることをご存知ですか？**

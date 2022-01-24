@@ -9,7 +9,6 @@ image:
 author: Yearn
 date: '2021-08-26'
 translator: Nesyeth
-publish: true
 ---
 
 # Bowswap.Finance [Aktualisierung](https://t.me/yearnupdates/483)

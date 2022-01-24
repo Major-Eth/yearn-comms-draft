@@ -9,7 +9,6 @@ image:
 date: '2021-09-14'
 author: Qosmonot
 translator: Cripu
-publish: true
 ---
 
 # yvBOOSTを使ってより多くのブースト、複利、モヒートを！

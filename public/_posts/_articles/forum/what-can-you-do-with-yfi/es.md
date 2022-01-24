@@ -9,7 +9,6 @@ image:
 date: '2021-05-05'
 author: Dark Ghosty
 translator: RestlessMik3
-publish: true
 ---
 
 # ¿Qué puedo hacer con YFI?

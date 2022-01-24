@@ -8,7 +8,6 @@ image:
   height: 300
 author: Andre
 translator: Major-Rager
-publish: true
 ---
 
 # पेश है फिक्स्ड फॉरेक्स (USD, EUR, ZAR, JPY, CNY, etc)

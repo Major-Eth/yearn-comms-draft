@@ -9,7 +9,6 @@ image:
 date: "2021-10-05"
 author: Yearn
 translator: Dastronom
-publish: true
 ---
 asıl kaynak: [twitter](https://twitter.com/iearnfinance/status/1445143482830446600)
 

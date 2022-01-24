@@ -8,7 +8,6 @@ image:
   height: 300
 author: Andre
 translator: Cripu
-publish: true
 ---
 
 # DAOのための分散型給与管理

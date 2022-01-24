@@ -9,7 +9,6 @@ image:
 date: '2021-09-14'
 author: Qosmonot
 translator: 🤖💵💵💰💰.eth
-publish: true
 ---
 
 # Thêm hệ số kích, lãi kép và mô-hi-tô cho bạn với yvBOOST

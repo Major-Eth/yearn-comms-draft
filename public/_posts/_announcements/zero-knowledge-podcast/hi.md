@@ -9,7 +9,6 @@ image:
 author: Yearn
 date: '2021-05-05'
 translator: jengajojo
-publish: true
 ---
 
 हमारे अपने [@tracheopteryx](https://twitter.com/tracheopteryx) और [@fameal](https://twitter.com/fameal) हाल ही में ज़ीरो नॉलेज पॉडकास्ट पर यर्न के इतिहास, विकसित होते शासन, और अधिक!

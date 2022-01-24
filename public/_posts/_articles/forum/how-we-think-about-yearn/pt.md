@@ -9,7 +9,6 @@ image:
 date: '2020-10-20'
 author: Yearn DAO Contributors
 translator: JKtranslator
-publish: true
 ---
 
 # O pensamos sobre Yearn

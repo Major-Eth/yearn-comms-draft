@@ -8,7 +8,6 @@ image:
   height: 300
 author: Andre
 translator: Cripu
-publish: true
 ---
 
 # Fixed Forexの紹介 (USD, EUR, ZAR, JPY, CNY, etc)

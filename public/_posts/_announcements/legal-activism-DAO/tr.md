@@ -9,7 +9,6 @@ image:
 author: LexPunk DAO
 date: '2021-08-03'
 translator: Dastronom
-publish: true
 ---
 
 ![](/_posts/_announcements/legal-activism-DAO/1.jpg?w=800&h=450)

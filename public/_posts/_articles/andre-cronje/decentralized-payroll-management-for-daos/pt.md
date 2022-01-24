@@ -8,7 +8,6 @@ image:
   height: 300
 author: Andre
 translator: JKtranslator
-publish: true
 ---
 
 # Gerenciamento descentralizado da folha de pagamento para DAOs

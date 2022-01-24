@@ -9,7 +9,6 @@ image:
 author: Yearn
 date: '2021-09-26'
 translator: 🤖💵💵💰💰.eth
-publish: true
 ---
 
 # Bản tin Yearn.Finance Số #47

@@ -9,7 +9,6 @@ image:
 date: "2021-07-22"
 author: Dudesahn
 translator: jameskbh
-publish: true
 ---
 
 fonte: [twitter](https://twitter.com/dudesahn/status/1417898521685078016)

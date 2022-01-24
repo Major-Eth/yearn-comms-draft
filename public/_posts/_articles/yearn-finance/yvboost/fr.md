@@ -9,7 +9,6 @@ image:
 date: '2021-09-14'
 author: Qosmonot
 translator: Cryptouf
-publish: true
 ---
 
 # Plus de boosts, rendements composés et mojitos avec le yvBOOST.

@@ -9,7 +9,6 @@ image:
 date: "2021-09-10"
 author: Facu
 translator: 🤖💵💵💰💰.eth
-publish: true
 ---
 
 Tác giả: @[Facu](https://twitter.com/fameal)

@@ -9,7 +9,6 @@ image:
 date: '2021-06-01'
 author: Weaver
 translator: Cryptouf
-publish: true
 ---
 
 # The Blue Pill

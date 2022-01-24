@@ -9,7 +9,6 @@ image:
 date: '2021-08-24'
 author: Argent
 translator: Major-Rager
-publish: true
 ---
 
 # Argent में यर्न v2 के साथ आसानी से कमाएं

@@ -9,7 +9,6 @@ image:
 date: '2021-08-24'
 author: Argent
 translator: JKTranslator
-publish: true
 ---
 
 # Rendimento Fácil com V2 no Argent

@@ -9,7 +9,6 @@ image:
 date: '2021-04-07'
 author: Wot_Is_Goin_On
 translator: JKtranslator
-publish: true
 ---
 
 # Pode Yearn ser disruptivo no setor de gerenciamento de ativos de US$ 110 trilhões?

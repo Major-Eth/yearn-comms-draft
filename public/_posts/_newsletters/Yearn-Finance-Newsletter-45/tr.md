@@ -9,7 +9,6 @@ image:
 author: Yearn
 date: '2021-09-07'
 translator: Dastronom
-publish: true
 ---
 
 # Yearn Finance Haber Bülteni #45

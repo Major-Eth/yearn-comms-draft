@@ -9,7 +9,6 @@ image:
 author: Andre
 date: '2021-07-02'
 translator:
-publish: true
 ---
 
 # Introducing Fixed Forex (USD, EUR, ZAR, JPY, CNY, etc)

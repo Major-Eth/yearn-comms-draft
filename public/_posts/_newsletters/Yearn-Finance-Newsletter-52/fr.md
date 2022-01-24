@@ -9,7 +9,6 @@ image:
 author: Yearn
 date: '2022-01-02'
 translator: Cryptouf
-publish: true
 ---
 
 ### Semaine du 2 Janvier, 2022

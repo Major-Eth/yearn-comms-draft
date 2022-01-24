@@ -9,7 +9,6 @@ image:
 date: "2021-08-12"
 author: Storm Blessed
 translator: Cripu
-publish: true
 ---
 
 ソース: [twitter](https://twitter.com/storming0x/status/1436851219864059906)

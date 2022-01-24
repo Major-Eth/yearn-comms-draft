@@ -9,7 +9,6 @@ image:
 date: '2021-09-17'
 author: Dudesahn
 translator: Major-Rager
-publish: true
 ---
 
 # यर्न UI v3.0

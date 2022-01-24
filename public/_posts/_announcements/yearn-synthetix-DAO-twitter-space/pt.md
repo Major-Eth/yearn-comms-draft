@@ -9,7 +9,6 @@ image:
 author: Yearn
 date: '2021-07-29'
 translator: jameskbh
-publish: true
 ---
 
 Yearn e Synthetix conversam sobre governança de DAOs e tomada de decisão, confira abaixo👇

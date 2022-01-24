@@ -9,7 +9,6 @@ image:
 author: Yearn
 date: '2021-09-12'
 translator: Stathis
-publish: true
 ---
 
 #### Εβδομάδα Σεπτεμβρίου 12, 2021

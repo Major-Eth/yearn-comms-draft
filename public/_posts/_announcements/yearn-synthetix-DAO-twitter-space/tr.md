@@ -9,7 +9,6 @@ image:
 author: Yearn
 date: '2021-07-29'
 translator: Dastronom
-publish: true
 ---
 
 Yearn ve Synthetix, DAO yönetişimi ve karar alma hakkında konuşuyor, aşağıdaki linkten ulaşabilirsiniz👇

@@ -9,7 +9,6 @@ image:
 author: Yearn
 date: '2021-09-12'
 translator: Major-Rager
-publish: true
 ---
 
 # यर्न फाइनेंस समाचार पत्र #४६ 

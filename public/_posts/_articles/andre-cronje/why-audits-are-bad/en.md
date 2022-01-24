@@ -9,7 +9,6 @@ image:
 date: '2021-08-03'
 author: Andre
 translator:
-publish: true
 ---
 
 # Iron Bank Fixed Forex audit: Why audits are bad

@@ -9,7 +9,6 @@ image:
 date: '2021-06-01'
 author: Wot_Is_Goin_On
 translator: Dastronom
-publish: true
 ---
 
 # **Yearn's Dai Vault — artık en iyi 20 DeFi protokolünden biri olduğunu biliyor muydunuz?**

@@ -9,7 +9,6 @@ image:
 date: '2021-09-14'
 author: Qosmonot
 translator: Dastronom
-publish: true
 ---
 
 # yvBOOST Kullanarak Pasif Verim elde etmek

@@ -9,7 +9,6 @@ image:
 author: Yearn
 date: '2021-09-30'
 translator: Dastronom
-publish: true
 ---
 
 ![](/_posts/_announcements/updated-YFIstats-dashboards/1.jpg?w=1280&h=707)

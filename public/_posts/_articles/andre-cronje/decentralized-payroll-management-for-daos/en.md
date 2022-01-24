@@ -9,7 +9,6 @@ image:
 date: '2021-03-31'
 author: Andre
 translator:
-publish: true
 ---
 
 # Decentralized payroll management for DAOs

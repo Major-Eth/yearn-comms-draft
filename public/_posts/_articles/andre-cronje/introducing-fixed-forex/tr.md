@@ -8,7 +8,6 @@ image:
   height: 300
 author: Andre
 translator: Dastronom
-publish: true
 ---
 
 # Sabit Forex (USD, EUR, ZAR, JPY, CNY, etc) Tanıtımı

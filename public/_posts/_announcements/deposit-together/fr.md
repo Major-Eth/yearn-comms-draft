@@ -8,7 +8,6 @@ image:
 author: Yearn
 date: '2021-11-01'
 translator: Cryptouf
-publish: true
 ---
 
 # Présentation de Deposit Together (Dépôser Ensemble): économisez plus de 80% de frais de dépots sur yearn.finance… 💥

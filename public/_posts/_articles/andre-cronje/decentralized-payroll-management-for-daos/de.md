@@ -8,7 +8,6 @@ image:
   height: 300
 author: Andre
 translator: Nesyeth
-publish: true
 ---
 
 # Dezentralisierte Lohnabrechnung für DAOs

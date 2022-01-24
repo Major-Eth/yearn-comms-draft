@@ -9,7 +9,6 @@ image:
 date: '2021-09-17'
 author: Dudesahn
 translator: Dastronom
-publish: true
 ---
 
 # Yearn Kullanıcı Arayüzü v3.0

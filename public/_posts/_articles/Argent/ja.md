@@ -9,7 +9,6 @@ image:
 date: '2021-08-24'
 author: Argent
 translator: Cripu
-publish: true
 ---
 
 # ArgentのYearn v2で簡単に稼ごう

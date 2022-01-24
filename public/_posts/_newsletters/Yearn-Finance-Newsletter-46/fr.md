@@ -9,7 +9,6 @@ image:
 author: Yearn
 date: '2021-09-12'
 translator: Cryptouf
-publish: true
 ---
 
 #### Semaine du 12 Septembre, 2021 

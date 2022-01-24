@@ -9,7 +9,6 @@ image:
 author: Yearn
 date: '2021-09-07'
 translator: Cripu
-publish: true
 ---
 
 ![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/cover.jpeg?w=880&h=440)

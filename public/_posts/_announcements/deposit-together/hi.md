@@ -9,7 +9,6 @@ image:
 author: Yearn
 date: '2021-11-01'
 translator: Major-Rager
-publish: true
 ---
 
 घोषणा...💥

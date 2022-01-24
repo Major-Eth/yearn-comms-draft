@@ -9,7 +9,6 @@ image:
 author: Yearn
 date: '2021-12-22'
 translator:
-publish: true
 ---
 
 ### Week Ending December 19th, 2021

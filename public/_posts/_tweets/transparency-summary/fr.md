@@ -9,7 +9,6 @@ image:
 date: "2021-10-05"
 author: Yearn
 translator: Cryptouf
-publish: true
 ---
 
 source originale: [twitter](https://twitter.com/iearnfinance/status/1445143482830446600)

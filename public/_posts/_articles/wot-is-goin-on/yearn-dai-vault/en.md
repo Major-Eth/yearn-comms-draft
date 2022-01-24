@@ -9,7 +9,6 @@ image:
 date: '2021-06-01'
 author: Wot_Is_Goin_On
 translator:
-publish: true
 ---
 
 # **Yearn’s Dai Vault —did you know it’s now a top 20 DeFi protocol?**

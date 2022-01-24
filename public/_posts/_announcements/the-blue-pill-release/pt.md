@@ -9,7 +9,6 @@ image:
 author: Yearn
 date: '2021-08-03'
 translator: jameskbh
-publish: true
 ---
 
 Na semana passada nós anunciamos o livro A Pílula Azul e demos aos primeiros usuários de Yearn uma primeira visualização através de uma série de NFTs exclusivos.

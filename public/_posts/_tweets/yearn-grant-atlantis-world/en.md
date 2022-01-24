@@ -9,7 +9,6 @@ image:
 date: "2021-08-31"
 author: Yearn
 translator:
-publish: true
 ---
 
 original source: [twitter](https://twitter.com/iearnfinance/status/1432387438014435332)

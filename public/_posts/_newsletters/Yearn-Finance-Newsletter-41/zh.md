@@ -9,7 +9,6 @@ image:
 author: Yearn
 date: '2021-07-20'
 translator: Bee926
-publish: true
 ---
 
 # Yearn 最新动态 #41

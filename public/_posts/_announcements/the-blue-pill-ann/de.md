@@ -9,7 +9,6 @@ image:
 author: Yearn
 date: '2021-07-30'
 translator: Nesyeth
-publish: true
 ---
 
 Heute laden wir dich ein, das erste Jahr von Yearn mit [Die blaue Pille](https://medium.com/iearn/the-blue-pill-ca44ed01f16f), zu feiern, einem spirituellen Leitfaden für die Vergangenheit, Gegenwart und Zukunft von Yearn. Unsere 13.500 treuesten Unterstützer erhalten ein wunderschönes Buch.

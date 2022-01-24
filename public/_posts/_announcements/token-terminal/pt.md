@@ -9,7 +9,6 @@ image:
 author: Yearn
 date: '2021-09-03'
 translator: JKtranslator
-publish: true
 ---
 
 ![](/_posts/_announcements/token-terminal/1.jpg?w=812&h=247)

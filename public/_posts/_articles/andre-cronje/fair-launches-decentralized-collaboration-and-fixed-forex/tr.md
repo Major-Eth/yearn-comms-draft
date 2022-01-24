@@ -5,7 +5,6 @@ categories: [ Articles ]
 image: ./Fair-launches-decentralized-collaboration-and-Fixed-Forex/andre-hero.png
 author: Andre
 translator: Dastronom
-publish: true
 ---
 
 # Adil lansmanlar, merkezi olmayan işbirliği ve Sabit Forex

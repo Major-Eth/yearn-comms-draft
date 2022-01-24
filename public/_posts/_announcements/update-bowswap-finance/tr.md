@@ -9,7 +9,6 @@ image:
 author: Yearn
 date: '2021-08-26'
 translator: Dastronom
-publish: true
 ---
 
 # Bowswap.Finance [Güncel](https://t.me/yearnupdates/483)

@@ -9,7 +9,6 @@ image:
 date: '2020-10-20'
 author: Yearn DAO Contributors
 translator: Major-Rager
-publish: true
 ---
 
 # हमारा यर्न के प्रति दृष्टिकोन

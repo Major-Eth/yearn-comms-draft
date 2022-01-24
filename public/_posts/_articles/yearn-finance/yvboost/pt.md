@@ -9,7 +9,6 @@ image:
 date: '2021-09-14'
 author: Qosmonot
 translator: JKtranslator
-publish: true
 ---
 
 # Mais incentivos, juros compostos e mojitos para você com yvBOOST

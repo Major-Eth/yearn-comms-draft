@@ -9,7 +9,6 @@ image:
 author: Yearn
 date: '2021-07-20'
 translator: 🤖💵💵💰💰.eth
-publish: true
 ---
 
 ![](/_posts/_newsletters/Yearn-Finance-Newsletter-41/image1.jpg

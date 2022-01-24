@@ -9,7 +9,6 @@ image:
 date: '2021-09-17'
 author: Dudesahn
 translator: Cripu
-publish: true
 ---
 
 # Yearn UI v3.0

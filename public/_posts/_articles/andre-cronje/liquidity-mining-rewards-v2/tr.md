@@ -8,7 +8,6 @@ image:
   height: 300
 author: Andre
 translator: Dastronom
-publish: true
 ---
 
 # Likidite sağlayıcı ödülleri v2

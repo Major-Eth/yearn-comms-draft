@@ -9,7 +9,6 @@ image:
 author: Yearn
 date: '2021-07-21'
 translator: Dastronom
-publish: true
 ---
 
 ![](/_posts/_announcements/what-do-i-need-to-write-a-strategy/cover.jpg)

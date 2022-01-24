@@ -9,7 +9,6 @@ image:
 author: Yearn
 date: '2021-09-12'
 translator: Nesyeth
-publish: true
 ---
 
 #### Woche bis 12. September 2021

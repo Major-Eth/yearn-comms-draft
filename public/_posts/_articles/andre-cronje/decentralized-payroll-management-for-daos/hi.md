@@ -8,7 +8,6 @@ image:
   height: 300
 author: Andre
 translator: Major-Rager
-publish: true
 ---
 
 # DAO के लिए विकेन्द्रीकृत पेरोल प्रबंधन

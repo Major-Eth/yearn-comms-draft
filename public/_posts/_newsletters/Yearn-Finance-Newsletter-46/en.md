@@ -9,7 +9,6 @@ image:
 author: Yearn
 date: '2021-09-12'
 translator:
-publish: true
 ---
 
 #### Week Ending September 12th, 2021

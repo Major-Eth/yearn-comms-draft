@@ -8,7 +8,6 @@ image:
   height: 300
 author: Andre
 translator: Major-Rager
-publish: true
 ---
 
 

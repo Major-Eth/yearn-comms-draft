@@ -9,7 +9,6 @@ image:
 author: Yearn
 date: '2021-07-20'
 translator: Stathis
-publish: true
 ---
 
 ![](/_posts/_newsletters/Yearn-Finance-Newsletter-41/cover.jpeg?w=880&h=440)

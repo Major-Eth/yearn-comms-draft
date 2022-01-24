@@ -9,7 +9,6 @@ image:
 date: '2021-07-21'
 author: Andre
 translator:
-publish: true
 ---
 
 # Fair launches, decentralized collaboration, and Fixed Forex

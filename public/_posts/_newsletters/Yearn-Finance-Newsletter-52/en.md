@@ -9,7 +9,6 @@ image:
 author: Yearn
 date: '2022-01-02'
 translator:
-publish: true
 ---
 ### Week Ending January 2nd, 2022
 

@@ -8,7 +8,6 @@ image:
   height: 300
 author: Andre
 translator: JKtranslator
-publish: true
 ---
 
 # Auditoria do Fixed Forex do Iron Bank: Por que as auditorias são ruins

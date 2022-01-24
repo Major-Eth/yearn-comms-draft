@@ -9,7 +9,6 @@ image:
 author: Yearn
 date: '2021-11-14'
 translator: Xiaona
-publish: true
 ---
 
 # Yearn Finance 最新动态 #49

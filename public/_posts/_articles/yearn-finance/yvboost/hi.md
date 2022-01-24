@@ -9,7 +9,6 @@ image:
 date: '2021-09-14'
 author: Qosmonot
 translator: Jengajojo
-publish: true
 ---
 
 # yvBOOST के साथ आपके लिए अधिक बूस्ट, कंपाउंडिंग और मोहिटोस 

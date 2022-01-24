@@ -9,7 +9,6 @@ image:
 date: '2021-06-02'
 author: The Digital Investor
 translator: Dastronom
-publish: true
 ---
 
 ## Yearn Finance - Merkezi Olmayan Varlık Yönetimi

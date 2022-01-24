@@ -9,7 +9,6 @@ image:
 author: Yearn
 date: '2021-09-26'
 translator: Jengajojo
-publish: true
 ---
 
 # यर्न फाइनेंस समाचार पत्र #४७

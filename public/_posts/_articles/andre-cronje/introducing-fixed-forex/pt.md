@@ -8,7 +8,6 @@ image:
   height: 300
 author: Andre
 translator: JKtranslator
-publish: true
 ---
 
 # Introduzindo Fixed Forex (USD, EUR, ZAR, JPY, CNY, etc)

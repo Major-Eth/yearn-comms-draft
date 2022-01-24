@@ -9,7 +9,6 @@ image:
 date: '2021-06-01'
 author: Wot_Is_Goin_On
 translator: JKtranslator
-publish: true
 ---
 
 # **Dai Vault de Yearn - você sabia que agora ele é um dos 20 principais protocolos DeFi?**

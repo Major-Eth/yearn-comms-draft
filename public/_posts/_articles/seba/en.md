@@ -9,7 +9,6 @@ image:
 date: '2021-06-02'
 author: The Digital Investor
 translator:
-publish: true
 ---
 
 ## Yearn Finance – Decentralised Asset Management

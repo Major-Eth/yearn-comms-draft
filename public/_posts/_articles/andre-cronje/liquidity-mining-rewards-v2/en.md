@@ -9,7 +9,6 @@ image:
 date: '2021-08-15'
 author: Andre
 translator:
-publish: true
 ---
 
 # Liquidity Mining Rewards v2

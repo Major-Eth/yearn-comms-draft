@@ -9,7 +9,6 @@ image:
 date: '2021-09-14'
 author: Qosmonot
 translator: Nesyeth
-publish: true
 ---
 
 # Mehr Boosts, Compounding und Mojitos mit yvBOOST für dich

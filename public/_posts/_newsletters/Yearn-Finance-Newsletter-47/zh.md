@@ -9,7 +9,6 @@ image:
 author: Yearn
 date: '2021-09-26'
 translator: Bee926
-publish: true
 ---
 # Yearn Finance 最新动态 #47
 

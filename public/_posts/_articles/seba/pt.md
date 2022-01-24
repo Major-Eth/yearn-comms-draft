@@ -9,7 +9,6 @@ image:
 date: '2021-06-02'
 author: The Digital Investor
 translator: JKtranslator 
-publish: true
 ---
 
 ## Yearn Finance - Gestão de Ativos Descentralizada
