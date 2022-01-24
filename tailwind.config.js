@@ -21,7 +21,8 @@ module.exports = {
 			red: colors.red,
 			white: colors.white,
 			black: colors.black,
-			yblue: '#0657F9',
+			slate: colors.slate,
+			yblue: '#1e67f9',
 			fadeWhite: '#F2F2F2',
 			ygray: {
 				'50': '#F5F5F5',
@@ -35,13 +36,13 @@ module.exports = {
 				'900': '#363636',
 			},
 			dark: {
-				900: '#181B21',
-				600: '#1C2028',
+				900: '#0f172a',
+				600: '#141e37',
 				500: '#1E1E1E',
 				400: '#21252E',
 				200: '#535353',
 				100: '#5d6e8f',
-				50: '#8B8D90',
+				50: 'rgba(255,255,255,0.7)',
 				white: 'rgba(255,255,255,0.9)',
 			},
 		},
@@ -77,6 +78,18 @@ module.exports = {
 						'h4': {color: '#333333'},
 						'h5': {color: '#333333'},
 						'p': {color: '#333333'},
+						'--tw-prose-links': '#0657F9'
+					},
+				},
+				yblueDark: {
+					css: {
+						'a': {color: '#0657F9'},
+						'h1': {color: '#F2F2F2'},
+						'h2': {color: '#F2F2F2'},
+						'h3': {color: '#F2F2F2'},
+						'h4': {color: '#F2F2F2'},
+						'h5': {color: '#F2F2F2'},
+						'p': {color: '#F2F2F2'},
 						'--tw-prose-links': '#0657F9'
 					},
 				},

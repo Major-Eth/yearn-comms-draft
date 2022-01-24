@@ -50,7 +50,7 @@ function Post({path, post, newer, older, allPosts, isListing}) {
 					</div>
 				</Link>: <div />}
 			</div>
-			<article className={'w-full p-4 bg-white'}>
+			<article className={'w-full p-4 bg-white dark:bg-dark-600 rounded-sm'}>
 				<div className={'flex flex-col mb-6'}>
 					<p className={'text-xs text-ygray-300 pb-6'}>
 						{`${new Date(post?.date || '').toLocaleDateString('en-us', {weekday:'long', year:'numeric', month:'short', day:'numeric'})} | Written by ${post?.author || 'Yearn'}${post?.translator ? ` | Translated by ${post?.translator || 'Yearn'}` : ''}`}
@@ -59,9 +59,18 @@ function Post({path, post, newer, older, allPosts, isListing}) {
 						className={'text-ygray-100 dark:text-white font-bold whitespace-pre-line font-title text-2xl'}
 						dangerouslySetInnerHTML={{__html: parseMarkdown(post?.title || '')}} />
 				</div>
-				<div className={'prose w-full max-w-full space-y-6 mb-8 prose-yblue text-ygray-200 dark:text-dark-50'}>
+				<div className={'prose w-full max-w-full space-y-6 mb-8 text-slate-500 dark:text-slate-400'}>
 					<ReactMarkdown
 						components={{
+							a: ({...props}) => <a {...props} target={'_blank'} rel={'noopener noreferrer'} className={'text-yblue hover:underline'} />,
+							h1: ({...props}) => <h1 {...props} className={'text-ygray-200 dark:text-dark-white'} />,
+							h2: ({...props}) => <h2 {...props} className={'text-ygray-200 dark:text-dark-white'} />,
+							h3: ({...props}) => <h3 {...props} className={'text-ygray-200 dark:text-dark-white'} />,
+							h4: ({...props}) => <h4 {...props} className={'text-ygray-200 dark:text-dark-white'} />,
+							h5: ({...props}) => <h5 {...props} className={'text-ygray-200 dark:text-dark-white'} />,
+							h6: ({...props}) => <h6 {...props} className={'text-ygray-200 dark:text-dark-white'} />,
+							b: ({...props}) => <b {...props} className={'text-ygray-200 dark:text-dark-white'} />,
+							strong: ({...props}) => <strong {...props} className={'text-ygray-200 dark:text-dark-white'} />,
 							img: ({...props}) => {
 								const	srcStartWithHttp = props.src.startsWith('http');
 								const	srcStartWithHttps = props.src.startsWith('https');
@@ -142,7 +151,7 @@ export async function getStaticProps({params, locale}) {
 	return {
 		props: {
 			post,
-			path: `${params.path}/${params.slug[0]}`,
+			path: params.slug.length > 1 ? `${params.path}/${params.slug[0]}` : params.path,
 			newer: newer || null,
 			older: older || null
 		},
@@ -154,8 +163,9 @@ export async function getStaticPaths() {
 		'announcements',
 		'newsletters',
 		'podcasts',
+		'tweets',
 		'financials',
-		'articles'
+		'articles',
 	];
 	const paths = [];
 

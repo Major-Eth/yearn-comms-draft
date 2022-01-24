@@ -16,6 +16,7 @@ export const getStaticProps = async ({locale, params}) => {
 		'announcements': [''],
 		'newsletters': [''],
 		'podcasts': [''],
+		'tweets': [''],
 		'financials': ['', 'quarterly-report'],
 		'articles': ['', 'andre-cronje', 'forum', 'wot-is-goin-on', 'yearn-finance'],
 	};
@@ -55,6 +56,7 @@ export async function getStaticPaths() {
 		allPaths.push({params: {path: 'podcasts'}, locale: code});
 		allPaths.push({params: {path: 'financials'}, locale: code});
 		allPaths.push({params: {path: 'articles'}, locale: code});
+		allPaths.push({params: {path: 'tweets'}, locale: code});
 	});
 	return {
 		paths: allPaths,

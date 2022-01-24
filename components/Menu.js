@@ -25,13 +25,8 @@ function	MenuItems() {
 		<div className={'w-64.5'}>
 			<MenuItem
 				className={'mb-2 md:mb-4'}
-				label={common['menu-main']}
-				condition={router.asPath === '/'}
-				href={'/'} />
-			<MenuItem
-				className={'mb-2 md:mb-4'}
 				label={common['menu-announcements']}
-				condition={router.asPath.startsWith('/announcements')}
+				condition={router.asPath.startsWith('/announcements') || router.asPath === '/'}
 				href={'/announcements'} />
 			<MenuItem
 				className={'mb-2 md:mb-4'}
@@ -39,7 +34,7 @@ function	MenuItems() {
 				condition={router.asPath.startsWith('/newsletters')}
 				href={'/newsletters'} />
 			<MenuItem
-				className={'mb-2 md:mb-4'}
+				className={'mb-2 md:mb-4 text-ygray-400 dark:text-dark-200'}
 				label={common['menu-articles']}
 				condition={
 					router.asPath.startsWith('/articles')
@@ -76,17 +71,7 @@ function	MenuItems() {
 					href={'/articles/yearn-finance'} />
 			</div>
 			<MenuItem
-				className={'mb-2 md:mb-4'}
-				label={common['menu-tweets']}
-				condition={router.asPath.startsWith('/tweets')}
-				href={'/tweets'} />
-			<MenuItem
-				className={'mb-2 md:mb-4'}
-				label={common['menu-podcasts']}
-				condition={router.asPath.startsWith('/podcasts')}
-				href={'/podcasts'} />
-			<MenuItem
-				className={'mb-2 md:mb-4'}
+				className={'mb-2 md:mb-4 text-ygray-400 dark:text-dark-200'}
 				label={common['menu-financials']}
 				condition={
 					router.asPath.startsWith('/financials')
@@ -101,8 +86,17 @@ function	MenuItems() {
 					condition={router.asPath.startsWith('/financials/quarterly-report')}
 					href={'/financials/quarterly-report'} />
 			</div>
+			<MenuItem
+				className={'mb-2 md:mb-4'}
+				label={common['menu-tweets']}
+				condition={router.asPath.startsWith('/tweets')}
+				href={'/tweets'} />
+			<MenuItem
+				label={common['menu-podcasts']}
+				condition={router.asPath.startsWith('/podcasts')}
+				href={'/podcasts'} />
 			
-			<div className={'text-ygray-200 dark:text-dark-50 cursor-pointer relative w-full'}>
+			<div className={'text-ygray-200 dark:text-dark-50 cursor-pointer relative w-full mt-12'}>
 				<a href={'https://yearn.finance'} target={'_blank'} rel={'noreferrer'}>
 					{common['menu-go-to-app']}
 				</a>
@@ -203,7 +197,7 @@ function	Menu() {
 				</div>
 			</div>
 			<div className={'absolute -right-1 top-0 z-10 hidden md:block inset-y-0'}>
-				<div className={'w-0.5 h-full bg-ygray-500 dark:bg-dark-500'} />
+				<div className={'w-0.5 h-full bg-ygray-500 dark:bg-dark-600'} />
 			</div>
 			<div className={`w-full inset-x-0 transition-max-height duration-500 overflow-hidden bg-white dark:bg-dark-900 fixed ${isExpandedAnimation ? 'max-h-max shadow-sm' : 'max-h-0'}`}>
 				{isExpanded ? (

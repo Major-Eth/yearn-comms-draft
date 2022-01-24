@@ -2,7 +2,7 @@ import os
 import json
 from PIL import Image 
 
-folder_images = "./public/_posts/_articles"
+folder_images = "./public/_posts/_tweets"
 result = "filter \"**/*.md\"\n\n"
 
 for dirpath, dirnames, filenames in os.walk(folder_images):

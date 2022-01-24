@@ -12,8 +12,8 @@ function	Template({path, allPosts}) {
 						{(allPosts || []).map((post) => (
 							<div className={'break-inside mb-4'} key={post.slug}>
 								<Link href={`/${path}/${post.slug}`}>
-									<div className={'w-full bg-white cursor-pointer hover:shadow-md transition-shadow'}>
-										<div className={'border-b border-ygray-500 flex w-full'}>
+									<div className={'w-full bg-white dark:bg-dark-600 rounded-sm cursor-pointer overflow-hidden'}>
+										<div className={'border-b border-ygray-500 dark:border-dark-400 flex w-full'}>
 											<Image
 												src={post?.image?.src || '/default.jpeg'}
 												quality={90}
@@ -23,13 +23,15 @@ function	Template({path, allPosts}) {
 												width={post?.image?.width || 800}
 												height={post?.image?.height || 445} />
 										</div>
-										<div className={'bg-white p-4'}>
+										<div className={'p-4'}>
 											<div className={'flex flex-row justify-between w-full mb-2'}>
-												<p className={'text-xs text-ygray-300'}>{`by ${post?.author || 'Yearn'}`}</p>
-												<p className={'text-xs text-ygray-300'}>{`${post?.date}`}</p>
+												<p className={'text-xs text-ygray-300 dark:text-dark-50'}>{`by ${post?.author || 'Yearn'}`}</p>
+												<p className={'text-xs text-ygray-300 dark:text-dark-50'}>
+													{`${new Date(post?.date || '').toLocaleDateString('en-us', {weekday:'long', year:'numeric', month:'short', day:'numeric'})}`}
+												</p>
 											</div>
 											<h2
-												className={'text-ygray-100 text-2xl font-bold font-title'}
+												className={'text-ygray-100 dark:text-white text-2xl font-bold font-title'}
 												dangerouslySetInnerHTML={{__html: parseMarkdownUnset(post?.title || '')}} />
 										</div>
 									</div>

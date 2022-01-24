@@ -1,39 +1,40 @@
-import	React				from	'react';
-import	Link				from	'next/link';
-import	IconYearn			from	'components/icons/IconYearn';
-import	useLocalization		from	'contexts/useLocalization';
-import	{parseMarkdown}		from	'utils';
+import	React					from	'react';
+import	{listAllPosts}			from	'utils/content';
+import	TemplateList			from	'components/TemplateList';
 
-function	Index() {
-	const	{common} = useLocalization();
-
+function	Index({path, allPosts}) {
 	return (
-		<section>
-			<div className={'w-full mt-10 md:mt-20 pt-2'}>
-				<div className={'flex flex-col'}>
-					<div className={'mb-8'}>
-						<IconYearn />
-					</div>
-					<h1
-						className={'text-4xl md:text-6xl text-ygray-100 dark:text-white font-bold whitespace-pre-line mb-8'}
-						dangerouslySetInnerHTML={{__html: parseMarkdown(common['overview-title'])}} />
-					<div className={'max-w-xl mb-8'}>
-						<p
-							className={'text-ygray-200 dark:text-dark-50 whitespace-pre-line inline'}
-							dangerouslySetInnerHTML={{__html: parseMarkdown(common['overview-description'])}}>
-						</p>
-					</div>
-					<div className={'self-center md:self-auto'}>
-						<Link href={'/yearn-and-curve'}>
-							<button className={'text-white bg-yblue py-2 px-5 font-bold text-sm text-center md:text-left'} style={{width: 279}}>
-								{common['overview-button']}
-							</button>
-						</Link>
-					</div>
-				</div>
-			</div>
-		</section>
+		<TemplateList path={path} allPosts={allPosts} />
 	);
 }
 
 export default Index;
+
+export const getStaticProps = async ({locale}) => {
+	const _allPosts = listAllPosts(
+		'_announcements',
+		[''],
+		locale
+	);
+	const	col1 = [];
+	const	col2 = [];
+	const	col3 = [];
+	for (let index = 0; index < _allPosts.length; index += 3) {
+		let		rIndex = index;
+		if (_allPosts[rIndex]) {
+			col1.push(_allPosts[rIndex]);
+		}
+		if (_allPosts[rIndex + 1]) {
+			col2.push(_allPosts[rIndex + 1]);
+		}
+		if (_allPosts[rIndex + 2]) {
+			col3.push(_allPosts[rIndex + 2]);
+		}
+	}
+	return {
+		props: {
+			allPosts: [...col1, ...col2, ...col3],
+			path: 'announcements'
+		},
+	};
+};

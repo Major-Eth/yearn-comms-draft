@@ -2,12 +2,11 @@ import fs from 'fs';
 import {join} from 'path';
 import matter from 'gray-matter';
 
-export function getPostSlugs(dir, subdir) {
+export function getPostSlugs(dir) {
 	const postsDirectory = join(process.cwd(), `public/_posts/${dir}`);
 	const dirContent = fs.readdirSync(`${postsDirectory}`);
 	const toRet = [];
 	for (let index = 0; index < dirContent.length; index++) {
-		// toRet.push(`${subdir ? `${subdir}/` : ''}${dirContent[index]}`);
 		toRet.push(dirContent[index]);
 	}
 	return (toRet);
@@ -111,17 +110,8 @@ export function getAllPosts(
 ) {
 	let	slugs = [];
 	for (let index = 0; index < paths.length; index++) {
-		slugs.push(
-			...getPostSlugs(
-				`${dir}/${paths[index]}`,
-				paths[index]
-			)
-		);
+		slugs.push(...getPostSlugs(`${dir}/${paths[index]}`));
 	}
-	// const	arr = [ 'quarterly-report', 'quarterly-report/2021-Q2' ];
-
-	// newDir should be dir with all elems of array but the last
-	// const slugs = getPostSlugs(dir);
 	const posts = slugs
 		.map((slug) => (
 			getPostBySlug(dir, slug, fields, locale, withFallback))
@@ -130,10 +120,6 @@ export function getAllPosts(
 		.sort((post1, post2) => (post1.date > post2?.date ? -1 : 1));
 	return posts;
 }
-
-
-
-
 
 function getPostSlugsList(dir, subdir) {
 	const postsDirectory = join(process.cwd(), `public/_posts/${dir}`);
@@ -171,14 +157,6 @@ export function listAllPosts(
 	return posts;
 }
 
-
-
-
-
-
-
-
-
 export function _getSlugs(dir, locale, withFallback) {
 	const postsDirectory = join(process.cwd(), `public/_posts/${dir}`);
 	const dirContent = fs.readdirSync(postsDirectory);
@@ -193,9 +171,6 @@ export function _getSlugs(dir, locale, withFallback) {
 			if (withFallback)
 				slugs.push(`${subDir}/en.md`);
 		} else {
-			//HANDLE SUBFOLDERS
-			// slugs.push(`${subDir}/`);
-
 			const subDirContent = fs.readdirSync(`${postsDirectory}/${subDir}`);
 			for (let jindex = 0; jindex < subDirContent.length; jindex++) {
 				const subsubDir = subDirContent[jindex];
