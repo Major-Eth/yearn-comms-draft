@@ -30,7 +30,7 @@ Welcome to the 53th edition of the Yearn Finance Newsletter. Our aim with this n
 
 # Transparency at Yearn
 
-![](image2.jpg)
+![](./image2.jpg)
 
 # More transparency. More alpha.
 
