@@ -30,7 +30,7 @@ Welcome to the 53th edition of the Yearn Finance Newsletter. Our aim with this n
 
 # Transparency at Yearn
 
-![](./image2.jpg)
+![](./image2.jpg?w=550&h=366)
 
 # More transparency. More alpha.
 
@@ -46,7 +46,7 @@ Read more about the tools here. Thanks to @0xMajor, @KoxEvan, and DarkGhosty for
 
 # Yearn Web Updates
 
-![](./image3.jpg)
+![](./image3.jpg?w=550&h=449)
 
 In an effort to increase transparency, several contributors to Yearn's web ecosystem have started a newsletter that will collect new features, ongoing issues, and planned updates, in addition to periodic deep-dives on the web tech stack.
 
