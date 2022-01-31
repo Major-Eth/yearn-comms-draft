@@ -46,7 +46,7 @@ Read more about the tools here. Thanks to @0xMajor, @KoxEvan, and DarkGhosty for
 
 # Yearn Web Updates
 
-![](image3.jpg)
+![](./image3.jpg)
 
 In an effort to increase transparency, several contributors to Yearn's web ecosystem have started a newsletter that will collect new features, ongoing issues, and planned updates, in addition to periodic deep-dives on the web tech stack.
 
