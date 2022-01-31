@@ -45,7 +45,7 @@ En savoir plus sur les outils [ici](https://twitter.com/iearnfinance/status/1479
 
 # Mises à jour de Yearn Web
 
-![](image3.png)
+![](./image3.jpg)
 
 Dans le but d'accroître la transparence, plusieurs contributeurs de l'écosystème Web de Yearn ont lancé une newsletter qui regroupera les nouvelles fonctionnalités, les problèmes en cours et les mises à jour planifiées, en plus des de description périodiques approfondies du "tech stack".
 
