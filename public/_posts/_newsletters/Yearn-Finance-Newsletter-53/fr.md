@@ -13,7 +13,7 @@ translator: Cryptouf
 
 ### Semaine du 9 Janvier, 2022
 
-![](./image1.jpg)
+![](./image1.jpg?w=1100&h=554)
 
 Bienvenue à la 53e édition de la Newsletter Yearn Finance. Notre objectif avec cette newsletter est de tenir la communauté Yearn, et plus généralement la communauté crypto, au courant des dernières nouvelles, y compris les lancements de produits, les changements de gouvernance et les mises à jour de l'écosystème. Si vous souhaitez en savoir plus sur Yearn Finance, suivez nos comptes [Twitter](https://twitter.com/iearnfinance) et [Medium](https://medium.com/iearn) officiels.
 
@@ -29,7 +29,8 @@ Bienvenue à la 53e édition de la Newsletter Yearn Finance. Notre objectif avec
 
 
 # La transparence chez Yearn
-![](./image2.jpg)
+
+![](./image2.jpg?w=550&h=366)
 
 # Plus de transparence. Plus d'alpha.
 
@@ -45,7 +46,7 @@ En savoir plus sur les outils [ici](https://twitter.com/iearnfinance/status/1479
 
 # Mises à jour de Yearn Web
 
-![](./image3.jpg)
+![](./image3.jpg?w=550&h=449)
 
 Dans le but d'accroître la transparence, plusieurs contributeurs de l'écosystème Web de Yearn ont lancé une newsletter qui regroupera les nouvelles fonctionnalités, les problèmes en cours et les mises à jour planifiées, en plus des de description périodiques approfondies du "tech stack".
 
