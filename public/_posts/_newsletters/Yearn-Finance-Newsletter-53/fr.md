@@ -29,7 +29,7 @@ Bienvenue à la 53e édition de la Newsletter Yearn Finance. Notre objectif avec
 
 
 # La transparence chez Yearn
-![](image2.png)
+![](./image2.jpg)
 
 # Plus de transparence. Plus d'alpha.
 
