@@ -8,7 +8,6 @@ image:
   height: 500
 author: Yearn
 translator: Dastronom
-publish: true
 ---
 
 # Yearn Finance Üç Aylık Rapor

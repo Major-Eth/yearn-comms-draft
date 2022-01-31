@@ -8,7 +8,6 @@ image:
   height: 500
 author: Yearn
 translator: Cripu
-publish: true
 ---
 
 # Yearn Finance 四半期報告書

@@ -8,7 +8,6 @@ image:
   height: 500
 author: Yearn
 translator: 🤖💵💵💰💰.eth
-publish: true
 ---
 
 # Báo cáo Tài chính Hàng Quý của Yearn Finance

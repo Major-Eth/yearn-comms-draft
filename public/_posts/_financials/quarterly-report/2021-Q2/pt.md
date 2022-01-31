@@ -8,7 +8,6 @@ image:
   height: 500
 author: Yearn
 translator: JKtranslator
-publish: true
 ---
 
 # Yearn Finance Relatório Trimestral

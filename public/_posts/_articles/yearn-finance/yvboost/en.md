@@ -9,7 +9,6 @@ image:
 date: '2021-09-14'
 author: Qosmonot
 translator:
-publish: true
 ---
 
 # More boosts, compounding, and mojitos for you with yvBOOST

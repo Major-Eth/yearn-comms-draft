@@ -9,7 +9,6 @@ image:
 date: '2021-05-05'
 author: Dark Ghosty
 translator:
-publish: true
 ---
 
 # What can you do with YFI?

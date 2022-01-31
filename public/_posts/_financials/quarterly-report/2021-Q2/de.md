@@ -8,7 +8,6 @@ image:
   height: 500
 author: Yearn
 translator: Jeffor12
-publish: true
 ---
 
 # Yearn Finance Quartalsbericht 

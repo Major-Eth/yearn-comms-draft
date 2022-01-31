@@ -28,17 +28,25 @@ export const getStaticProps = async ({locale, params}) => {
 	const	col1 = [];
 	const	col2 = [];
 	const	col3 = [];
-	for (let index = 0; index < _allPosts.length; index += 3) {
-		let		rIndex = index;
-		if (_allPosts[rIndex]) {
-			col1.push(_allPosts[rIndex]);
+	let		currentCol = 1;
+	// console.log(_allPosts);
+	for (let index = 0; index < _allPosts.length; index++) {
+		if (currentCol === 1) {
+			col1.push(_allPosts[index]);
+			currentCol = 2;
+		} else if (currentCol === 2) {
+			col2.push(_allPosts[index]);
+			currentCol = 3;
+		} else if (currentCol === 3) {
+			col3.push(_allPosts[index]);
+			currentCol = 1;
 		}
-		if (_allPosts[rIndex + 1]) {
-			col2.push(_allPosts[rIndex + 1]);
-		}
-		if (_allPosts[rIndex + 2]) {
-			col3.push(_allPosts[rIndex + 2]);
-		}
+	}
+	if (col1.length > col2.length) {
+		col2.push(null);
+	}
+	if (col1.length > col3.length) {
+		col3.push(null);
 	}
 	return {
 		props: {

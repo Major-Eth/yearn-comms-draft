@@ -8,7 +8,6 @@ image:
   height: 500
 author: Yearn
 translator: Japzar
-publish: true
 ---
 
 # Informe Trimestral de Yearn Finance

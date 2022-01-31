@@ -9,7 +9,6 @@ image:
 date: '2021-03-25'
 author: Gemini/Cryptopedia
 translator:
-publish: true
 ---
 
 original publication: [https://www.gemini.com/cryptopedia/yearn-finance-defi-lending-protocol](https://www.gemini.com/cryptopedia/yearn-finance-defi-lending-protocol)

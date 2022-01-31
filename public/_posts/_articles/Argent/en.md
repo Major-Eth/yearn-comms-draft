@@ -9,7 +9,6 @@ image:
 date: '2021-08-24'
 author: Argent
 translator:
-publish: true
 ---
 
 # Easily earn with Yearn v2 in Argent
