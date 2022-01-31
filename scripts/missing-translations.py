@@ -40,5 +40,5 @@ for name in pathNames:
 print('-----------------------------------------------------  ')
 print('## Missing translations:  ')
 for key, value in missingCount.items():
-    print(key + ': ' + str(value)+ '  ')
+    print('- ' + key + ': ' + str(value)+ '  ')
 print('-----------------------------------------------------  ')
