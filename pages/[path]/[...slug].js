@@ -74,8 +74,11 @@ function Post({path, post, newer, older, allPosts, isListing}) {
 							img: ({...props}) => {
 								const	srcStartWithHttp = props.src.startsWith('http');
 								const	srcStartWithHttps = props.src.startsWith('https');
+								const	srcStartWithDotSlash = props.src.startsWith('./');
 								const	srcStartWithSlash = props.src.startsWith('/');
-								if (!srcStartWithHttp && !srcStartWithHttps && !srcStartWithSlash) {
+								if (!srcStartWithHttp && !srcStartWithHttps && srcStartWithDotSlash) {
+									props.src = `/_posts/_${router.asPath.substring(1)}/${props.src.replace('./', '')}`;
+								} else if (!srcStartWithHttp && !srcStartWithHttps && !srcStartWithSlash) {
 									props.src = `/_posts/_${router.asPath.substring(1)}/${props.src}`;
 								}
 								const width = props.src.match(/w=(\d+)/)?.[1] || 0;
