@@ -8,7 +8,7 @@ image:
   height: 288
 author: Yearn
 date: '2021-12-22'
-translator: Cryptouf
+translator: Major-Rager
 ---
 
 # यर्न फाइनेंस समाचार पत्र #५१
