@@ -37,8 +37,8 @@ for name in pathNames:
             missingCount[el] += 1
             print('- [ ] ' + el)
         print('')
-print('-----------------------------------------------------')
-print('Missing translations:')
+print('-----------------------------------------------------  ')
+print('## Missing translations:  ')
 for key, value in missingCount.items():
-    print(key + ': ' + str(value))
-print('-----------------------------------------------------')
+    print(key + ': ' + str(value)+ '  ')
+print('-----------------------------------------------------  ')
