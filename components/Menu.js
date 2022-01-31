@@ -10,7 +10,7 @@ function	MenuItem({label, condition, href, className, height = 'h-6'}) {
 		<Link href={href}>
 			<div className={`${condition ? 'text-yblue font-bold' : 'text-ygray-200 dark:text-dark-50'} cursor-pointer relative w-full ${className}`}>
 				{label}
-				<div className={'absolute top-0 z-20 hidden md:block'} style={{right: 4}}>
+				<div className={'hidden absolute top-0 z-20 md:block'} style={{right: 4}}>
 					<div className={`w-1 ${height} bg-yblue rounded-sm ${condition ? 'opacity-100' : 'opacity-0'}`} />
 				</div>
 			</div>
@@ -34,7 +34,7 @@ function	MenuItems() {
 				condition={router.asPath.startsWith('/newsletters')}
 				href={'/newsletters'} />
 			<MenuItem
-				className={'mb-2 md:mb-4 text-ygray-400 dark:text-dark-200'}
+				className={'mb-2 text-ygray-400 dark:text-dark-200 md:mb-4'}
 				label={common['menu-articles']}
 				condition={
 					router.asPath.startsWith('/articles')
@@ -48,7 +48,7 @@ function	MenuItems() {
 					!router.asPath.startsWith('/articles/yearn-finance')
 				}
 				href={'/articles'} />
-			<div className={'ml-4 space-y-2 md:space-y-4 mb-4 md:mb-8'}>
+			<div className={'mb-4 ml-4 space-y-2 md:mb-8 md:space-y-4'}>
 				<MenuItem
 					className={'mb-2 md:mb-4'}
 					label={common['menu-articles-forum']}
@@ -71,7 +71,7 @@ function	MenuItems() {
 					href={'/articles/yearn-finance'} />
 			</div>
 			<MenuItem
-				className={'mb-2 md:mb-4 text-ygray-400 dark:text-dark-200'}
+				className={'mb-2 text-ygray-400 dark:text-dark-200 md:mb-4'}
 				label={common['menu-financials']}
 				condition={
 					router.asPath.startsWith('/financials')
@@ -79,7 +79,7 @@ function	MenuItems() {
 					!router.asPath.startsWith('/financials/quarterly-report')
 				}
 				href={'/financials'} />
-			<div className={'ml-4 space-y-2 md:space-y-4 mb-4 md:mb-8'}>
+			<div className={'mb-4 ml-4 space-y-2 md:mb-8 md:space-y-4'}>
 				<MenuItem
 					className={'mb-4 md:mb-8'}
 					label={common['menu-financials-quarterly-report']}
@@ -96,7 +96,7 @@ function	MenuItems() {
 				condition={router.asPath.startsWith('/podcasts')}
 				href={'/podcasts'} />
 			
-			<div className={'text-ygray-200 dark:text-dark-50 cursor-pointer relative w-full mt-12'}>
+			<div className={'relative mt-12 w-full text-ygray-200 dark:text-dark-50 cursor-pointer'}>
 				<a href={'https://yearn.finance'} target={'_blank'} rel={'noreferrer'}>
 					{common['menu-go-to-app']}
 				</a>
@@ -140,14 +140,14 @@ function	Menu() {
 	}, [router.asPath]);
 
 	return (
-		<nav className={'w-full md:w-64.5 px-4 md:px-0 bg-white dark:bg-dark-900 md:dark:bg-dark-900 md:bg-opacity-0 shadow-sm md:shadow-none fixed md:relative z-50'}>
-			<div className={'relative w-full h-full md:fixed md:w-64.5 z-20'}>
-				<div className={'relative w-full h-full flex flex-col'}>
+		<nav className={'fixed z-50 px-4 w-full bg-white dark:bg-dark-900 shadow-sm md:relative md:px-0 md:w-64.5 md:bg-white/0 md:dark:bg-dark-900 md:shadow-none'}>
+			<div className={'relative z-20 w-full h-full md:fixed md:w-64.5'}>
+				<div className={'flex relative flex-col w-full h-full'}>
 					<div className={'flex flex-row justify-between items-center'}>
 						<Link href={'/'}>
 							<h1
 								ref={head}
-								className={'text-ygray-100 dark:text-white font-bold mb-6 md:mb-10 pt-6 md:pt-8 cursor-pointer'}>
+								className={'pt-6 mb-6 font-bold text-ygray-100 dark:text-white cursor-pointer md:pt-8 md:mb-10'}>
 								<span className={'text-yblue'}>{'Yearn'}</span>
 								{' Blog'}
 							</h1>
@@ -156,7 +156,7 @@ function	Menu() {
 						<div className={'block md:hidden'}>
 							<select
 								value={language}
-								className={'m-0 mr-1 px-3 py-2 items-center cursor-pointer whitespace-nowrap border border-solid border-ygray-500 dark:border-dark-600 text-xs bg-white dark:bg-dark-600 font-semibold text-ygray-700 dark:text-dark-50 pr-7 flex'}
+								className={'flex items-center py-2 px-3 pr-7 m-0 mr-1 text-xs font-semibold text-ygray-700 dark:text-dark-50 whitespace-nowrap bg-white dark:bg-dark-600 border border-ygray-500 dark:border-dark-600 border-solid cursor-pointer'}
 								onChange={e => set_language(e.target.value)}>
 								{Object.values(LOCALES).map((lang, index) => (
 									<option className={'cursor-pointer'} key={index} value={lang.code}>{lang.symbol}</option>
@@ -164,16 +164,16 @@ function	Menu() {
 							</select>
 						</div>
 
-						<svg aria-hidden={'true'} className={'block md:hidden text-yblue w-6 h-6'} role={'img'} xmlns={'http://www.w3.org/2000/svg'} viewBox={'0 0 448 512'} onClick={onExpand}><path fill={'currentColor'} d={'M0 96C0 78.33 14.33 64 32 64H416C433.7 64 448 78.33 448 96C448 113.7 433.7 128 416 128H32C14.33 128 0 113.7 0 96zM0 256C0 238.3 14.33 224 32 224H416C433.7 224 448 238.3 448 256C448 273.7 433.7 288 416 288H32C14.33 288 0 273.7 0 256zM416 448H32C14.33 448 0 433.7 0 416C0 398.3 14.33 384 32 384H416C433.7 384 448 398.3 448 416C448 433.7 433.7 448 416 448z'}></path></svg>
+						<svg aria-hidden={'true'} className={'block w-6 h-6 text-yblue md:hidden'} role={'img'} xmlns={'http://www.w3.org/2000/svg'} viewBox={'0 0 448 512'} onClick={onExpand}><path fill={'currentColor'} d={'M0 96C0 78.33 14.33 64 32 64H416C433.7 64 448 78.33 448 96C448 113.7 433.7 128 416 128H32C14.33 128 0 113.7 0 96zM0 256C0 238.3 14.33 224 32 224H416C433.7 224 448 238.3 448 256C448 273.7 433.7 288 416 288H32C14.33 288 0 273.7 0 256zM416 448H32C14.33 448 0 433.7 0 416C0 398.3 14.33 384 32 384H416C433.7 384 448 398.3 448 416C448 433.7 433.7 448 416 448z'}></path></svg>
 					</div>
 					<div className={'hidden md:block'}>
 						<MenuItems />
 					</div>
-					<div className={'hidden md:flex mt-auto mb-10 flex-row items-center justify-between'}>
-						<div className={'flex space-x-4 flex-row items-center'}>
+					<div className={'hidden flex-row justify-between items-center mt-auto mb-10 md:flex'}>
+						<div className={'flex flex-row items-center space-x-4'}>
 							<select
 								value={language}
-								className={'m-0 mr-1 px-3 py-2 items-center cursor-pointer whitespace-nowrap border border-solid border-ygray-500 dark:border-dark-600 text-xs bg-white dark:bg-dark-600 font-semibold text-ygray-700 dark:text-dark-50 pr-7 flex'}
+								className={'flex items-center py-2 px-3 pr-7 m-0 mr-1 text-xs font-semibold text-ygray-700 dark:text-dark-50 whitespace-nowrap bg-white dark:bg-dark-600 border border-ygray-500 dark:border-dark-600 border-solid cursor-pointer'}
 								onChange={(e) => {
 									router.push(router.asPath, router.asPath, {locale: e.target.value});
 									set_language(e.target.value);
@@ -184,7 +184,7 @@ function	Menu() {
 							</select>
 							
 						</div>
-						<div className={'flex space-x-4 flex-row items-center mr-8'}>
+						<div className={'flex flex-row items-center mr-8 space-x-4'}>
 							<svg
 								onClick={switchTheme}
 								className={`text-ygray-100 dark:text-white hover:opacity-100 transition-opacity cursor-pointer w-4 h-4 opacity-20 ${theme === 'dark' ? 'hidden' : ''}`} role={'img'} xmlns={'http://www.w3.org/2000/svg'} viewBox={'0 0 512 512'}><path fill={'currentColor'} d={'M32 256c0-123.8 100.3-224 223.8-224c11.36 0 29.7 1.668 40.9 3.746c9.616 1.777 11.75 14.63 3.279 19.44C245 86.5 211.2 144.6 211.2 207.8c0 109.7 99.71 193 208.3 172.3c9.561-1.805 16.28 9.324 10.11 16.95C387.9 448.6 324.8 480 255.8 480C132.1 480 32 379.6 32 256z'}></path></svg>
@@ -196,12 +196,12 @@ function	Menu() {
 					</div>
 				</div>
 			</div>
-			<div className={'absolute -right-1 top-0 z-10 hidden md:block inset-y-0'}>
+			<div className={'hidden absolute inset-y-0 -right-1 z-10 md:block'}>
 				<div className={'w-0.5 h-full bg-ygray-500 dark:bg-dark-600'} />
 			</div>
 			<div className={`w-full inset-x-0 transition-max-height duration-500 overflow-hidden bg-white dark:bg-dark-900 fixed ${isExpandedAnimation ? 'max-h-max shadow-sm' : 'max-h-0'}`}>
 				{isExpanded ? (
-					<div className={'block md:hidden px-6 relative'}>
+					<div className={'block relative px-6 md:hidden'}>
 						<MenuItems />
 						<div className={'absolute top-0 right-5'}>
 							<svg

@@ -39,27 +39,27 @@ function Post({path, post, newer, older, allPosts, isListing}) {
 			<div className={'flex flex-row justify-between py-6'}>
 				{newer ? <Link href={`/${path}/${newer?.slug}`}>
 					<div className={'flex flex-row'}>
-						<Chevron className={'transform rotate-180'} />
-						<p className={'text-yblue cursor-pointer text-xs ml-1'}>{(newer?.title || '')?.replace(/~~/g, '')}</p>
+						<Chevron className={'rotate-180'} />
+						<p className={'ml-1 text-xs text-yblue cursor-pointer'}>{(newer?.title || '')?.replace(/~~/g, '')}</p>
 					</div>
 				</Link> : <div />}
 				{older ? <Link href={`/${path}/${older?.slug}`}>
 					<div className={'flex flex-row'}>
-						<p className={'text-yblue cursor-pointer text-xs mr-1'}>{(older?.title || '')?.replace(/~~/g, '')}</p>
+						<p className={'mr-1 text-xs text-yblue cursor-pointer'}>{(older?.title || '')?.replace(/~~/g, '')}</p>
 						<Chevron />
 					</div>
 				</Link>: <div />}
 			</div>
-			<article className={'w-full p-4 bg-white dark:bg-dark-600 rounded-sm'}>
+			<article className={'p-4 w-full bg-white dark:bg-dark-600 rounded-sm'}>
 				<div className={'flex flex-col mb-6'}>
-					<p className={'text-xs text-ygray-300 pb-6'}>
+					<p className={'pb-6 text-xs text-ygray-300'}>
 						{`${new Date(post?.date || '').toLocaleDateString('en-us', {weekday:'long', year:'numeric', month:'short', day:'numeric'})} | Written by ${post?.author || 'Yearn'}${post?.translator ? ` | Translated by ${post?.translator || 'Yearn'}` : ''}`}
 					</p>
 					<h1
-						className={'text-ygray-100 dark:text-white font-bold whitespace-pre-line font-title text-2xl'}
+						className={'font-title text-2xl font-bold text-ygray-100 dark:text-white whitespace-pre-line'}
 						dangerouslySetInnerHTML={{__html: parseMarkdown(post?.title || '')}} />
 				</div>
-				<div className={'prose w-full max-w-full space-y-6 mb-8 text-slate-500 dark:text-slate-400'}>
+				<div className={'mb-8 space-y-6 w-full max-w-full text-slate-500 dark:text-slate-400 prose'}>
 					<ReactMarkdown
 						components={{
 							a: ({...props}) => <a {...props} target={'_blank'} rel={'noopener noreferrer'} className={'text-yblue hover:underline'} />,

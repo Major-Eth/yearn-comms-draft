@@ -68,16 +68,16 @@ function	AppWrapper(props) {
 					site: '@iearnfinance',
 					cardType: 'summary_large_image',
 				}} />
-			<main id={'app'} className={'relative flex flex-col md:flex-row max-w-6xl mx-auto'} style={{minHeight: '100vh'}}>
+			<main id={'app'} className={'flex relative flex-col mx-auto max-w-6xl md:flex-row'} style={{minHeight: '100vh'}}>
 				<Menu />
-				<div className={'px-6 md:px-0 md:ml-10 w-full md:w-235.5 md:max-w-235.5 mb-16 pt-10 md:pt-0 pb-12 relative'}>
+				<div className={'relative px-6 pt-10 pb-12 mb-16 w-full md:px-0 md:pt-0 md:ml-10 md:w-235.5 md:max-w-235.5'}>
 					<Component
 						key={router.route}
 						element={props.element}
 						router={props.router}
 						{...pageProps} />
-					<div className={'absolute -bottom-12 md:-bottom-6 text-center left-0 right-0 flex justify-center items-center'}>
-						<div className={'divide-x-0 md:divide-x divide-ygray-700 divide-opacity-20 grid grid-cols-3 gap-3 md:flex flex-row flex-wrap items-center justify-center'}>
+					<div className={'flex absolute inset-x-0 -bottom-12 justify-center items-center text-center md:-bottom-6'}>
+						<div className={'grid flex-row flex-wrap grid-cols-3 gap-3 justify-center items-center divide-x-0 divide-ygray-700 md:flex md:divide-x divide-opacity-20'}>
 
 							<a href={'https://github.com/yearn/yearn-vaults-descriptions'} target={'_blank'} rel={'noreferrer'} className={`${footerClassName} pr-0 md:pr-2`}>
 								{'Github'}

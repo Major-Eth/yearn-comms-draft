@@ -11,7 +11,6 @@ function	Template({path, allPosts}) {
 					<div className={'mb-8 masonry sm:masonry-sm md:masonry-md'}>
 						{(allPosts || []).map((post, index) => {
 							if (!post) {
-								console.log(post);
 								return (
 									<div className={'mb-4 break-inside'} key={index}>
 										<div className={'overflow-hidden w-full bg-white dark:bg-dark-600 rounded-sm cursor-pointer'}>
